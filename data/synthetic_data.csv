@@ -1,0 +1,1001 @@
+Medicine ID,Order ID,Name,Description,Batch Number,Order Date,Quantity of Order,Current Stage,Current Stage Location,Days in Current Stage,Expiry Date,Days to Expiry,Retailer Location,Distributor Location,Manufacturer Location,Raw Material Supplier Location,Stock at Distributor,Stock Status,Sales Quantity,Sale Date
+M-1000,O-36543,Paracetamol,Relieves fever & mild to moderate pain.,B-8687,2024-03-18,59890,Ret,Ahmedabad,28,2025-11-24,347.0,Ahmedabad,Kolkata,Bangalore,Chennai,0,,7810.0,2024-04-13
+M-1010,O-38487,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9177,2023-10-12,42900,Ret,Bangalore,9,2024-09-21,-82.0,Bangalore,Mumbai,Delhi,Jaipur,0,,2030.0,2024-01-10
+M-1013,O-45805,Montelukast,Prevents asthma & seasonal allergies.,B-3849,2022-09-15,61150,Ret,Hyderabad,16,2023-10-22,-417.0,Hyderabad,Lucknow,Pune,Bangalore,0,,8460.0,2023-11-27
+M-1004,O-99847,Azithromycin,Antibiotic for bacterial infections.,B-7574,2020-05-21,50930,Dis,Delhi,29,2021-11-05,-1133.0,Pune,Delhi,Delhi,Chennai,48755,Understock,,2021-12-22
+M-1013,O-57228,Montelukast,Prevents asthma & seasonal allergies.,B-9176,2022-10-02,67070,RMS,Hyderabad,802,2023-07-06,,Lucknow,Jaipur,Pune,Hyderabad,0,,,2023-12-20
+M-1014,O-61441,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7104,2024-09-26,50180,Dis,Kolkata,29,2027-08-27,988.0,Bangalore,Kolkata,Jaipur,Lucknow,5058,Understock,,2024-12-05
+M-1008,O-64985,Dolo 650,Brand of paracetamol for pain & fever.,B-8720,2020-12-02,80340,Dis,Pune,5,2023-08-03,-497.0,Kolkata,Pune,Chennai,Jaipur,4424,Understock,,2021-05-23
+M-1004,O-78366,Azithromycin,Antibiotic for bacterial infections.,B-8934,2023-03-21,83160,Ret,Lucknow,10,2023-11-07,-401.0,Lucknow,Ahmedabad,Delhi,Mumbai,0,,6410.0,2024-06-23
+M-1002,O-19143,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3307,2023-10-28,75190,RMS,Lucknow,411,2025-08-22,,Delhi,Hyderabad,Hyderabad,Lucknow,0,,,2024-06-28
+M-1004,O-49718,Azithromycin,Antibiotic for bacterial infections.,B-9999,2023-08-27,54700,Dis,Mumbai,8,2026-04-02,476.0,Bangalore,Mumbai,Delhi,Pune,2348,Understock,,2024-06-03
+M-1014,O-24599,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3389,2023-06-12,29860,Dis,Jaipur,13,2026-02-13,428.0,Bangalore,Jaipur,Ahmedabad,Lucknow,6285,Understock,,2024-07-02
+M-1014,O-81639,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4089,2020-09-29,51900,RMS,Hyderabad,1535,2021-06-30,,Chennai,Jaipur,Hyderabad,Hyderabad,0,,,2023-07-22
+M-1003,O-44895,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3327,2021-04-22,70160,Ret,Mumbai,15,2023-06-21,-540.0,Mumbai,Hyderabad,Hyderabad,Mumbai,0,,8860.0,2022-08-23
+M-1004,O-80144,Azithromycin,Antibiotic for bacterial infections.,B-5001,2023-09-12,57270,RMS,Jaipur,457,2024-05-07,,Hyderabad,Mumbai,Chennai,Jaipur,0,,,2024-05-26
+M-1009,O-43895,Cefixime,Antibiotic for respiratory and UTI infections.,B-7947,2023-03-01,75670,Man,Mumbai,15,2024-04-26,-230.0,Pune,Hyderabad,Mumbai,Pune,0,,,2024-10-26
+M-1010,O-58540,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1972,2023-12-19,30420,RMS,Chennai,359,2026-07-08,,Delhi,Ahmedabad,Ahmedabad,Chennai,0,,,2024-06-04
+M-1004,O-57746,Azithromycin,Antibiotic for bacterial infections.,B-8102,2020-08-13,17090,Dis,Chennai,17,2022-09-16,-818.0,Chennai,Chennai,Jaipur,Mumbai,1606,Understock,,2021-11-06
+M-1006,O-14861,Omeprazole,Treats GERD and other stomach issues.,B-9117,2021-07-19,55450,Dis,Ahmedabad,27,2023-04-22,-600.0,Delhi,Ahmedabad,Mumbai,Chennai,20412,Understock,,2023-12-28
+M-1000,O-54685,Paracetamol,Relieves fever & mild to moderate pain.,B-7439,2021-04-25,73040,Ret,Mumbai,11,2023-08-27,-473.0,Mumbai,Chennai,Ahmedabad,Ahmedabad,0,,8000.0,2023-10-03
+M-1002,O-14445,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7801,2022-01-14,44280,Man,Jaipur,12,2023-11-26,-382.0,Pune,Jaipur,Jaipur,Jaipur,0,,,2023-04-11
+M-1006,O-93805,Omeprazole,Treats GERD and other stomach issues.,B-5018,2020-04-15,85090,Dis,Bangalore,14,2021-12-12,-1096.0,Bangalore,Bangalore,Hyderabad,Mumbai,32410,Optimal,,2023-02-04
+M-1000,O-35756,Paracetamol,Relieves fever & mild to moderate pain.,B-1695,2021-09-09,48180,Man,Kolkata,8,2022-09-25,-809.0,Jaipur,Hyderabad,Kolkata,Chennai,0,,,2024-06-27
+M-1006,O-79843,Omeprazole,Treats GERD and other stomach issues.,B-9864,2021-11-18,10020,RMS,Bangalore,1120,2022-05-24,,Kolkata,Pune,Lucknow,Bangalore,0,,,2022-02-26
+M-1007,O-43521,Cetirizine,Antihistamine for allergy symptoms.,B-8976,2020-04-28,4910,RMS,Mumbai,1689,2021-10-05,,Kolkata,Bangalore,Mumbai,Mumbai,0,,,2020-05-09
+M-1013,O-18578,Montelukast,Prevents asthma & seasonal allergies.,B-7064,2022-02-06,86600,Ret,Jaipur,1,2025-01-23,42.0,Jaipur,Ahmedabad,Hyderabad,Ahmedabad,0,,7440.0,2022-07-02
+M-1013,O-45411,Montelukast,Prevents asthma & seasonal allergies.,B-6109,2022-02-06,55780,Dis,Delhi,1,2024-06-25,-170.0,Jaipur,Delhi,Lucknow,Mumbai,10747,Understock,,2024-04-09
+M-1006,O-45760,Omeprazole,Treats GERD and other stomach issues.,B-9106,2023-10-17,83300,Dis,Chennai,18,2024-12-02,-10.0,Mumbai,Chennai,Bangalore,Delhi,37700,Optimal,,2024-03-15
+M-1011,O-86266,Pantoprazole,Treats stomach & esophagus problems.,B-6965,2024-06-22,96700,Ret,Chennai,19,2027-06-11,911.0,Chennai,Hyderabad,Delhi,Ahmedabad,0,,7440.0,2024-10-29
+M-1006,O-49721,Omeprazole,Treats GERD and other stomach issues.,B-4547,2023-10-12,24080,Dis,Jaipur,14,2025-03-31,109.0,Ahmedabad,Jaipur,Delhi,Mumbai,22716,Understock,,2024-06-08
+M-1003,O-33495,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2471,2020-12-25,28670,Man,Chennai,3,2023-10-27,-412.0,Mumbai,Lucknow,Chennai,Pune,0,,,2023-03-26
+M-1004,O-45189,Azithromycin,Antibiotic for bacterial infections.,B-8549,2021-10-10,94690,Ret,Lucknow,16,2022-08-01,-864.0,Lucknow,Ahmedabad,Hyderabad,Delhi,0,,8680.0,2021-11-24
+M-1006,O-62938,Omeprazole,Treats GERD and other stomach issues.,B-2489,2021-11-04,58010,Ret,Jaipur,13,2023-01-04,-708.0,Jaipur,Chennai,Kolkata,Mumbai,0,,7510.0,2023-11-06
+M-1009,O-29609,Cefixime,Antibiotic for respiratory and UTI infections.,B-5398,2023-01-29,29090,Man,Chennai,3,2023-10-17,-422.0,Chennai,Delhi,Chennai,Chennai,0,,,2023-02-15
+M-1013,O-94129,Montelukast,Prevents asthma & seasonal allergies.,B-3898,2022-10-07,81200,RMS,Pune,797,2025-09-11,,Jaipur,Bangalore,Mumbai,Pune,0,,,2024-06-10
+M-1010,O-82352,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2723,2020-10-16,58644,Dis,Delhi,22,2022-08-02,-863.0,Pune,Delhi,Lucknow,Hyderabad,8133,Understock,,2020-11-24
+M-1009,O-39445,Cefixime,Antibiotic for respiratory and UTI infections.,B-7358,2023-01-26,93630,RMS,Ahmedabad,686,2025-07-26,,Delhi,Lucknow,Bangalore,Ahmedabad,0,,,2024-04-19
+M-1004,O-80717,Azithromycin,Antibiotic for bacterial infections.,B-4222,2023-12-19,99730,Ret,Jaipur,18,2026-03-10,453.0,Jaipur,Ahmedabad,Kolkata,Chennai,0,,7180.0,2024-10-31
+M-1007,O-19860,Cetirizine,Antihistamine for allergy symptoms.,B-8097,2021-02-15,31560,Ret,Hyderabad,5,2023-07-08,-523.0,Hyderabad,Lucknow,Mumbai,Ahmedabad,0,,3860.0,2023-01-10
+M-1014,O-83817,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2603,2023-08-31,81488,Ret,Bangalore,27,2026-05-15,519.0,Bangalore,Jaipur,Bangalore,Bangalore,0,,4210.0,2024-11-18
+M-1000,O-70881,Paracetamol,Relieves fever & mild to moderate pain.,B-8053,2024-11-10,53740,Man,Kolkata,28,2025-11-27,350.0,Lucknow,Chennai,Kolkata,Bangalore,0,,,2024-11-23
+M-1003,O-29645,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1310,2022-03-06,90700,Man,Delhi,6,2023-01-21,-691.0,Ahmedabad,Hyderabad,Delhi,Pune,0,,,2024-02-26
+M-1004,O-88832,Azithromycin,Antibiotic for bacterial infections.,B-8899,2024-10-19,90340,RMS,Delhi,54,2025-05-19,,Pune,Pune,Jaipur,Delhi,0,,,2024-11-29
+M-1000,O-91086,Paracetamol,Relieves fever & mild to moderate pain.,B-4160,2024-11-02,76210,Man,Bangalore,22,2026-05-13,517.0,Hyderabad,Hyderabad,Bangalore,Hyderabad,0,,,2024-11-13
+M-1010,O-16696,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3136,2022-06-23,76440,Dis,Ahmedabad,6,2024-12-30,18.0,Hyderabad,Ahmedabad,Pune,Hyderabad,12770,Understock,,2023-08-06
+M-1000,O-61938,Paracetamol,Relieves fever & mild to moderate pain.,B-1648,2022-03-22,35320,RMS,Lucknow,996,2024-12-27,,Hyderabad,Chennai,Bangalore,Lucknow,0,,,2023-07-13
+M-1013,O-20370,Montelukast,Prevents asthma & seasonal allergies.,B-5022,2023-07-27,79700,Man,Lucknow,18,2025-03-07,85.0,Chennai,Lucknow,Lucknow,Kolkata,0,,,2023-08-05
+M-1013,O-81471,Montelukast,Prevents asthma & seasonal allergies.,B-1749,2021-10-31,21170,Dis,Lucknow,23,2024-05-21,-205.0,Kolkata,Lucknow,Lucknow,Chennai,14190,Understock,,2022-03-19
+M-1014,O-12875,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3234,2024-01-05,92570,RMS,Chennai,342,2025-12-02,,Delhi,Bangalore,Bangalore,Chennai,0,,,2024-03-07
+M-1002,O-60763,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6608,2022-05-31,1270,RMS,Kolkata,926,2024-08-17,,Delhi,Chennai,Bangalore,Kolkata,0,,,2022-10-13
+M-1009,O-63098,Cefixime,Antibiotic for respiratory and UTI infections.,B-9861,2020-08-29,51430,Ret,Chennai,6,2023-03-01,-652.0,Chennai,Mumbai,Jaipur,Kolkata,0,,3720.0,2022-10-11
+M-1013,O-67442,Montelukast,Prevents asthma & seasonal allergies.,B-3717,2021-07-05,11160,Dis,Kolkata,12,2022-07-20,-876.0,Lucknow,Kolkata,Chennai,Kolkata,28058,Understock,,2023-07-21
+M-1009,O-16635,Cefixime,Antibiotic for respiratory and UTI infections.,B-7910,2021-05-20,67940,Dis,Pune,1,2023-01-20,-692.0,Hyderabad,Pune,Bangalore,Pune,10910,Understock,,2022-06-19
+M-1012,O-31768,Levofloxacin,Antibiotic for bacterial infections.,B-7048,2021-09-05,80360,Man,Lucknow,17,2022-12-10,-733.0,Pune,Jaipur,Lucknow,Chennai,0,,,2023-05-01
+M-1010,O-77720,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7249,2024-03-24,72580,Man,Hyderabad,30,2026-08-28,624.0,Kolkata,Chennai,Hyderabad,Pune,0,,,2024-07-27
+M-1005,O-39828,Metformin,Controls blood sugar in type 2 diabetes.,B-2933,2023-06-16,47120,RMS,Ahmedabad,545,2025-06-22,,Lucknow,Lucknow,Hyderabad,Ahmedabad,0,,,2024-05-04
+M-1003,O-81441,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1856,2022-12-07,89950,RMS,Hyderabad,736,2025-06-29,,Ahmedabad,Jaipur,Pune,Hyderabad,0,,,2024-03-16
+M-1014,O-65843,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3154,2021-03-21,42430,RMS,Kolkata,1362,2023-03-14,,Ahmedabad,Jaipur,Ahmedabad,Kolkata,0,,,2022-05-24
+M-1002,O-53766,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7997,2023-03-24,8558,Ret,Bangalore,18,2023-11-27,-381.0,Bangalore,Mumbai,Delhi,Jaipur,0,,4790.0,2023-07-19
+M-1011,O-30649,Pantoprazole,Treats stomach & esophagus problems.,B-6758,2023-03-17,91840,Man,Mumbai,29,2024-10-20,-53.0,Mumbai,Hyderabad,Mumbai,Bangalore,0,,,2024-01-21
+M-1013,O-75127,Montelukast,Prevents asthma & seasonal allergies.,B-9092,2024-03-30,41480,Man,Hyderabad,2,2026-05-13,517.0,Pune,Lucknow,Hyderabad,Chennai,0,,,2024-11-18
+M-1004,O-49918,Azithromycin,Antibiotic for bacterial infections.,B-6137,2022-05-29,61580,Man,Chennai,1,2023-01-15,-697.0,Delhi,Bangalore,Chennai,Pune,0,,,2022-12-28
+M-1013,O-32710,Montelukast,Prevents asthma & seasonal allergies.,B-7966,2020-12-06,95540,RMS,Bangalore,1467,2022-05-03,,Chennai,Kolkata,Jaipur,Bangalore,0,,,2024-11-11
+M-1000,O-63186,Paracetamol,Relieves fever & mild to moderate pain.,B-6547,2023-05-25,40130,Man,Kolkata,18,2025-11-20,343.0,Hyderabad,Bangalore,Kolkata,Mumbai,0,,,2024-05-20
+M-1014,O-42576,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5536,2022-01-23,69100,Ret,Kolkata,5,2022-12-18,-725.0,Kolkata,Jaipur,Lucknow,Hyderabad,0,,1010.0,2023-02-01
+M-1000,O-50404,Paracetamol,Relieves fever & mild to moderate pain.,B-7633,2022-08-10,52480,Dis,Pune,3,2024-02-05,-311.0,Chennai,Pune,Pune,Bangalore,33834,Understock,,2023-06-11
+M-1005,O-54807,Metformin,Controls blood sugar in type 2 diabetes.,B-1154,2024-07-27,78140,Man,Pune,4,2027-05-10,879.0,Bangalore,Chennai,Pune,Chennai,0,,,2024-10-21
+M-1002,O-94306,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9730,2023-07-11,55060,Ret,Ahmedabad,15,2025-08-14,245.0,Ahmedabad,Mumbai,Pune,Ahmedabad,0,,8940.0,2023-09-13
+M-1013,O-39498,Montelukast,Prevents asthma & seasonal allergies.,B-6264,2024-06-11,98830,Man,Jaipur,6,2026-09-27,654.0,Hyderabad,Hyderabad,Jaipur,Pune,0,,,2024-06-15
+M-1013,O-99186,Montelukast,Prevents asthma & seasonal allergies.,B-4013,2023-11-27,49610,Dis,Lucknow,13,2026-02-26,441.0,Bangalore,Lucknow,Pune,Ahmedabad,7746,Understock,,2024-01-21
+M-1000,O-78963,Paracetamol,Relieves fever & mild to moderate pain.,B-9990,2024-04-21,42370,Dis,Delhi,3,2026-04-05,479.0,Delhi,Delhi,Jaipur,Pune,4324,Understock,,2024-11-03
+M-1012,O-64826,Levofloxacin,Antibiotic for bacterial infections.,B-4516,2022-12-03,59295,RMS,Mumbai,740,2023-07-31,,Lucknow,Ahmedabad,Delhi,Mumbai,0,,,2023-06-23
+M-1013,O-92485,Montelukast,Prevents asthma & seasonal allergies.,B-1300,2021-02-06,17350,Ret,Mumbai,11,2021-11-05,-1133.0,Mumbai,Kolkata,Delhi,Chennai,0,,9320.0,2022-11-15
+M-1010,O-11104,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1153,2021-09-08,66770,RMS,Bangalore,1191,2024-04-13,,Delhi,Jaipur,Hyderabad,Bangalore,0,,,2023-08-31
+M-1014,O-18317,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1845,2020-08-30,14553,Ret,Chennai,25,2022-10-18,-786.0,Chennai,Bangalore,Mumbai,Hyderabad,0,,9000.0,2024-01-13
+M-1000,O-39371,Paracetamol,Relieves fever & mild to moderate pain.,B-2754,2020-01-09,183660,Ret,Chennai,20,2021-02-20,-1391.0,Chennai,Lucknow,Lucknow,Hyderabad,0,,2870.0,2023-05-23
+M-1013,O-90238,Montelukast,Prevents asthma & seasonal allergies.,B-4039,2023-10-26,34420,RMS,Kolkata,413,2025-08-02,,Bangalore,Pune,Delhi,Kolkata,0,,,2023-11-05
+M-1010,O-26167,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8118,2021-04-30,12220,Man,Kolkata,11,2023-07-18,-513.0,Ahmedabad,Chennai,Kolkata,Delhi,0,,,2022-06-05
+M-1011,O-93438,Pantoprazole,Treats stomach & esophagus problems.,B-5819,2022-02-16,66990,Dis,Ahmedabad,9,2023-07-23,-508.0,Ahmedabad,Ahmedabad,Ahmedabad,Ahmedabad,10046,Understock,,2024-06-07
+M-1001,O-30562,Amoxicillin,Antibiotic for bacterial infections.,B-6936,2022-10-23,74530,Man,Chennai,2,2024-11-13,-29.0,Mumbai,Kolkata,Chennai,Jaipur,0,,,2023-03-08
+M-1000,O-84324,Paracetamol,Relieves fever & mild to moderate pain.,B-1005,2020-03-29,11220,Dis,Lucknow,3,2022-09-09,-825.0,Delhi,Lucknow,Ahmedabad,Lucknow,22328,Understock,,2024-01-14
+M-1014,O-65688,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2446,2023-05-01,63390,Dis,Hyderabad,22,2025-11-04,327.0,Hyderabad,Hyderabad,Pune,Jaipur,32408,Understock,,2023-10-06
+M-1003,O-55289,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5849,2020-08-20,80450,Man,Pune,7,2022-06-22,-904.0,Delhi,Hyderabad,Pune,Bangalore,0,,,2020-09-17
+M-1005,O-98394,Metformin,Controls blood sugar in type 2 diabetes.,B-4868,2024-06-23,46540,Man,Pune,6,2026-09-17,644.0,Kolkata,Hyderabad,Pune,Delhi,0,,,2024-09-06
+M-1005,O-88261,Metformin,Controls blood sugar in type 2 diabetes.,B-9911,2022-07-10,55860,Dis,Delhi,19,2023-07-15,-516.0,Pune,Delhi,Delhi,Kolkata,7299,Understock,,2023-12-24
+M-1003,O-22197,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4649,2023-09-23,72730,Ret,Jaipur,5,2026-05-17,521.0,Jaipur,Jaipur,Jaipur,Kolkata,0,,2850.0,2024-01-13
+M-1010,O-28788,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9389,2024-12-07,41550,Ret,Ahmedabad,19,2026-10-11,668.0,Ahmedabad,Kolkata,Hyderabad,Pune,0,,4960.0,2024-12-12
+M-1001,O-98116,Amoxicillin,Antibiotic for bacterial infections.,B-5230,2020-03-07,59720,Man,Bangalore,24,2022-04-21,-966.0,Mumbai,Lucknow,Bangalore,Jaipur,0,,,2022-06-19
+M-1013,O-21466,Montelukast,Prevents asthma & seasonal allergies.,B-6184,2022-11-26,35040,Dis,Kolkata,1,2024-03-28,-259.0,Hyderabad,Kolkata,Kolkata,Jaipur,27509,Understock,,2024-01-18
+M-1007,O-75429,Cetirizine,Antihistamine for allergy symptoms.,B-4578,2023-06-30,111204,Ret,Mumbai,15,2025-06-16,186.0,Mumbai,Chennai,Jaipur,Ahmedabad,0,,9690.0,2023-08-26
+M-1004,O-21433,Azithromycin,Antibiotic for bacterial infections.,B-9995,2024-06-05,25270,Ret,Lucknow,22,2027-05-25,894.0,Lucknow,Hyderabad,Bangalore,Pune,0,,4130.0,2024-08-15
+M-1009,O-32568,Cefixime,Antibiotic for respiratory and UTI infections.,B-5989,2024-12-07,81230,Man,Ahmedabad,5,2027-06-19,919.0,Pune,Kolkata,Ahmedabad,Jaipur,0,,,2024-12-08
+M-1003,O-31059,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7830,2022-12-28,82460,Man,Ahmedabad,1,2025-03-10,88.0,Chennai,Lucknow,Ahmedabad,Ahmedabad,0,,,2023-05-25
+M-1009,O-61627,Cefixime,Antibiotic for respiratory and UTI infections.,B-1610,2019-12-26,30610,Man,Hyderabad,1,2022-02-09,-1037.0,Lucknow,Mumbai,Hyderabad,Mumbai,0,,,2020-04-24
+M-1014,O-92513,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-6778,2023-05-16,83180,Man,Ahmedabad,9,2024-12-24,12.0,Jaipur,Chennai,Ahmedabad,Mumbai,0,,,2023-07-02
+M-1006,O-24342,Omeprazole,Treats GERD and other stomach issues.,B-2274,2021-02-25,84390,Man,Hyderabad,2,2021-11-23,-1115.0,Pune,Kolkata,Hyderabad,Mumbai,0,,,2024-09-19
+M-1008,O-75760,Dolo 650,Brand of paracetamol for pain & fever.,B-9118,2023-12-23,140520,Dis,Delhi,19,2026-08-07,603.0,Delhi,Delhi,Hyderabad,Lucknow,36180,Optimal,,2024-07-14
+M-1011,O-50832,Pantoprazole,Treats stomach & esophagus problems.,B-6330,2021-01-28,97295,RMS,Bangalore,1414,2022-05-12,,Kolkata,Jaipur,Ahmedabad,Bangalore,0,,,2023-08-07
+M-1000,O-45137,Paracetamol,Relieves fever & mild to moderate pain.,B-2712,2020-05-24,33900,Man,Chennai,14,2022-02-17,-1029.0,Pune,Pune,Chennai,Chennai,0,,,2022-09-25
+M-1004,O-52682,Azithromycin,Antibiotic for bacterial infections.,B-6484,2021-08-21,35520,Dis,Ahmedabad,29,2024-04-25,-231.0,Lucknow,Ahmedabad,Delhi,Pune,7123,Understock,,2023-10-07
+M-1004,O-32592,Azithromycin,Antibiotic for bacterial infections.,B-8655,2023-10-15,8790,Man,Jaipur,22,2024-09-20,-83.0,Hyderabad,Delhi,Jaipur,Lucknow,0,,,2024-06-29
+M-1002,O-74253,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3433,2023-05-19,5260,Man,Bangalore,1,2024-11-26,-16.0,Lucknow,Lucknow,Bangalore,Chennai,0,,,2024-09-30
+M-1012,O-49816,Levofloxacin,Antibiotic for bacterial infections.,B-2299,2019-12-30,22380,RMS,Chennai,1809,2020-08-26,,Kolkata,Pune,Jaipur,Chennai,0,,,2023-07-31
+M-1008,O-83483,Dolo 650,Brand of paracetamol for pain & fever.,B-5452,2024-09-17,4180,Dis,Ahmedabad,22,2027-02-22,802.0,Kolkata,Ahmedabad,Hyderabad,Kolkata,18319,Understock,,2024-12-04
+M-1013,O-89920,Montelukast,Prevents asthma & seasonal allergies.,B-2182,2024-04-10,33312,RMS,Bangalore,246,2025-02-16,,Delhi,Bangalore,Mumbai,Bangalore,0,,,2024-06-20
+M-1010,O-60184,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6286,2020-10-29,48972,Dis,Ahmedabad,15,2022-12-30,-713.0,Bangalore,Ahmedabad,Mumbai,Chennai,34219,Understock,,2024-02-10
+M-1014,O-47733,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1426,2023-12-26,6330,Ret,Pune,13,2026-07-27,592.0,Pune,Ahmedabad,Ahmedabad,Delhi,0,,4290.0,2024-04-06
+M-1009,O-67792,Cefixime,Antibiotic for respiratory and UTI infections.,B-4186,2021-01-14,86770,RMS,Chennai,1428,2021-10-16,,Pune,Mumbai,Delhi,Chennai,0,,,2022-11-02
+M-1005,O-63239,Metformin,Controls blood sugar in type 2 diabetes.,B-3145,2020-05-23,91130,RMS,Bangalore,1664,2021-09-20,,Jaipur,Jaipur,Bangalore,Bangalore,0,,,2022-12-24
+M-1012,O-72039,Levofloxacin,Antibiotic for bacterial infections.,B-1328,2023-02-13,75680,RMS,Mumbai,668,2023-12-06,,Hyderabad,Bangalore,Lucknow,Mumbai,0,,,2024-08-15
+M-1009,O-93612,Cefixime,Antibiotic for respiratory and UTI infections.,B-8991,2023-06-21,104004,RMS,Pune,540,2024-06-05,,Mumbai,Lucknow,Bangalore,Pune,0,,,2023-10-28
+M-1010,O-40860,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7387,2022-03-12,81420,Ret,Bangalore,23,2024-10-11,-62.0,Bangalore,Mumbai,Ahmedabad,Jaipur,0,,9310.0,2023-11-20
+M-1006,O-96531,Omeprazole,Treats GERD and other stomach issues.,B-2660,2022-07-28,2800,Dis,Hyderabad,29,2023-05-27,-565.0,Bangalore,Hyderabad,Pune,Jaipur,37596,Understock,,2022-10-07
+M-1001,O-26875,Amoxicillin,Antibiotic for bacterial infections.,B-1065,2022-10-04,56370,Man,Delhi,18,2024-07-05,-160.0,Chennai,Delhi,Delhi,Pune,0,,,2023-10-10
+M-1012,O-26388,Levofloxacin,Antibiotic for bacterial infections.,B-9108,2022-07-01,42960,Dis,Hyderabad,9,2023-02-09,-672.0,Kolkata,Hyderabad,Mumbai,Delhi,1172,Understock,,2024-01-18
+M-1007,O-41468,Cetirizine,Antihistamine for allergy symptoms.,B-6488,2022-03-15,40760,Dis,Bangalore,19,2022-10-14,-790.0,Kolkata,Bangalore,Pune,Ahmedabad,30473,Understock,,2023-07-25
+M-1005,O-76106,Metformin,Controls blood sugar in type 2 diabetes.,B-2591,2022-08-22,18080,RMS,Chennai,843,2025-07-13,,Delhi,Delhi,Chennai,Chennai,0,,,2024-01-29
+M-1002,O-31810,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3381,2024-04-10,53540,Ret,Hyderabad,9,2026-11-23,711.0,Hyderabad,Jaipur,Bangalore,Chennai,0,,6960.0,2024-11-25
+M-1003,O-80089,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5112,2023-07-30,110903,Dis,Lucknow,12,2025-05-25,164.0,Mumbai,Lucknow,Bangalore,Hyderabad,31873,Optimal,,2024-09-22
+M-1000,O-34345,Paracetamol,Relieves fever & mild to moderate pain.,B-7339,2021-09-05,31730,Dis,Lucknow,2,2023-04-06,-616.0,Pune,Lucknow,Lucknow,Bangalore,41053,Understock,,2022-03-26
+M-1014,O-33695,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9827,2024-05-18,84090,RMS,Delhi,208,2024-12-27,,Hyderabad,Hyderabad,Jaipur,Delhi,0,,,2024-09-10
+M-1002,O-67028,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8900,2023-08-20,21820,Ret,Chennai,30,2026-02-11,426.0,Chennai,Mumbai,Delhi,Mumbai,0,,2420.0,2024-04-28
+M-1001,O-45082,Amoxicillin,Antibiotic for bacterial infections.,B-9940,2024-06-29,104663,Ret,Bangalore,9,2026-05-10,514.0,Bangalore,Lucknow,Delhi,Bangalore,0,,4190.0,2024-07-29
+M-1006,O-39402,Omeprazole,Treats GERD and other stomach issues.,B-5313,2024-10-29,48040,RMS,Jaipur,44,2025-09-03,,Chennai,Jaipur,Hyderabad,Jaipur,0,,,2024-12-10
+M-1010,O-82562,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3632,2024-05-23,76980,Man,Mumbai,1,2026-06-06,541.0,Hyderabad,Delhi,Mumbai,Hyderabad,0,,,2024-06-07
+M-1005,O-65897,Metformin,Controls blood sugar in type 2 diabetes.,B-8535,2021-04-19,52164,RMS,Mumbai,1333,2022-11-30,,Mumbai,Pune,Kolkata,Mumbai,0,,,2023-11-05
+M-1000,O-17237,Paracetamol,Relieves fever & mild to moderate pain.,B-5952,2023-07-29,22270,Dis,Ahmedabad,16,2025-06-09,179.0,Delhi,Ahmedabad,Ahmedabad,Hyderabad,8926,Understock,,2024-03-13
+M-1005,O-30069,Metformin,Controls blood sugar in type 2 diabetes.,B-3154,2021-06-10,41680,Dis,Jaipur,27,2022-08-06,-859.0,Pune,Jaipur,Lucknow,Lucknow,30735,Understock,,2022-09-27
+M-1002,O-31545,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6090,2022-01-19,96750,Ret,Hyderabad,12,2024-11-03,-39.0,Hyderabad,Delhi,Ahmedabad,Delhi,0,,8450.0,2022-09-01
+M-1006,O-88858,Omeprazole,Treats GERD and other stomach issues.,B-1734,2022-06-13,85480,RMS,Hyderabad,913,2025-04-13,,Mumbai,Pune,Jaipur,Hyderabad,0,,,2023-07-03
+M-1007,O-15269,Cetirizine,Antihistamine for allergy symptoms.,B-2568,2021-07-22,50080,RMS,Ahmedabad,1239,2023-03-07,,Pune,Lucknow,Ahmedabad,Ahmedabad,0,,,2023-04-20
+M-1009,O-15691,Cefixime,Antibiotic for respiratory and UTI infections.,B-3755,2020-03-23,45840,Ret,Kolkata,7,2022-09-26,-808.0,Kolkata,Mumbai,Bangalore,Hyderabad,0,,9800.0,2020-11-28
+M-1001,O-12588,Amoxicillin,Antibiotic for bacterial infections.,B-5086,2024-10-19,93220,Ret,Delhi,18,2026-12-08,726.0,Delhi,Pune,Kolkata,Pune,0,,1770.0,2024-11-13
+M-1013,O-72568,Montelukast,Prevents asthma & seasonal allergies.,B-3428,2020-04-17,35976,Dis,Bangalore,24,2021-05-16,-1306.0,Ahmedabad,Bangalore,Kolkata,Chennai,34531,Understock,,2022-01-27
+M-1007,O-10943,Cetirizine,Antihistamine for allergy symptoms.,B-1510,2021-02-07,68840,RMS,Lucknow,1404,2023-11-24,,Chennai,Hyderabad,Mumbai,Lucknow,0,,,2022-02-13
+M-1007,O-11961,Cetirizine,Antihistamine for allergy symptoms.,B-9527,2023-05-19,6330,Ret,Pune,29,2023-12-23,-355.0,Pune,Kolkata,Bangalore,Chennai,0,,4490.0,2023-09-25
+M-1006,O-98356,Omeprazole,Treats GERD and other stomach issues.,B-5420,2024-02-16,29300,RMS,Mumbai,300,2026-10-17,,Mumbai,Lucknow,Hyderabad,Mumbai,0,,,2024-06-11
+M-1008,O-87902,Dolo 650,Brand of paracetamol for pain & fever.,B-6321,2024-08-23,83370,Man,Chennai,15,2026-11-11,699.0,Delhi,Lucknow,Chennai,Bangalore,0,,,2024-11-21
+M-1000,O-63746,Paracetamol,Relieves fever & mild to moderate pain.,B-9290,2021-05-22,7150,Ret,Bangalore,22,2022-07-15,-881.0,Bangalore,Delhi,Lucknow,Bangalore,0,,3040.0,2021-06-11
+M-1007,O-72957,Cetirizine,Antihistamine for allergy symptoms.,B-7613,2024-12-12,45430,Man,Delhi,12,2027-09-25,1017.0,Kolkata,Bangalore,Delhi,Mumbai,0,,,2024-12-12
+M-1006,O-50011,Omeprazole,Treats GERD and other stomach issues.,B-9894,2020-08-28,6770,Dis,Jaipur,9,2021-06-13,-1278.0,Kolkata,Jaipur,Pune,Chennai,7998,Understock,,2021-08-16
+M-1000,O-64184,Paracetamol,Relieves fever & mild to moderate pain.,B-2034,2023-08-23,88030,Dis,Pune,20,2026-05-25,529.0,Jaipur,Pune,Ahmedabad,Ahmedabad,9879,Understock,,2024-11-01
+M-1010,O-49814,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9148,2024-07-22,35110,Dis,Delhi,2,2026-12-07,725.0,Kolkata,Delhi,Hyderabad,Ahmedabad,1203,Understock,,2024-10-03
+M-1011,O-41289,Pantoprazole,Treats stomach & esophagus problems.,B-4537,2020-03-20,80720,Man,Mumbai,7,2021-08-26,-1204.0,Hyderabad,Lucknow,Mumbai,Delhi,0,,,2024-10-27
+M-1002,O-23675,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5765,2024-11-15,78890,Dis,Mumbai,16,2025-07-18,218.0,Delhi,Mumbai,Lucknow,Ahmedabad,36332,Optimal,,2024-11-18
+M-1003,O-12409,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2754,2021-09-27,25120,Ret,Hyderabad,7,2024-01-07,-340.0,Hyderabad,Kolkata,Jaipur,Mumbai,0,,1900.0,2022-02-26
+M-1002,O-63422,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8874,2021-04-29,65080,Man,Hyderabad,11,2022-10-25,-779.0,Kolkata,Jaipur,Hyderabad,Jaipur,0,,,2022-03-16
+M-1002,O-57117,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6715,2020-06-24,93370,Ret,Ahmedabad,17,2021-07-17,-1244.0,Ahmedabad,Bangalore,Pune,Jaipur,0,,1860.0,2024-08-11
+M-1004,O-24401,Azithromycin,Antibiotic for bacterial infections.,B-5121,2020-11-19,70490,RMS,Mumbai,1484,2023-01-31,,Jaipur,Delhi,Chennai,Mumbai,0,,,2022-03-25
+M-1002,O-38768,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8888,2024-08-30,64750,Ret,Bangalore,28,2026-02-08,423.0,Bangalore,Pune,Delhi,Ahmedabad,0,,3600.0,2024-10-13
+M-1013,O-41554,Montelukast,Prevents asthma & seasonal allergies.,B-8977,2024-12-05,15400,Man,Jaipur,19,2027-05-11,880.0,Mumbai,Hyderabad,Jaipur,Delhi,0,,,2024-12-06
+M-1003,O-30614,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2530,2023-05-30,77930,Man,Delhi,3,2024-11-08,-34.0,Ahmedabad,Kolkata,Delhi,Ahmedabad,0,,,2023-12-03
+M-1013,O-52355,Montelukast,Prevents asthma & seasonal allergies.,B-2044,2021-05-23,17700,RMS,Chennai,1299,2024-01-17,,Ahmedabad,Hyderabad,Jaipur,Chennai,0,,,2023-09-24
+M-1005,O-34149,Metformin,Controls blood sugar in type 2 diabetes.,B-4263,2021-09-20,24130,Dis,Mumbai,30,2022-04-28,-959.0,Jaipur,Mumbai,Kolkata,Delhi,19349,Understock,,2022-12-13
+M-1001,O-58865,Amoxicillin,Antibiotic for bacterial infections.,B-9334,2023-12-04,89890,RMS,Delhi,374,2026-08-04,,Delhi,Hyderabad,Kolkata,Delhi,0,,,2024-04-04
+M-1002,O-92627,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1517,2020-06-11,31880,Ret,Delhi,12,2021-07-15,-1246.0,Delhi,Lucknow,Lucknow,Delhi,0,,4320.0,2023-12-07
+M-1010,O-62049,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9760,2024-06-13,32000,Ret,Lucknow,24,2026-02-10,425.0,Lucknow,Ahmedabad,Chennai,Ahmedabad,0,,5800.0,2024-07-09
+M-1004,O-56001,Azithromycin,Antibiotic for bacterial infections.,B-1338,2020-09-11,11600,RMS,Bangalore,1553,2022-06-26,,Lucknow,Delhi,Ahmedabad,Bangalore,0,,,2024-06-23
+M-1002,O-92188,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3123,2023-07-12,65730,Ret,Jaipur,10,2024-09-29,-74.0,Jaipur,Mumbai,Ahmedabad,Bangalore,0,,930.0,2023-12-18
+M-1007,O-47079,Cetirizine,Antihistamine for allergy symptoms.,B-9546,2021-08-27,71420,Man,Bangalore,18,2024-02-04,-312.0,Lucknow,Delhi,Bangalore,Pune,0,,,2024-05-03
+M-1007,O-96722,Cetirizine,Antihistamine for allergy symptoms.,B-5387,2021-05-23,84450,Ret,Mumbai,25,2023-07-26,-505.0,Mumbai,Ahmedabad,Pune,Mumbai,0,,9530.0,2024-06-13
+M-1012,O-19695,Levofloxacin,Antibiotic for bacterial infections.,B-1803,2021-06-13,94350,Dis,Jaipur,15,2022-06-05,-921.0,Lucknow,Jaipur,Chennai,Pune,9954,Optimal,,2022-06-26
+M-1009,O-34204,Cefixime,Antibiotic for respiratory and UTI infections.,B-2416,2023-03-11,97750,Ret,Bangalore,11,2024-01-19,-328.0,Bangalore,Bangalore,Pune,Pune,0,,4990.0,2024-12-07
+M-1000,O-57518,Paracetamol,Relieves fever & mild to moderate pain.,B-5879,2021-11-03,72180,Ret,Delhi,1,2022-07-22,-874.0,Delhi,Lucknow,Lucknow,Hyderabad,0,,7830.0,2023-05-14
+M-1007,O-11974,Cetirizine,Antihistamine for allergy symptoms.,B-3909,2020-06-04,109272,Ret,Hyderabad,24,2021-08-09,-1221.0,Hyderabad,Jaipur,Jaipur,Hyderabad,0,,1000.0,2024-09-12
+M-1010,O-40761,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3986,2022-11-07,46670,RMS,Hyderabad,766,2024-05-23,,Jaipur,Jaipur,Delhi,Hyderabad,0,,,2022-12-04
+M-1007,O-66369,Cetirizine,Antihistamine for allergy symptoms.,B-9212,2023-10-22,57350,Dis,Lucknow,22,2025-08-21,252.0,Hyderabad,Lucknow,Bangalore,Hyderabad,9004,Understock,,2024-11-22
+M-1003,O-77150,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6689,2020-01-29,79340,Man,Delhi,13,2022-09-04,-830.0,Mumbai,Kolkata,Delhi,Bangalore,0,,,2022-05-10
+M-1003,O-76116,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6411,2022-02-11,27010,Man,Hyderabad,12,2024-09-04,-99.0,Delhi,Delhi,Hyderabad,Pune,0,,,2024-04-05
+M-1002,O-74094,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3727,2024-03-05,76604,Ret,Pune,23,2026-08-22,618.0,Pune,Pune,Hyderabad,Mumbai,0,,7550.0,2024-10-25
+M-1013,O-88469,Montelukast,Prevents asthma & seasonal allergies.,B-5026,2021-07-15,57230,Man,Hyderabad,28,2024-05-12,-214.0,Bangalore,Kolkata,Hyderabad,Chennai,0,,,2022-12-11
+M-1008,O-67388,Dolo 650,Brand of paracetamol for pain & fever.,B-1806,2020-03-10,49140,Ret,Chennai,8,2021-08-17,-1213.0,Chennai,Bangalore,Mumbai,Mumbai,0,,8160.0,2020-04-01
+M-1006,O-35574,Omeprazole,Treats GERD and other stomach issues.,B-6292,2020-01-21,79190,Ret,Pune,25,2021-07-27,-1234.0,Pune,Lucknow,Jaipur,Bangalore,0,,8340.0,2022-06-13
+M-1008,O-37765,Dolo 650,Brand of paracetamol for pain & fever.,B-9527,2022-02-18,81320,Man,Kolkata,12,2022-10-24,-780.0,Bangalore,Ahmedabad,Kolkata,Jaipur,0,,,2023-07-12
+M-1012,O-39811,Levofloxacin,Antibiotic for bacterial infections.,B-6985,2022-10-24,97910,Dis,Hyderabad,26,2023-10-23,-416.0,Lucknow,Hyderabad,Lucknow,Pune,30515,Optimal,,2023-09-14
+M-1001,O-85363,Amoxicillin,Antibiotic for bacterial infections.,B-7435,2022-08-16,72770,Ret,Bangalore,26,2024-03-31,-256.0,Bangalore,Chennai,Pune,Bangalore,0,,2610.0,2023-05-21
+M-1011,O-28783,Pantoprazole,Treats stomach & esophagus problems.,B-3648,2024-07-16,95900,RMS,Bangalore,149,2026-03-12,,Chennai,Kolkata,Lucknow,Bangalore,0,,,2024-09-29
+M-1008,O-99654,Dolo 650,Brand of paracetamol for pain & fever.,B-3437,2022-03-14,77380,Ret,Mumbai,14,2024-09-16,-87.0,Mumbai,Kolkata,Bangalore,Kolkata,0,,8710.0,2023-01-28
+M-1005,O-36279,Metformin,Controls blood sugar in type 2 diabetes.,B-3307,2020-07-23,42540,RMS,Kolkata,1603,2022-03-19,,Delhi,Lucknow,Kolkata,Kolkata,0,,,2020-10-27
+M-1008,O-58054,Dolo 650,Brand of paracetamol for pain & fever.,B-6076,2022-01-29,97800,RMS,Ahmedabad,1048,2022-09-17,,Ahmedabad,Kolkata,Mumbai,Ahmedabad,0,,,2023-09-24
+M-1004,O-63776,Azithromycin,Antibiotic for bacterial infections.,B-8655,2022-06-01,21860,Dis,Lucknow,21,2024-09-20,-83.0,Kolkata,Lucknow,Mumbai,Delhi,28267,Understock,,2022-10-09
+M-1000,O-81162,Paracetamol,Relieves fever & mild to moderate pain.,B-4928,2021-05-15,80310,Dis,Hyderabad,26,2023-03-25,-628.0,Mumbai,Hyderabad,Lucknow,Jaipur,39671,Optimal,,2024-06-12
+M-1001,O-77455,Amoxicillin,Antibiotic for bacterial infections.,B-6404,2020-10-23,90470,Ret,Bangalore,20,2022-04-08,-979.0,Bangalore,Hyderabad,Jaipur,Delhi,0,,9860.0,2021-10-25
+M-1004,O-90886,Azithromycin,Antibiotic for bacterial infections.,B-8020,2022-12-08,84230,Ret,Mumbai,30,2025-05-03,142.0,Mumbai,Delhi,Delhi,Chennai,0,,5670.0,2024-02-09
+M-1007,O-43371,Cetirizine,Antihistamine for allergy symptoms.,B-9013,2021-12-18,96880,Ret,Ahmedabad,6,2024-08-14,-120.0,Ahmedabad,Ahmedabad,Delhi,Jaipur,0,,620.0,2024-05-20
+M-1007,O-87914,Cetirizine,Antihistamine for allergy symptoms.,B-8373,2021-03-17,89300,Ret,Pune,2,2022-06-22,-904.0,Pune,Kolkata,Bangalore,Delhi,0,,8290.0,2021-04-14
+M-1000,O-11638,Paracetamol,Relieves fever & mild to moderate pain.,B-8924,2021-10-23,7260,Dis,Delhi,20,2022-05-02,-955.0,Lucknow,Delhi,Lucknow,Jaipur,26788,Understock,,2024-07-03
+M-1011,O-51012,Pantoprazole,Treats stomach & esophagus problems.,B-3890,2020-08-13,7970,RMS,Pune,1582,2021-08-19,,Ahmedabad,Delhi,Jaipur,Pune,0,,,2023-09-14
+M-1002,O-42927,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8570,2022-03-19,36036,Dis,Chennai,15,2024-08-12,-122.0,Mumbai,Chennai,Jaipur,Delhi,48198,Understock,,2022-08-30
+M-1012,O-31655,Levofloxacin,Antibiotic for bacterial infections.,B-9585,2024-04-10,64410,RMS,Jaipur,246,2024-12-16,,Kolkata,Chennai,Lucknow,Jaipur,0,,,2024-10-04
+M-1000,O-32317,Paracetamol,Relieves fever & mild to moderate pain.,B-7811,2024-12-09,146620,Ret,Chennai,17,2027-03-11,819.0,Chennai,Hyderabad,Kolkata,Hyderabad,0,,2630.0,2024-12-12
+M-1008,O-25980,Dolo 650,Brand of paracetamol for pain & fever.,B-8092,2023-04-19,17010,Man,Delhi,13,2024-07-12,-153.0,Kolkata,Hyderabad,Delhi,Lucknow,0,,,2024-06-13
+M-1006,O-93349,Omeprazole,Treats GERD and other stomach issues.,B-4793,2023-05-30,37296,Dis,Jaipur,19,2025-08-25,256.0,Pune,Jaipur,Lucknow,Kolkata,41683,Understock,,2024-04-20
+M-1003,O-43058,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8460,2024-04-04,99430,Dis,Bangalore,3,2025-04-10,119.0,Kolkata,Bangalore,Hyderabad,Jaipur,1090,Optimal,,2024-07-29
+M-1013,O-78644,Montelukast,Prevents asthma & seasonal allergies.,B-2655,2023-10-11,61670,Man,Hyderabad,25,2026-02-23,438.0,Kolkata,Mumbai,Hyderabad,Lucknow,0,,,2024-01-12
+M-1004,O-18260,Azithromycin,Antibiotic for bacterial infections.,B-7328,2021-05-31,93150,Dis,Ahmedabad,23,2022-11-22,-751.0,Kolkata,Ahmedabad,Ahmedabad,Chennai,40268,Optimal,,2024-07-26
+M-1011,O-82117,Pantoprazole,Treats stomach & esophagus problems.,B-1393,2020-07-29,65330,RMS,Bangalore,1597,2021-11-05,,Jaipur,Delhi,Pune,Bangalore,0,,,2024-04-02
+M-1010,O-13887,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5930,2024-10-24,64896,Dis,Jaipur,24,2025-06-08,178.0,Jaipur,Jaipur,Pune,Pune,2547,Understock,,2024-11-04
+M-1007,O-64720,Cetirizine,Antihistamine for allergy symptoms.,B-3582,2020-12-06,9520,Dis,Hyderabad,11,2022-01-20,-1057.0,Jaipur,Hyderabad,Mumbai,Mumbai,18369,Understock,,2021-04-27
+M-1007,O-37479,Cetirizine,Antihistamine for allergy symptoms.,B-1998,2022-05-03,74270,Man,Delhi,28,2023-03-13,-640.0,Chennai,Bangalore,Delhi,Jaipur,0,,,2023-06-02
+M-1001,O-34165,Amoxicillin,Antibiotic for bacterial infections.,B-4545,2019-12-14,62340,Man,Pune,10,2021-05-29,-1293.0,Kolkata,Ahmedabad,Pune,Pune,0,,,2024-04-26
+M-1011,O-10176,Pantoprazole,Treats stomach & esophagus problems.,B-3357,2021-06-13,39800,Man,Delhi,19,2023-08-27,-473.0,Bangalore,Mumbai,Delhi,Pune,0,,,2022-05-27
+M-1010,O-19879,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9222,2024-07-05,11270,RMS,Bangalore,160,2026-10-01,,Kolkata,Hyderabad,Ahmedabad,Bangalore,0,,,2024-09-01
+M-1002,O-94440,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7727,2022-07-14,70420,Dis,Kolkata,22,2025-05-24,163.0,Chennai,Kolkata,Pune,Delhi,44434,Optimal,,2023-04-20
+M-1011,O-67609,Pantoprazole,Treats stomach & esophagus problems.,B-8401,2020-12-16,91890,Ret,Delhi,6,2021-11-23,-1115.0,Delhi,Ahmedabad,Pune,Bangalore,0,,7870.0,2021-05-11
+M-1004,O-62338,Azithromycin,Antibiotic for bacterial infections.,B-9282,2023-03-24,11190,RMS,Kolkata,629,2025-05-09,,Bangalore,Mumbai,Chennai,Kolkata,0,,,2023-12-20
+M-1006,O-78894,Omeprazole,Treats GERD and other stomach issues.,B-4745,2023-11-17,42370,Man,Lucknow,17,2025-04-19,128.0,Chennai,Ahmedabad,Lucknow,Mumbai,0,,,2024-10-29
+M-1006,O-95592,Omeprazole,Treats GERD and other stomach issues.,B-1791,2024-02-13,35520,RMS,Pune,303,2026-12-24,,Ahmedabad,Pune,Delhi,Pune,0,,,2024-10-03
+M-1007,O-27609,Cetirizine,Antihistamine for allergy symptoms.,B-3732,2023-01-14,6240,Man,Ahmedabad,21,2023-10-18,-421.0,Ahmedabad,Kolkata,Ahmedabad,Delhi,0,,,2023-10-17
+M-1001,O-88101,Amoxicillin,Antibiotic for bacterial infections.,B-1686,2021-12-14,76510,Man,Jaipur,22,2022-08-27,-838.0,Kolkata,Delhi,Jaipur,Bangalore,0,,,2022-05-25
+M-1014,O-69743,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1587,2021-02-04,10490,Man,Jaipur,13,2022-11-02,-771.0,Delhi,Hyderabad,Jaipur,Mumbai,0,,,2024-05-05
+M-1002,O-80846,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8136,2023-02-16,55410,Dis,Chennai,9,2024-08-25,-109.0,Hyderabad,Chennai,Lucknow,Pune,10423,Understock,,2023-09-12
+M-1012,O-32114,Levofloxacin,Antibiotic for bacterial infections.,B-8377,2022-09-27,58750,Dis,Kolkata,5,2025-07-07,207.0,Bangalore,Kolkata,Hyderabad,Jaipur,44281,Optimal,,2023-03-23
+M-1007,O-75589,Cetirizine,Antihistamine for allergy symptoms.,B-5220,2024-06-20,98340,RMS,Hyderabad,175,2026-07-04,,Hyderabad,Pune,Ahmedabad,Hyderabad,0,,,2024-09-10
+M-1003,O-50739,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5077,2023-07-16,26325,Man,Mumbai,30,2024-02-22,-294.0,Delhi,Chennai,Mumbai,Kolkata,0,,,2024-03-20
+M-1012,O-69755,Levofloxacin,Antibiotic for bacterial infections.,B-6361,2023-12-04,51090,RMS,Chennai,374,2026-09-25,,Hyderabad,Bangalore,Delhi,Chennai,0,,,2024-06-26
+M-1012,O-19909,Levofloxacin,Antibiotic for bacterial infections.,B-9414,2024-11-03,23470,RMS,Pune,39,2026-03-08,,Mumbai,Bangalore,Lucknow,Pune,0,,,2024-11-29
+M-1004,O-13390,Azithromycin,Antibiotic for bacterial infections.,B-8960,2023-10-16,79850,Dis,Mumbai,1,2026-10-10,667.0,Pune,Mumbai,Lucknow,Delhi,39304,Optimal,,2024-03-03
+M-1012,O-93235,Levofloxacin,Antibiotic for bacterial infections.,B-4725,2021-01-19,13650,Man,Pune,10,2022-01-27,-1050.0,Hyderabad,Lucknow,Pune,Jaipur,0,,,2022-01-28
+M-1006,O-42118,Omeprazole,Treats GERD and other stomach issues.,B-8709,2023-05-22,67344,Man,Lucknow,18,2025-09-16,278.0,Chennai,Kolkata,Lucknow,Ahmedabad,0,,,2024-06-21
+M-1012,O-91570,Levofloxacin,Antibiotic for bacterial infections.,B-3027,2024-01-06,52780,Dis,Hyderabad,18,2026-12-30,748.0,Hyderabad,Hyderabad,Chennai,Chennai,4102,Understock,,2024-03-10
+M-1013,O-54951,Montelukast,Prevents asthma & seasonal allergies.,B-9814,2021-05-15,18980,Ret,Bangalore,15,2023-08-11,-489.0,Bangalore,Lucknow,Bangalore,Ahmedabad,0,,9880.0,2022-08-05
+M-1008,O-92740,Dolo 650,Brand of paracetamol for pain & fever.,B-2639,2020-07-03,15050,Man,Lucknow,19,2022-10-17,-787.0,Kolkata,Bangalore,Lucknow,Jaipur,0,,,2024-03-31
+M-1005,O-88294,Metformin,Controls blood sugar in type 2 diabetes.,B-5267,2020-08-23,75180,Man,Kolkata,12,2023-02-09,-672.0,Mumbai,Jaipur,Kolkata,Mumbai,0,,,2023-02-13
+M-1008,O-77312,Dolo 650,Brand of paracetamol for pain & fever.,B-3916,2023-03-20,5900,Ret,Jaipur,3,2024-07-06,-159.0,Jaipur,Kolkata,Hyderabad,Hyderabad,0,,2060.0,2023-06-01
+M-1002,O-50028,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8056,2024-05-18,21960,Dis,Bangalore,29,2025-02-09,59.0,Hyderabad,Bangalore,Bangalore,Mumbai,13677,Understock,,2024-11-22
+M-1012,O-27493,Levofloxacin,Antibiotic for bacterial infections.,B-2779,2022-01-04,71990,Dis,Lucknow,4,2023-03-13,-640.0,Bangalore,Lucknow,Bangalore,Mumbai,34554,Optimal,,2023-03-12
+M-1005,O-82258,Metformin,Controls blood sugar in type 2 diabetes.,B-9979,2023-11-25,34230,Dis,Hyderabad,25,2024-11-23,-19.0,Delhi,Hyderabad,Hyderabad,Mumbai,7026,Understock,,2024-07-02
+M-1007,O-37883,Cetirizine,Antihistamine for allergy symptoms.,B-9503,2024-09-29,58660,Dis,Pune,2,2026-06-20,555.0,Chennai,Pune,Delhi,Ahmedabad,34850,Understock,,2024-10-15
+M-1012,O-32683,Levofloxacin,Antibiotic for bacterial infections.,B-1274,2020-09-29,56970,RMS,Kolkata,1535,2023-09-29,,Chennai,Mumbai,Mumbai,Kolkata,0,,,2022-05-05
+M-1008,O-14890,Dolo 650,Brand of paracetamol for pain & fever.,B-4524,2023-03-02,41810,RMS,Bangalore,651,2025-06-09,,Bangalore,Delhi,Pune,Bangalore,0,,,2024-01-15
+M-1001,O-63307,Amoxicillin,Antibiotic for bacterial infections.,B-8760,2022-09-18,27640,RMS,Ahmedabad,816,2023-06-26,,Pune,Jaipur,Jaipur,Ahmedabad,0,,,2023-09-01
+M-1004,O-70443,Azithromycin,Antibiotic for bacterial infections.,B-5510,2022-09-19,30040,Dis,Lucknow,25,2024-04-30,-226.0,Chennai,Lucknow,Bangalore,Delhi,42415,Understock,,2023-11-02
+M-1004,O-37792,Azithromycin,Antibiotic for bacterial infections.,B-8952,2024-04-23,40640,Ret,Kolkata,24,2026-12-23,741.0,Kolkata,Lucknow,Ahmedabad,Chennai,0,,8820.0,2024-09-13
+M-1012,O-16408,Levofloxacin,Antibiotic for bacterial infections.,B-4577,2023-08-18,22230,Dis,Jaipur,5,2025-03-24,102.0,Lucknow,Jaipur,Lucknow,Kolkata,18630,Understock,,2023-12-01
+M-1000,O-77335,Paracetamol,Relieves fever & mild to moderate pain.,B-5728,2023-09-10,76740,RMS,Jaipur,459,2026-07-28,,Kolkata,Chennai,Hyderabad,Jaipur,0,,,2024-07-08
+M-1002,O-59682,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6561,2023-06-21,53990,Ret,Ahmedabad,3,2025-10-29,321.0,Ahmedabad,Kolkata,Pune,Delhi,0,,7930.0,2023-08-30
+M-1008,O-25770,Dolo 650,Brand of paracetamol for pain & fever.,B-2422,2021-05-15,18240,Ret,Pune,30,2023-04-23,-599.0,Pune,Chennai,Pune,Pune,0,,710.0,2023-10-28
+M-1006,O-86870,Omeprazole,Treats GERD and other stomach issues.,B-5699,2021-01-29,67710,Dis,Lucknow,7,2023-11-04,-404.0,Ahmedabad,Lucknow,Hyderabad,Ahmedabad,5635,Understock,,2023-12-19
+M-1003,O-98452,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4175,2022-08-19,21790,Man,Chennai,22,2024-09-24,-79.0,Jaipur,Delhi,Chennai,Bangalore,0,,,2024-09-25
+M-1002,O-47888,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2568,2022-12-31,48470,RMS,Mumbai,712,2025-02-16,,Mumbai,Ahmedabad,Delhi,Mumbai,0,,,2023-05-02
+M-1005,O-45384,Metformin,Controls blood sugar in type 2 diabetes.,B-2809,2020-07-10,25780,Man,Kolkata,27,2022-05-23,-934.0,Lucknow,Mumbai,Kolkata,Mumbai,0,,,2023-01-03
+M-1010,O-51299,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8960,2024-08-06,38080,Ret,Lucknow,14,2027-02-14,794.0,Lucknow,Ahmedabad,Kolkata,Lucknow,0,,5510.0,2024-08-29
+M-1002,O-86850,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1889,2020-08-05,44790,Ret,Lucknow,20,2022-01-27,-1050.0,Lucknow,Ahmedabad,Lucknow,Jaipur,0,,7850.0,2022-07-19
+M-1001,O-57690,Amoxicillin,Antibiotic for bacterial infections.,B-1442,2024-05-09,58490,RMS,Bangalore,217,2027-03-02,,Lucknow,Jaipur,Chennai,Bangalore,0,,,2024-08-23
+M-1007,O-37772,Cetirizine,Antihistamine for allergy symptoms.,B-4725,2020-08-06,13650,RMS,Chennai,1589,2022-08-12,,Lucknow,Hyderabad,Ahmedabad,Chennai,0,,,2021-06-05
+M-1000,O-86320,Paracetamol,Relieves fever & mild to moderate pain.,B-9740,2024-09-28,87820,Man,Bangalore,22,2026-05-20,524.0,Pune,Ahmedabad,Bangalore,Kolkata,0,,,2024-10-10
+M-1010,O-76848,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2034,2023-01-28,87950,RMS,Pune,684,2025-01-06,,Lucknow,Hyderabad,Jaipur,Pune,0,,,2024-01-20
+M-1009,O-96752,Cefixime,Antibiotic for respiratory and UTI infections.,B-5605,2022-07-19,85850,Man,Ahmedabad,5,2023-08-19,-481.0,Mumbai,Pune,Ahmedabad,Delhi,0,,,2024-10-28
+M-1009,O-82591,Cefixime,Antibiotic for respiratory and UTI infections.,B-8504,2024-06-17,15312,RMS,Chennai,178,2027-01-03,,Delhi,Delhi,Hyderabad,Chennai,0,,,2024-08-03
+M-1005,O-14013,Metformin,Controls blood sugar in type 2 diabetes.,B-6616,2024-11-24,31910,Ret,Hyderabad,9,2027-07-18,948.0,Hyderabad,Ahmedabad,Ahmedabad,Ahmedabad,0,,4910.0,2024-11-27
+M-1010,O-84792,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8060,2022-06-28,83930,Dis,Delhi,24,2024-09-25,-78.0,Pune,Delhi,Jaipur,Hyderabad,22141,Optimal,,2024-03-02
+M-1013,O-66569,Montelukast,Prevents asthma & seasonal allergies.,B-9486,2023-05-12,62790,Ret,Mumbai,14,2025-11-04,327.0,Mumbai,Chennai,Pune,Ahmedabad,0,,7020.0,2023-06-23
+M-1001,O-30793,Amoxicillin,Antibiotic for bacterial infections.,B-9910,2020-02-16,98690,Man,Hyderabad,23,2022-02-19,-1027.0,Hyderabad,Hyderabad,Hyderabad,Jaipur,0,,,2024-02-21
+M-1009,O-89265,Cefixime,Antibiotic for respiratory and UTI infections.,B-5825,2022-02-21,78410,RMS,Mumbai,1025,2023-01-13,,Pune,Hyderabad,Chennai,Mumbai,0,,,2024-01-14
+M-1008,O-72574,Dolo 650,Brand of paracetamol for pain & fever.,B-6471,2024-05-01,1520,Dis,Bangalore,28,2026-03-11,454.0,Pune,Bangalore,Hyderabad,Pune,28703,Understock,,2024-06-20
+M-1014,O-26219,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5769,2023-06-06,64510,Man,Lucknow,30,2025-03-21,99.0,Kolkata,Lucknow,Lucknow,Bangalore,0,,,2024-09-08
+M-1011,O-32926,Pantoprazole,Treats stomach & esophagus problems.,B-6372,2023-05-04,15470,Dis,Chennai,25,2023-12-05,-373.0,Ahmedabad,Chennai,Ahmedabad,Bangalore,47552,Understock,,2023-07-28
+M-1011,O-40982,Pantoprazole,Treats stomach & esophagus problems.,B-8315,2019-12-18,31930,Ret,Pune,13,2021-03-12,-1371.0,Pune,Delhi,Hyderabad,Kolkata,0,,8660.0,2022-03-01
+M-1007,O-59938,Cetirizine,Antihistamine for allergy symptoms.,B-7623,2024-11-21,2200,RMS,Kolkata,21,2025-10-10,,Delhi,Bangalore,Chennai,Kolkata,0,,,2024-12-05
+M-1013,O-34803,Montelukast,Prevents asthma & seasonal allergies.,B-2908,2021-12-18,66640,Man,Bangalore,5,2024-04-05,-251.0,Hyderabad,Bangalore,Bangalore,Kolkata,0,,,2023-02-20
+M-1008,O-29952,Dolo 650,Brand of paracetamol for pain & fever.,B-5904,2024-10-16,51530,RMS,Hyderabad,57,2026-10-19,,Bangalore,Delhi,Delhi,Hyderabad,0,,,2024-10-26
+M-1003,O-59727,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9954,2020-10-14,30630,Dis,Chennai,9,2022-02-18,-1028.0,Kolkata,Chennai,Mumbai,Hyderabad,27905,Understock,,2022-03-23
+M-1008,O-44916,Dolo 650,Brand of paracetamol for pain & fever.,B-6921,2021-09-28,21730,Man,Mumbai,15,2023-12-08,-370.0,Mumbai,Hyderabad,Mumbai,Chennai,0,,,2022-04-07
+M-1013,O-82184,Montelukast,Prevents asthma & seasonal allergies.,B-4893,2020-09-24,7620,Man,Hyderabad,5,2021-08-31,-1199.0,Mumbai,Hyderabad,Hyderabad,Bangalore,0,,,2021-11-21
+M-1004,O-85619,Azithromycin,Antibiotic for bacterial infections.,B-6614,2020-12-15,58420,Dis,Kolkata,25,2023-10-10,-429.0,Bangalore,Kolkata,Mumbai,Chennai,27382,Understock,,2022-06-22
+M-1011,O-31545,Pantoprazole,Treats stomach & esophagus problems.,B-3249,2022-02-12,53320,Man,Delhi,16,2022-09-30,-804.0,Chennai,Mumbai,Delhi,Jaipur,0,,,2022-02-15
+M-1012,O-11293,Levofloxacin,Antibiotic for bacterial infections.,B-1115,2021-10-04,28310,Man,Kolkata,10,2022-12-14,-729.0,Mumbai,Ahmedabad,Kolkata,Lucknow,0,,,2022-08-27
+M-1007,O-95903,Cetirizine,Antihistamine for allergy symptoms.,B-7404,2022-10-10,9460,Man,Ahmedabad,17,2024-02-29,-287.0,Kolkata,Chennai,Ahmedabad,Jaipur,0,,,2023-12-27
+M-1010,O-60743,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3222,2021-04-07,98310,Dis,Ahmedabad,23,2021-12-21,-1087.0,Pune,Ahmedabad,Pune,Kolkata,26032,Optimal,,2024-08-25
+M-1002,O-64947,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6515,2023-04-30,35720,Ret,Chennai,2,2024-02-11,-305.0,Chennai,Hyderabad,Kolkata,Kolkata,0,,4220.0,2023-09-01
+M-1013,O-77206,Montelukast,Prevents asthma & seasonal allergies.,B-5819,2023-02-22,3650,RMS,Ahmedabad,659,2025-04-05,,Chennai,Delhi,Ahmedabad,Ahmedabad,0,,,2024-08-24
+M-1004,O-23968,Azithromycin,Antibiotic for bacterial infections.,B-7816,2023-01-10,57740,Dis,Jaipur,25,2023-12-04,-374.0,Bangalore,Jaipur,Bangalore,Pune,45506,Optimal,,2024-02-12
+M-1012,O-46352,Levofloxacin,Antibiotic for bacterial infections.,B-6187,2021-01-22,47610,RMS,Chennai,1420,2023-03-01,,Mumbai,Pune,Ahmedabad,Chennai,0,,,2023-01-27
+M-1007,O-75128,Cetirizine,Antihistamine for allergy symptoms.,B-7753,2021-10-05,26110,Ret,Delhi,18,2024-08-27,-107.0,Delhi,Mumbai,Delhi,Hyderabad,0,,2200.0,2023-06-13
+M-1000,O-70095,Paracetamol,Relieves fever & mild to moderate pain.,B-6246,2021-08-29,32420,Ret,Kolkata,16,2024-06-27,-168.0,Kolkata,Bangalore,Kolkata,Pune,0,,7740.0,2021-10-29
+M-1002,O-11184,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2250,2023-09-01,5870,Ret,Ahmedabad,17,2025-04-04,113.0,Ahmedabad,Hyderabad,Delhi,Ahmedabad,0,,6080.0,2024-11-26
+M-1010,O-68724,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9462,2021-05-03,83410,RMS,Mumbai,1319,2022-05-10,,Lucknow,Kolkata,Chennai,Mumbai,0,,,2023-02-15
+M-1009,O-42827,Cefixime,Antibiotic for respiratory and UTI infections.,B-8132,2020-03-03,40250,Man,Kolkata,18,2022-08-24,-841.0,Delhi,Delhi,Kolkata,Jaipur,0,,,2020-09-04
+M-1007,O-44317,Cetirizine,Antihistamine for allergy symptoms.,B-5711,2021-08-11,2940,Dis,Lucknow,28,2023-06-25,-536.0,Kolkata,Lucknow,Mumbai,Jaipur,21626,Understock,,2021-09-30
+M-1004,O-48417,Azithromycin,Antibiotic for bacterial infections.,B-6349,2022-10-26,78860,Man,Jaipur,4,2024-04-24,-232.0,Pune,Kolkata,Jaipur,Kolkata,0,,,2024-02-18
+M-1003,O-63135,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6809,2024-06-05,114785,Man,Kolkata,2,2026-02-18,433.0,Pune,Lucknow,Kolkata,Mumbai,0,,,2024-12-06
+M-1009,O-93743,Cefixime,Antibiotic for respiratory and UTI infections.,B-5972,2020-05-25,4320,Man,Kolkata,12,2021-05-13,-1309.0,Lucknow,Hyderabad,Kolkata,Chennai,0,,,2021-03-22
+M-1006,O-13667,Omeprazole,Treats GERD and other stomach issues.,B-6844,2022-05-05,59592,Ret,Jaipur,13,2023-11-28,-380.0,Jaipur,Kolkata,Lucknow,Chennai,0,,4050.0,2023-01-06
+M-1010,O-35794,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7921,2022-06-02,8450,Man,Pune,9,2024-02-11,-305.0,Kolkata,Bangalore,Pune,Pune,0,,,2024-04-22
+M-1001,O-46044,Amoxicillin,Antibiotic for bacterial infections.,B-6719,2024-05-08,12420,RMS,Lucknow,218,2026-07-04,,Chennai,Delhi,Kolkata,Lucknow,0,,,2024-07-31
+M-1005,O-94221,Metformin,Controls blood sugar in type 2 diabetes.,B-9156,2020-02-16,12570,RMS,Delhi,1761,2021-03-18,,Ahmedabad,Hyderabad,Jaipur,Delhi,0,,,2024-02-09
+M-1002,O-42174,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5278,2022-11-24,23260,Dis,Chennai,22,2024-04-30,-226.0,Mumbai,Chennai,Lucknow,Jaipur,7811,Understock,,2023-05-30
+M-1007,O-97895,Cetirizine,Antihistamine for allergy symptoms.,B-9096,2021-04-28,17410,RMS,Delhi,1324,2023-11-17,,Bangalore,Chennai,Delhi,Delhi,0,,,2023-11-15
+M-1000,O-64758,Paracetamol,Relieves fever & mild to moderate pain.,B-6810,2020-10-17,74810,Ret,Mumbai,9,2021-04-24,-1328.0,Mumbai,Hyderabad,Jaipur,Pune,0,,1660.0,2023-03-28
+M-1007,O-58747,Cetirizine,Antihistamine for allergy symptoms.,B-2662,2020-05-25,89540,Dis,Chennai,28,2022-06-10,-916.0,Hyderabad,Chennai,Delhi,Lucknow,8847,Understock,,2021-03-03
+M-1006,O-23712,Omeprazole,Treats GERD and other stomach issues.,B-8965,2022-07-24,69550,Ret,Ahmedabad,29,2023-11-06,-402.0,Ahmedabad,Mumbai,Lucknow,Kolkata,0,,5320.0,2024-09-12
+M-1007,O-51148,Cetirizine,Antihistamine for allergy symptoms.,B-4372,2021-09-15,18890,Dis,Hyderabad,22,2022-07-31,-865.0,Lucknow,Hyderabad,Ahmedabad,Jaipur,3830,Understock,,2022-03-30
+M-1005,O-35187,Metformin,Controls blood sugar in type 2 diabetes.,B-2170,2022-05-01,80600,Dis,Pune,4,2023-01-21,-691.0,Bangalore,Pune,Ahmedabad,Jaipur,19974,Optimal,,2024-02-14
+M-1005,O-78502,Metformin,Controls blood sugar in type 2 diabetes.,B-6969,2022-03-14,62766,RMS,Chennai,1004,2023-04-29,,Lucknow,Mumbai,Lucknow,Chennai,0,,,2023-04-19
+M-1004,O-51925,Azithromycin,Antibiotic for bacterial infections.,B-5666,2022-11-06,39570,RMS,Hyderabad,767,2023-05-11,,Jaipur,Ahmedabad,Kolkata,Hyderabad,0,,,2023-06-17
+M-1010,O-28546,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6882,2022-10-29,78000,Ret,Lucknow,22,2023-08-25,-475.0,Lucknow,Ahmedabad,Hyderabad,Ahmedabad,0,,5460.0,2024-03-18
+M-1007,O-90937,Cetirizine,Antihistamine for allergy symptoms.,B-9151,2024-10-17,36720,Man,Pune,8,2026-03-10,453.0,Ahmedabad,Hyderabad,Pune,Delhi,0,,,2024-12-09
+M-1010,O-51222,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6452,2020-05-29,45010,Man,Mumbai,24,2022-06-05,-921.0,Mumbai,Delhi,Mumbai,Lucknow,0,,,2024-07-30
+M-1004,O-68372,Azithromycin,Antibiotic for bacterial infections.,B-9644,2021-04-02,17760,RMS,Kolkata,1350,2023-02-08,,Mumbai,Mumbai,Jaipur,Kolkata,0,,,2023-08-07
+M-1013,O-38750,Montelukast,Prevents asthma & seasonal allergies.,B-7827,2022-08-12,65580,RMS,Mumbai,853,2023-03-20,,Ahmedabad,Bangalore,Mumbai,Mumbai,0,,,2022-10-28
+M-1014,O-16462,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7956,2022-04-20,15070,RMS,Bangalore,967,2024-10-28,,Bangalore,Lucknow,Hyderabad,Bangalore,0,,,2022-12-24
+M-1003,O-97572,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2255,2023-03-03,53620,Dis,Ahmedabad,2,2023-12-04,-374.0,Mumbai,Ahmedabad,Chennai,Pune,1580,Understock,,2023-11-12
+M-1002,O-32607,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2339,2024-10-14,21590,RMS,Chennai,59,2025-06-24,,Delhi,Delhi,Ahmedabad,Chennai,0,,,2024-10-31
+M-1012,O-25991,Levofloxacin,Antibiotic for bacterial infections.,B-5236,2022-01-02,18140,Ret,Delhi,10,2022-11-29,-744.0,Delhi,Lucknow,Bangalore,Delhi,0,,930.0,2024-04-02
+M-1009,O-25809,Cefixime,Antibiotic for respiratory and UTI infections.,B-2834,2024-11-22,40230,Man,Bangalore,17,2026-05-25,529.0,Kolkata,Hyderabad,Bangalore,Hyderabad,0,,,2024-12-03
+M-1002,O-73993,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6251,2021-10-24,71180,Ret,Kolkata,8,2023-08-29,-471.0,Kolkata,Hyderabad,Bangalore,Pune,0,,810.0,2023-02-11
+M-1014,O-96180,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-6275,2021-06-04,36440,Ret,Delhi,11,2023-03-27,-626.0,Delhi,Kolkata,Mumbai,Kolkata,0,,4840.0,2023-06-08
+M-1005,O-58598,Metformin,Controls blood sugar in type 2 diabetes.,B-6848,2021-11-18,19060,Man,Kolkata,16,2022-10-20,-784.0,Ahmedabad,Chennai,Kolkata,Delhi,0,,,2024-07-29
+M-1011,O-22565,Pantoprazole,Treats stomach & esophagus problems.,B-6365,2022-12-03,90730,Man,Lucknow,3,2023-07-18,-513.0,Jaipur,Pune,Lucknow,Mumbai,0,,,2024-10-21
+M-1005,O-71360,Metformin,Controls blood sugar in type 2 diabetes.,B-6910,2021-12-31,91730,Ret,Ahmedabad,30,2022-12-28,-715.0,Ahmedabad,Bangalore,Jaipur,Ahmedabad,0,,3930.0,2023-06-13
+M-1002,O-33124,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6538,2020-08-09,38760,Man,Hyderabad,30,2022-08-26,-839.0,Hyderabad,Chennai,Hyderabad,Mumbai,0,,,2020-11-03
+M-1001,O-90727,Amoxicillin,Antibiotic for bacterial infections.,B-4317,2023-06-09,24388,RMS,Hyderabad,552,2024-10-14,,Mumbai,Mumbai,Pune,Hyderabad,0,,,2024-12-09
+M-1004,O-87368,Azithromycin,Antibiotic for bacterial infections.,B-1899,2022-11-22,88460,Ret,Hyderabad,28,2025-04-24,133.0,Hyderabad,Pune,Ahmedabad,Lucknow,0,,8950.0,2023-11-04
+M-1011,O-84559,Pantoprazole,Treats stomach & esophagus problems.,B-6092,2022-01-05,55924,Ret,Lucknow,21,2023-04-07,-615.0,Lucknow,Mumbai,Jaipur,Kolkata,0,,620.0,2022-03-28
+M-1014,O-81899,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1222,2023-08-08,34529,RMS,Mumbai,492,2024-07-21,,Mumbai,Chennai,Bangalore,Mumbai,0,,,2024-03-20
+M-1014,O-22990,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3306,2022-02-05,57760,Man,Jaipur,25,2024-02-18,-298.0,Bangalore,Kolkata,Jaipur,Lucknow,0,,,2024-03-10
+M-1007,O-45955,Cetirizine,Antihistamine for allergy symptoms.,B-7623,2023-03-24,37430,Ret,Kolkata,17,2025-10-10,302.0,Kolkata,Jaipur,Ahmedabad,Bangalore,0,,6020.0,2024-09-18
+M-1002,O-97317,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2145,2020-11-14,58040,Dis,Bangalore,26,2023-03-13,-640.0,Ahmedabad,Bangalore,Bangalore,Mumbai,29268,Understock,,2022-05-23
+M-1013,O-53906,Montelukast,Prevents asthma & seasonal allergies.,B-4831,2021-12-04,72600,Dis,Pune,17,2023-06-05,-556.0,Hyderabad,Pune,Ahmedabad,Hyderabad,13288,Understock,,2023-11-15
+M-1006,O-95447,Omeprazole,Treats GERD and other stomach issues.,B-5165,2021-01-04,6540,Dis,Ahmedabad,18,2021-08-04,-1226.0,Bangalore,Ahmedabad,Ahmedabad,Chennai,43298,Understock,,2024-04-16
+M-1013,O-63810,Montelukast,Prevents asthma & seasonal allergies.,B-5540,2022-08-17,66650,Dis,Chennai,18,2025-07-27,227.0,Delhi,Chennai,Chennai,Kolkata,19990,Understock,,2024-09-30
+M-1005,O-47405,Metformin,Controls blood sugar in type 2 diabetes.,B-3213,2024-10-09,42390,Dis,Mumbai,23,2026-09-14,641.0,Chennai,Mumbai,Lucknow,Mumbai,29671,Understock,,2024-11-07
+M-1011,O-45301,Pantoprazole,Treats stomach & esophagus problems.,B-5218,2021-04-14,28750,Dis,Hyderabad,16,2023-07-02,-529.0,Lucknow,Hyderabad,Delhi,Jaipur,24038,Understock,,2023-04-23
+M-1008,O-11647,Dolo 650,Brand of paracetamol for pain & fever.,B-2764,2021-06-17,38520,Man,Jaipur,8,2022-07-10,-886.0,Lucknow,Kolkata,Jaipur,Bangalore,0,,,2022-12-22
+M-1005,O-21975,Metformin,Controls blood sugar in type 2 diabetes.,B-5967,2020-11-12,36110,Ret,Hyderabad,26,2022-12-21,-722.0,Hyderabad,Delhi,Lucknow,Lucknow,0,,1260.0,2024-02-24
+M-1008,O-10104,Dolo 650,Brand of paracetamol for pain & fever.,B-3437,2022-12-03,32025,Ret,Chennai,17,2024-09-16,-87.0,Chennai,Pune,Pune,Delhi,0,,3050.0,2024-07-07
+M-1003,O-98946,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7740,2020-06-15,46004,Man,Chennai,5,2021-10-26,-1143.0,Hyderabad,Kolkata,Chennai,Kolkata,0,,,2023-03-31
+M-1008,O-92425,Dolo 650,Brand of paracetamol for pain & fever.,B-2830,2021-03-25,58550,Ret,Chennai,21,2023-09-20,-449.0,Chennai,Ahmedabad,Delhi,Hyderabad,0,,2440.0,2023-09-15
+M-1012,O-43095,Levofloxacin,Antibiotic for bacterial infections.,B-2363,2024-09-23,7060,RMS,Jaipur,80,2026-02-27,,Chennai,Kolkata,Ahmedabad,Jaipur,0,,,2024-10-08
+M-1007,O-15248,Cetirizine,Antihistamine for allergy symptoms.,B-3893,2024-03-08,43050,Man,Chennai,25,2024-12-28,16.0,Jaipur,Kolkata,Chennai,Lucknow,0,,,2024-04-28
+M-1012,O-69692,Levofloxacin,Antibiotic for bacterial infections.,B-7311,2024-11-25,40280,Man,Ahmedabad,22,2025-09-10,272.0,Lucknow,Pune,Ahmedabad,Mumbai,0,,,2024-12-02
+M-1001,O-38699,Amoxicillin,Antibiotic for bacterial infections.,B-3315,2021-02-04,44440,Man,Pune,28,2023-02-14,-667.0,Lucknow,Kolkata,Pune,Chennai,0,,,2021-12-19
+M-1014,O-38184,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-8475,2021-06-11,99350,RMS,Kolkata,1280,2023-05-01,,Lucknow,Hyderabad,Bangalore,Kolkata,0,,,2023-10-17
+M-1012,O-77081,Levofloxacin,Antibiotic for bacterial infections.,B-1673,2020-07-30,1870,Ret,Hyderabad,8,2023-07-24,-507.0,Hyderabad,Chennai,Ahmedabad,Hyderabad,0,,770.0,2021-03-07
+M-1004,O-89069,Azithromycin,Antibiotic for bacterial infections.,B-1614,2023-05-20,3410,Ret,Bangalore,6,2024-04-19,-237.0,Bangalore,Kolkata,Jaipur,Delhi,0,,1180.0,2023-10-10
+M-1010,O-71107,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3683,2023-07-23,24350,Dis,Mumbai,15,2024-10-15,-58.0,Bangalore,Mumbai,Kolkata,Lucknow,23613,Understock,,2023-12-07
+M-1013,O-60385,Montelukast,Prevents asthma & seasonal allergies.,B-3527,2022-12-01,5350,Man,Kolkata,18,2025-08-10,241.0,Chennai,Jaipur,Kolkata,Jaipur,0,,,2023-08-14
+M-1011,O-44887,Pantoprazole,Treats stomach & esophagus problems.,B-6544,2022-10-21,40270,Dis,Hyderabad,15,2025-05-29,168.0,Pune,Hyderabad,Pune,Pune,8307,Understock,,2023-09-11
+M-1002,O-28357,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6604,2023-09-19,23130,RMS,Hyderabad,450,2024-12-16,,Delhi,Chennai,Delhi,Hyderabad,0,,,2023-10-05
+M-1007,O-83031,Cetirizine,Antihistamine for allergy symptoms.,B-4230,2020-06-21,55608,Ret,Chennai,11,2022-05-02,-955.0,Chennai,Ahmedabad,Lucknow,Pune,0,,3880.0,2021-12-28
+M-1014,O-73704,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3969,2021-03-16,47070,Dis,Bangalore,19,2023-08-10,-490.0,Jaipur,Bangalore,Bangalore,Hyderabad,891,Understock,,2023-11-24
+M-1009,O-99705,Cefixime,Antibiotic for respiratory and UTI infections.,B-9861,2022-02-18,13980,RMS,Mumbai,1028,2023-03-01,,Ahmedabad,Hyderabad,Kolkata,Mumbai,0,,,2024-03-20
+M-1013,O-97712,Montelukast,Prevents asthma & seasonal allergies.,B-1406,2024-08-26,61220,Ret,Pune,6,2027-08-15,976.0,Pune,Kolkata,Lucknow,Delhi,0,,8620.0,2024-10-08
+M-1002,O-26565,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6090,2023-08-09,61390,Man,Hyderabad,6,2024-11-03,-39.0,Jaipur,Ahmedabad,Hyderabad,Lucknow,0,,,2024-09-25
+M-1010,O-80304,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5031,2022-12-02,99570,RMS,Pune,741,2025-06-24,,Jaipur,Mumbai,Ahmedabad,Pune,0,,,2024-08-12
+M-1013,O-24574,Montelukast,Prevents asthma & seasonal allergies.,B-2113,2023-09-08,88320,Dis,Pune,27,2026-06-16,551.0,Jaipur,Pune,Kolkata,Ahmedabad,9350,Understock,,2024-07-19
+M-1003,O-30763,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5192,2024-05-09,40820,Ret,Bangalore,18,2027-04-21,860.0,Bangalore,Jaipur,Kolkata,Ahmedabad,0,,1840.0,2024-10-01
+M-1006,O-38152,Omeprazole,Treats GERD and other stomach issues.,B-8891,2023-09-02,51850,Ret,Delhi,29,2025-07-25,225.0,Delhi,Delhi,Delhi,Delhi,0,,2430.0,2024-08-23
+M-1012,O-92892,Levofloxacin,Antibiotic for bacterial infections.,B-3096,2020-04-24,55930,Dis,Delhi,19,2023-04-10,-612.0,Kolkata,Delhi,Bangalore,Bangalore,16892,Understock,,2024-07-03
+M-1010,O-50263,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6343,2021-12-18,69600,Man,Chennai,14,2023-04-30,-592.0,Ahmedabad,Kolkata,Chennai,Kolkata,0,,,2022-02-13
+M-1012,O-93354,Levofloxacin,Antibiotic for bacterial infections.,B-7054,2022-11-13,33180,Dis,Delhi,25,2024-09-01,-102.0,Lucknow,Delhi,Mumbai,Jaipur,32597,Understock,,2024-08-12
+M-1007,O-94468,Cetirizine,Antihistamine for allergy symptoms.,B-2444,2024-05-01,88890,Ret,Bangalore,15,2025-06-24,194.0,Bangalore,Chennai,Mumbai,Pune,0,,3770.0,2024-11-09
+M-1008,O-21563,Dolo 650,Brand of paracetamol for pain & fever.,B-4952,2022-08-19,86120,Ret,Mumbai,22,2024-02-21,-295.0,Mumbai,Pune,Mumbai,Kolkata,0,,9840.0,2022-10-06
+M-1003,O-23770,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9435,2021-07-28,129480,RMS,Delhi,1233,2024-06-29,,Chennai,Hyderabad,Hyderabad,Delhi,0,,,2024-12-09
+M-1007,O-79156,Cetirizine,Antihistamine for allergy symptoms.,B-5139,2020-03-10,57240,Dis,Kolkata,10,2020-12-22,-1451.0,Kolkata,Kolkata,Hyderabad,Delhi,19068,Understock,,2022-05-06
+M-1007,O-17289,Cetirizine,Antihistamine for allergy symptoms.,B-4422,2022-11-29,93280,Ret,Lucknow,4,2025-04-18,127.0,Lucknow,Bangalore,Pune,Chennai,0,,2820.0,2024-09-14
+M-1006,O-32585,Omeprazole,Treats GERD and other stomach issues.,B-5305,2021-03-31,57680,RMS,Mumbai,1352,2023-04-21,,Jaipur,Bangalore,Delhi,Mumbai,0,,,2021-04-04
+M-1000,O-19228,Paracetamol,Relieves fever & mild to moderate pain.,B-1635,2020-01-17,117900,RMS,Kolkata,1791,2022-08-19,,Chennai,Chennai,Delhi,Kolkata,0,,,2022-02-08
+M-1003,O-38078,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1697,2022-04-16,65760,Dis,Bangalore,29,2024-04-06,-250.0,Jaipur,Bangalore,Delhi,Hyderabad,28894,Understock,,2022-06-04
+M-1010,O-81062,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3470,2023-05-22,79180,RMS,Kolkata,570,2025-01-24,,Mumbai,Chennai,Lucknow,Kolkata,0,,,2024-12-06
+M-1000,O-92302,Paracetamol,Relieves fever & mild to moderate pain.,B-8644,2020-07-16,45130,Ret,Lucknow,10,2021-04-30,-1322.0,Lucknow,Pune,Mumbai,Lucknow,0,,1960.0,2024-03-10
+M-1002,O-56274,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3668,2020-08-30,16150,RMS,Bangalore,1565,2021-08-29,,Jaipur,Hyderabad,Kolkata,Bangalore,0,,,2024-11-28
+M-1005,O-73459,Metformin,Controls blood sugar in type 2 diabetes.,B-1998,2024-06-04,67640,Man,Ahmedabad,8,2025-08-09,240.0,Mumbai,Jaipur,Ahmedabad,Pune,0,,,2024-07-28
+M-1012,O-89319,Levofloxacin,Antibiotic for bacterial infections.,B-5660,2021-07-19,42080,Ret,Lucknow,28,2022-09-12,-822.0,Lucknow,Lucknow,Bangalore,Delhi,0,,5010.0,2023-02-18
+M-1009,O-97849,Cefixime,Antibiotic for respiratory and UTI infections.,B-3013,2024-06-08,8112,Ret,Jaipur,30,2026-10-31,688.0,Jaipur,Pune,Mumbai,Kolkata,0,,7550.0,2024-11-07
+M-1013,O-85244,Montelukast,Prevents asthma & seasonal allergies.,B-4626,2021-04-23,25932,Dis,Bangalore,2,2022-07-26,-870.0,Pune,Bangalore,Jaipur,Lucknow,49461,Understock,,2023-07-04
+M-1013,O-16975,Montelukast,Prevents asthma & seasonal allergies.,B-9328,2024-08-01,48010,RMS,Pune,133,2026-05-23,,Chennai,Chennai,Hyderabad,Pune,0,,,2024-11-07
+M-1013,O-24724,Montelukast,Prevents asthma & seasonal allergies.,B-6719,2023-11-03,29380,Ret,Kolkata,15,2026-08-04,600.0,Kolkata,Ahmedabad,Mumbai,Hyderabad,0,,5650.0,2024-03-10
+M-1003,O-46977,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1320,2024-05-15,73150,RMS,Chennai,211,2025-10-11,,Kolkata,Kolkata,Mumbai,Chennai,0,,,2024-07-19
+M-1009,O-46578,Cefixime,Antibiotic for respiratory and UTI infections.,B-6496,2022-04-12,64020,RMS,Pune,975,2022-12-20,,Mumbai,Lucknow,Mumbai,Pune,0,,,2022-12-29
+M-1002,O-74350,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2420,2024-09-28,14640,RMS,Chennai,75,2027-05-04,,Kolkata,Delhi,Chennai,Chennai,0,,,2024-11-30
+M-1006,O-91239,Omeprazole,Treats GERD and other stomach issues.,B-3352,2022-04-13,77370,Dis,Lucknow,12,2024-04-08,-248.0,Bangalore,Lucknow,Jaipur,Lucknow,18980,Understock,,2022-05-19
+M-1012,O-39171,Levofloxacin,Antibiotic for bacterial infections.,B-5954,2023-03-18,34170,Man,Pune,4,2024-07-17,-148.0,Jaipur,Chennai,Pune,Hyderabad,0,,,2024-08-11
+M-1000,O-97585,Paracetamol,Relieves fever & mild to moderate pain.,B-1239,2020-03-31,83610,RMS,Jaipur,1717,2021-09-19,,Pune,Lucknow,Lucknow,Jaipur,0,,,2020-10-25
+M-1001,O-39053,Amoxicillin,Antibiotic for bacterial infections.,B-5176,2020-09-10,73340,Dis,Pune,24,2021-11-29,-1109.0,Hyderabad,Pune,Pune,Lucknow,9343,Understock,,2022-07-18
+M-1003,O-45690,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5584,2020-07-09,23387,RMS,Bangalore,1617,2022-09-09,,Bangalore,Hyderabad,Lucknow,Bangalore,0,,,2023-08-04
+M-1011,O-76658,Pantoprazole,Treats stomach & esophagus problems.,B-9272,2021-11-26,4590,Man,Bangalore,28,2024-09-01,-102.0,Ahmedabad,Chennai,Bangalore,Chennai,0,,,2023-08-23
+M-1010,O-69623,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3416,2023-06-16,97460,RMS,Chennai,545,2026-05-20,,Mumbai,Jaipur,Jaipur,Chennai,0,,,2024-02-16
+M-1012,O-51707,Levofloxacin,Antibiotic for bacterial infections.,B-4838,2021-01-12,23330,Ret,Jaipur,8,2021-11-01,-1137.0,Jaipur,Lucknow,Chennai,Lucknow,0,,8870.0,2024-01-10
+M-1014,O-95646,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-8964,2020-05-14,84670,Ret,Delhi,28,2022-12-24,-719.0,Delhi,Bangalore,Delhi,Mumbai,0,,4270.0,2024-01-18
+M-1003,O-96399,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4999,2022-05-01,41270,Man,Delhi,27,2024-12-22,10.0,Bangalore,Lucknow,Delhi,Hyderabad,0,,,2022-05-26
+M-1014,O-22997,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9979,2021-04-05,88540,Ret,Mumbai,28,2023-07-02,-529.0,Mumbai,Chennai,Jaipur,Jaipur,0,,5590.0,2023-12-16
+M-1012,O-64849,Levofloxacin,Antibiotic for bacterial infections.,B-5660,2020-07-09,46660,Man,Delhi,13,2022-09-12,-822.0,Chennai,Bangalore,Delhi,Kolkata,0,,,2021-04-28
+M-1012,O-40132,Levofloxacin,Antibiotic for bacterial infections.,B-9047,2022-09-14,22440,Man,Kolkata,19,2023-10-31,-408.0,Mumbai,Jaipur,Kolkata,Bangalore,0,,,2023-04-10
+M-1009,O-14470,Cefixime,Antibiotic for respiratory and UTI infections.,B-5805,2021-09-03,92580,Dis,Bangalore,4,2024-08-17,-117.0,Lucknow,Bangalore,Chennai,Jaipur,38038,Optimal,,2022-05-07
+M-1003,O-76715,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1415,2021-10-26,82550,Dis,Chennai,20,2022-10-21,-783.0,Bangalore,Chennai,Pune,Ahmedabad,37713,Optimal,,2023-08-01
+M-1002,O-10183,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9250,2024-06-09,57070,Ret,Delhi,30,2026-08-29,625.0,Delhi,Delhi,Pune,Delhi,0,,3690.0,2024-10-15
+M-1010,O-31337,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2961,2020-08-16,49120,Ret,Lucknow,8,2021-12-05,-1103.0,Lucknow,Delhi,Chennai,Bangalore,0,,6590.0,2023-01-01
+M-1008,O-76700,Dolo 650,Brand of paracetamol for pain & fever.,B-8747,2022-11-13,82670,Dis,Ahmedabad,28,2024-11-30,-12.0,Jaipur,Ahmedabad,Delhi,Bangalore,5236,Understock,,2023-10-21
+M-1001,O-44028,Amoxicillin,Antibiotic for bacterial infections.,B-3746,2020-09-22,41290,Ret,Delhi,21,2022-09-10,-824.0,Delhi,Chennai,Hyderabad,Chennai,0,,7860.0,2021-09-02
+M-1014,O-53554,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1813,2022-10-17,56040,Man,Ahmedabad,27,2025-08-23,254.0,Pune,Chennai,Ahmedabad,Kolkata,0,,,2023-09-18
+M-1002,O-42665,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6199,2021-10-02,51560,Dis,Jaipur,14,2022-10-21,-783.0,Ahmedabad,Jaipur,Hyderabad,Ahmedabad,43696,Understock,,2023-07-26
+M-1014,O-53502,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4381,2020-08-17,107866,RMS,Chennai,1578,2022-01-04,,Mumbai,Hyderabad,Hyderabad,Chennai,0,,,2022-01-03
+M-1014,O-17839,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9715,2020-07-14,69810,Dis,Kolkata,10,2022-05-17,-940.0,Jaipur,Kolkata,Lucknow,Hyderabad,14223,Understock,,2023-04-01
+M-1012,O-43634,Levofloxacin,Antibiotic for bacterial infections.,B-2125,2021-01-30,11700,Ret,Jaipur,27,2022-06-26,-900.0,Jaipur,Lucknow,Chennai,Chennai,0,,7330.0,2024-05-10
+M-1012,O-50538,Levofloxacin,Antibiotic for bacterial infections.,B-6017,2021-10-25,16960,RMS,Mumbai,1144,2022-12-18,,Kolkata,Delhi,Mumbai,Mumbai,0,,,2023-07-23
+M-1009,O-42468,Cefixime,Antibiotic for respiratory and UTI infections.,B-1401,2021-06-01,89364,RMS,Lucknow,1290,2024-05-21,,Kolkata,Bangalore,Mumbai,Lucknow,0,,,2023-12-24
+M-1014,O-98865,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-8482,2022-03-02,6350,Man,Ahmedabad,22,2023-10-27,-412.0,Mumbai,Ahmedabad,Ahmedabad,Mumbai,0,,,2024-06-03
+M-1013,O-88747,Montelukast,Prevents asthma & seasonal allergies.,B-5710,2021-06-11,87020,Ret,Mumbai,2,2024-02-18,-298.0,Mumbai,Delhi,Ahmedabad,Bangalore,0,,9580.0,2022-12-16
+M-1003,O-36069,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4504,2020-10-22,25830,Man,Ahmedabad,15,2022-10-05,-799.0,Pune,Hyderabad,Ahmedabad,Jaipur,0,,,2022-10-09
+M-1014,O-57693,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5200,2022-03-30,68290,Ret,Delhi,1,2023-09-13,-456.0,Delhi,Kolkata,Pune,Jaipur,0,,6900.0,2024-06-13
+M-1004,O-49310,Azithromycin,Antibiotic for bacterial infections.,B-3305,2020-03-22,48230,Ret,Pune,23,2021-07-20,-1241.0,Pune,Chennai,Hyderabad,Kolkata,0,,3760.0,2022-05-08
+M-1003,O-42631,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8992,2023-04-01,26890,Dis,Hyderabad,4,2025-09-24,286.0,Bangalore,Hyderabad,Bangalore,Jaipur,26040,Understock,,2023-04-13
+M-1006,O-44184,Omeprazole,Treats GERD and other stomach issues.,B-9591,2023-11-26,17800,Dis,Delhi,17,2024-06-08,-187.0,Delhi,Delhi,Mumbai,Ahmedabad,30216,Understock,,2024-04-21
+M-1004,O-55711,Azithromycin,Antibiotic for bacterial infections.,B-8502,2020-01-28,4230,RMS,Lucknow,1780,2021-03-20,,Delhi,Kolkata,Chennai,Lucknow,0,,,2023-07-21
+M-1008,O-84993,Dolo 650,Brand of paracetamol for pain & fever.,B-7844,2022-02-14,60530,Ret,Bangalore,19,2023-02-24,-657.0,Bangalore,Pune,Jaipur,Hyderabad,0,,2760.0,2023-04-10
+M-1010,O-69433,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7636,2024-09-12,45720,Dis,Lucknow,18,2026-04-20,494.0,Lucknow,Lucknow,Ahmedabad,Mumbai,25611,Understock,,2024-11-01
+M-1013,O-30265,Montelukast,Prevents asthma & seasonal allergies.,B-2635,2021-11-02,5130,Ret,Chennai,26,2024-02-11,-305.0,Chennai,Pune,Chennai,Pune,0,,5450.0,2023-08-18
+M-1003,O-29975,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9972,2022-04-01,55540,Dis,Mumbai,14,2025-01-02,21.0,Chennai,Mumbai,Mumbai,Hyderabad,44555,Optimal,,2024-04-10
+M-1006,O-96223,Omeprazole,Treats GERD and other stomach issues.,B-1477,2024-11-22,54210,Man,Delhi,26,2026-02-10,425.0,Jaipur,Bangalore,Delhi,Jaipur,0,,,2024-12-01
+M-1001,O-63746,Amoxicillin,Antibiotic for bacterial infections.,B-8218,2024-11-03,5380,Dis,Lucknow,8,2025-10-27,319.0,Pune,Lucknow,Delhi,Delhi,28659,Understock,,2024-11-29
+M-1005,O-76987,Metformin,Controls blood sugar in type 2 diabetes.,B-4771,2022-09-14,12470,Man,Pune,8,2023-03-29,-624.0,Bangalore,Chennai,Pune,Chennai,0,,,2022-10-07
+M-1011,O-72301,Pantoprazole,Treats stomach & esophagus problems.,B-4909,2022-06-01,30040,Man,Ahmedabad,5,2024-07-15,-150.0,Ahmedabad,Jaipur,Ahmedabad,Lucknow,0,,,2022-06-27
+M-1012,O-27333,Levofloxacin,Antibiotic for bacterial infections.,B-4927,2020-03-18,97310,Dis,Hyderabad,25,2022-02-16,-1030.0,Pune,Hyderabad,Ahmedabad,Mumbai,45196,Optimal,,2024-10-29
+M-1007,O-52967,Cetirizine,Antihistamine for allergy symptoms.,B-4467,2020-09-17,33670,Man,Kolkata,9,2022-11-14,-759.0,Jaipur,Lucknow,Kolkata,Pune,0,,,2021-08-16
+M-1011,O-73801,Pantoprazole,Treats stomach & esophagus problems.,B-5055,2021-02-28,67230,RMS,Bangalore,1383,2023-07-28,,Bangalore,Chennai,Mumbai,Bangalore,0,,,2023-06-01
+M-1000,O-16945,Paracetamol,Relieves fever & mild to moderate pain.,B-5502,2022-05-22,4130,Dis,Lucknow,8,2024-05-04,-222.0,Bangalore,Lucknow,Chennai,Chennai,4980,Understock,,2023-12-15
+M-1002,O-60081,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-4984,2021-10-17,12880,RMS,Chennai,1152,2024-04-02,,Kolkata,Jaipur,Ahmedabad,Chennai,0,,,2022-11-11
+M-1011,O-29639,Pantoprazole,Treats stomach & esophagus problems.,B-3794,2022-04-26,80870,Dis,Hyderabad,13,2024-12-23,11.0,Chennai,Hyderabad,Hyderabad,Delhi,25944,Optimal,,2024-08-30
+M-1012,O-53428,Levofloxacin,Antibiotic for bacterial infections.,B-8539,2023-11-23,33970,Ret,Pune,23,2025-04-27,136.0,Pune,Bangalore,Bangalore,Kolkata,0,,6460.0,2024-09-13
+M-1010,O-66073,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3693,2020-10-04,75276,Dis,Jaipur,12,2022-08-11,-854.0,Lucknow,Jaipur,Hyderabad,Pune,22861,Understock,,2022-10-25
+M-1010,O-85763,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7611,2022-07-31,98050,Dis,Delhi,13,2023-03-25,-628.0,Lucknow,Delhi,Hyderabad,Jaipur,18800,Optimal,,2023-11-11
+M-1006,O-51392,Omeprazole,Treats GERD and other stomach issues.,B-9521,2021-12-27,6950,Ret,Jaipur,6,2022-08-05,-860.0,Jaipur,Pune,Jaipur,Chennai,0,,8750.0,2024-07-19
+M-1005,O-20681,Metformin,Controls blood sugar in type 2 diabetes.,B-6119,2023-03-02,59246,RMS,Kolkata,651,2025-10-18,,Chennai,Pune,Mumbai,Kolkata,0,,,2023-10-18
+M-1009,O-96009,Cefixime,Antibiotic for respiratory and UTI infections.,B-1634,2023-12-22,28170,RMS,Kolkata,356,2026-01-08,,Bangalore,Kolkata,Lucknow,Kolkata,0,,,2024-09-18
+M-1014,O-73193,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9515,2022-07-08,35490,Dis,Ahmedabad,10,2024-11-13,-29.0,Pune,Ahmedabad,Bangalore,Chennai,21877,Understock,,2023-06-30
+M-1006,O-53079,Omeprazole,Treats GERD and other stomach issues.,B-4178,2020-02-19,21210,Man,Hyderabad,14,2021-10-05,-1164.0,Ahmedabad,Bangalore,Hyderabad,Ahmedabad,0,,,2020-11-12
+M-1013,O-65122,Montelukast,Prevents asthma & seasonal allergies.,B-3737,2024-08-05,42980,Man,Delhi,18,2025-06-03,173.0,Delhi,Jaipur,Delhi,Jaipur,0,,,2024-09-23
+M-1009,O-18594,Cefixime,Antibiotic for respiratory and UTI infections.,B-8404,2020-07-05,98120,RMS,Ahmedabad,1621,2021-11-21,,Ahmedabad,Lucknow,Pune,Ahmedabad,0,,,2021-11-10
+M-1009,O-94089,Cefixime,Antibiotic for respiratory and UTI infections.,B-1660,2022-10-17,80310,Man,Delhi,27,2025-07-15,215.0,Pune,Mumbai,Delhi,Mumbai,0,,,2022-12-09
+M-1012,O-31113,Levofloxacin,Antibiotic for bacterial infections.,B-2955,2023-08-07,36370,Dis,Ahmedabad,14,2024-07-31,-134.0,Delhi,Ahmedabad,Mumbai,Chennai,18993,Understock,,2024-02-25
+M-1008,O-36914,Dolo 650,Brand of paracetamol for pain & fever.,B-9502,2024-05-07,95320,Ret,Bangalore,4,2025-03-26,104.0,Bangalore,Mumbai,Lucknow,Delhi,0,,6340.0,2024-06-25
+M-1014,O-27831,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3486,2023-05-07,5510,Dis,Pune,11,2024-06-28,-167.0,Ahmedabad,Pune,Kolkata,Kolkata,16816,Understock,,2024-07-05
+M-1006,O-36998,Omeprazole,Treats GERD and other stomach issues.,B-7960,2022-03-12,74010,Dis,Mumbai,23,2023-02-08,-673.0,Jaipur,Mumbai,Ahmedabad,Chennai,33650,Optimal,,2023-06-29
+M-1003,O-10047,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8557,2022-09-05,94900,Man,Delhi,12,2024-10-24,-49.0,Kolkata,Hyderabad,Delhi,Delhi,0,,,2023-10-21
+M-1002,O-98503,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2772,2022-09-25,97240,Man,Hyderabad,27,2025-08-03,234.0,Pune,Hyderabad,Hyderabad,Chennai,0,,,2024-06-14
+M-1014,O-28710,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2134,2023-05-04,4190,Ret,Pune,28,2024-08-15,-119.0,Pune,Delhi,Delhi,Bangalore,0,,5370.0,2024-02-22
+M-1001,O-33002,Amoxicillin,Antibiotic for bacterial infections.,B-6914,2023-08-31,91020,Man,Chennai,1,2024-12-05,-7.0,Lucknow,Jaipur,Chennai,Kolkata,0,,,2024-03-26
+M-1009,O-30215,Cefixime,Antibiotic for respiratory and UTI infections.,B-9324,2020-11-02,8970,Dis,Pune,28,2023-05-30,-562.0,Mumbai,Pune,Bangalore,Delhi,10391,Understock,,2023-10-20
+M-1004,O-37915,Azithromycin,Antibiotic for bacterial infections.,B-6297,2022-03-20,62910,Man,Pune,25,2024-01-23,-324.0,Lucknow,Chennai,Pune,Delhi,0,,,2024-06-04
+M-1012,O-23398,Levofloxacin,Antibiotic for bacterial infections.,B-4965,2024-12-08,26115,Dis,Jaipur,12,2026-10-09,666.0,Lucknow,Jaipur,Kolkata,Lucknow,33572,Understock,,2024-12-11
+M-1000,O-93257,Paracetamol,Relieves fever & mild to moderate pain.,B-2045,2020-08-16,22580,RMS,Bangalore,1579,2021-04-13,,Bangalore,Bangalore,Chennai,Bangalore,0,,,2020-10-25
+M-1008,O-32733,Dolo 650,Brand of paracetamol for pain & fever.,B-2965,2021-05-30,25100,Ret,Kolkata,21,2024-03-12,-275.0,Kolkata,Delhi,Kolkata,Mumbai,0,,1310.0,2023-02-26
+M-1013,O-52469,Montelukast,Prevents asthma & seasonal allergies.,B-3494,2020-11-22,15670,Man,Jaipur,4,2022-08-29,-836.0,Kolkata,Ahmedabad,Jaipur,Mumbai,0,,,2022-07-08
+M-1007,O-95192,Cetirizine,Antihistamine for allergy symptoms.,B-5920,2020-03-29,71040,Man,Kolkata,23,2020-10-28,-1506.0,Delhi,Pune,Kolkata,Pune,0,,,2021-07-27
+M-1004,O-41303,Azithromycin,Antibiotic for bacterial infections.,B-7640,2020-01-23,92310,Dis,Jaipur,11,2021-05-22,-1300.0,Lucknow,Jaipur,Bangalore,Bangalore,3677,Understock,,2021-12-08
+M-1009,O-58926,Cefixime,Antibiotic for respiratory and UTI infections.,B-7061,2023-06-04,33648,Dis,Kolkata,23,2025-05-29,168.0,Delhi,Kolkata,Bangalore,Mumbai,19445,Understock,,2024-08-23
+M-1010,O-56871,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8444,2024-05-01,73870,Ret,Kolkata,30,2026-07-31,596.0,Kolkata,Mumbai,Mumbai,Lucknow,0,,8540.0,2024-07-30
+M-1008,O-20398,Dolo 650,Brand of paracetamol for pain & fever.,B-5571,2021-05-13,75600,Ret,Ahmedabad,25,2022-12-02,-741.0,Ahmedabad,Lucknow,Lucknow,Mumbai,0,,5890.0,2021-06-10
+M-1012,O-72057,Levofloxacin,Antibiotic for bacterial infections.,B-4106,2023-09-21,30210,Dis,Kolkata,2,2026-03-13,456.0,Pune,Kolkata,Jaipur,Ahmedabad,39110,Understock,,2024-06-13
+M-1001,O-53875,Amoxicillin,Antibiotic for bacterial infections.,B-6046,2021-04-15,25680,Man,Chennai,14,2022-06-21,-905.0,Jaipur,Mumbai,Chennai,Bangalore,0,,,2022-08-12
+M-1011,O-66466,Pantoprazole,Treats stomach & esophagus problems.,B-3168,2022-12-16,39730,Ret,Kolkata,21,2025-01-08,27.0,Kolkata,Hyderabad,Pune,Delhi,0,,1450.0,2024-05-22
+M-1009,O-36216,Cefixime,Antibiotic for respiratory and UTI infections.,B-4929,2023-08-14,67450,Man,Delhi,19,2025-02-24,74.0,Bangalore,Bangalore,Delhi,Chennai,0,,,2024-11-29
+M-1008,O-40044,Dolo 650,Brand of paracetamol for pain & fever.,B-4694,2024-04-03,43380,Dis,Bangalore,17,2026-12-03,721.0,Delhi,Bangalore,Bangalore,Pune,12001,Understock,,2024-10-06
+M-1007,O-26699,Cetirizine,Antihistamine for allergy symptoms.,B-6264,2021-01-22,10110,Ret,Delhi,5,2023-09-04,-465.0,Delhi,Bangalore,Chennai,Pune,0,,5290.0,2023-12-13
+M-1001,O-10502,Amoxicillin,Antibiotic for bacterial infections.,B-1255,2024-12-10,3110,RMS,Lucknow,2,2027-05-25,,Jaipur,Bangalore,Hyderabad,Lucknow,0,,,2024-12-11
+M-1013,O-58261,Montelukast,Prevents asthma & seasonal allergies.,B-8083,2021-05-30,73900,Dis,Kolkata,25,2022-10-22,-782.0,Pune,Kolkata,Bangalore,Delhi,45141,Optimal,,2024-07-19
+M-1001,O-12244,Amoxicillin,Antibiotic for bacterial infections.,B-3127,2022-04-09,10680,RMS,Lucknow,978,2022-11-05,,Lucknow,Chennai,Mumbai,Lucknow,0,,,2024-06-23
+M-1014,O-35347,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3387,2024-10-19,93130,Dis,Bangalore,11,2025-08-19,250.0,Mumbai,Bangalore,Pune,Mumbai,16810,Optimal,,2024-11-09
+M-1006,O-16404,Omeprazole,Treats GERD and other stomach issues.,B-2750,2020-03-11,52790,Dis,Mumbai,26,2022-10-29,-775.0,Bangalore,Mumbai,Hyderabad,Delhi,14607,Understock,,2021-02-17
+M-1002,O-48324,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2831,2023-05-20,38200,Man,Delhi,22,2025-05-06,145.0,Chennai,Hyderabad,Delhi,Bangalore,0,,,2023-08-05
+M-1004,O-70334,Azithromycin,Antibiotic for bacterial infections.,B-5173,2021-01-14,25140,RMS,Bangalore,1428,2022-06-16,,Pune,Lucknow,Ahmedabad,Bangalore,0,,,2023-08-09
+M-1002,O-49594,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6277,2021-10-11,90390,RMS,Lucknow,1158,2023-12-02,,Chennai,Mumbai,Jaipur,Lucknow,0,,,2022-07-14
+M-1010,O-58876,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5081,2023-01-23,90610,Man,Lucknow,10,2024-02-03,-313.0,Bangalore,Kolkata,Lucknow,Bangalore,0,,,2023-05-09
+M-1014,O-86239,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7857,2020-01-30,72640,Man,Delhi,1,2021-07-07,-1254.0,Ahmedabad,Hyderabad,Delhi,Kolkata,0,,,2023-05-31
+M-1011,O-18615,Pantoprazole,Treats stomach & esophagus problems.,B-5446,2022-07-17,41840,Ret,Chennai,28,2025-05-27,166.0,Chennai,Jaipur,Hyderabad,Pune,0,,6020.0,2023-10-26
+M-1005,O-92140,Metformin,Controls blood sugar in type 2 diabetes.,B-6941,2024-05-26,96810,Dis,Chennai,5,2025-09-29,291.0,Pune,Chennai,Delhi,Pune,41501,Optimal,,2024-11-10
+M-1006,O-83197,Omeprazole,Treats GERD and other stomach issues.,B-9591,2021-12-23,14930,Dis,Mumbai,22,2024-06-08,-187.0,Ahmedabad,Mumbai,Hyderabad,Pune,16280,Understock,,2022-02-07
+M-1014,O-40436,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4333,2022-08-09,3817,Dis,Delhi,18,2023-04-06,-616.0,Lucknow,Delhi,Lucknow,Bangalore,37076,Understock,,2022-08-31
+M-1008,O-94139,Dolo 650,Brand of paracetamol for pain & fever.,B-8201,2023-05-12,1610,Dis,Lucknow,1,2025-02-28,78.0,Kolkata,Lucknow,Kolkata,Hyderabad,3824,Understock,,2024-09-04
+M-1011,O-93230,Pantoprazole,Treats stomach & esophagus problems.,B-3375,2021-01-30,104720,Man,Ahmedabad,5,2021-09-19,-1180.0,Delhi,Bangalore,Ahmedabad,Jaipur,0,,,2021-11-30
+M-1001,O-68172,Amoxicillin,Antibiotic for bacterial infections.,B-1674,2024-01-20,3270,RMS,Delhi,327,2026-02-06,,Chennai,Chennai,Hyderabad,Delhi,0,,,2024-05-27
+M-1005,O-28094,Metformin,Controls blood sugar in type 2 diabetes.,B-3721,2024-11-21,48560,Ret,Jaipur,26,2027-07-27,957.0,Jaipur,Pune,Pune,Delhi,0,,640.0,2024-12-08
+M-1011,O-48237,Pantoprazole,Treats stomach & esophagus problems.,B-9318,2021-03-17,57950,RMS,Mumbai,1366,2023-06-23,,Ahmedabad,Hyderabad,Mumbai,Mumbai,0,,,2022-06-02
+M-1014,O-88500,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2574,2024-07-15,46640,Man,Chennai,21,2025-10-19,311.0,Ahmedabad,Jaipur,Chennai,Bangalore,0,,,2024-09-25
+M-1002,O-82703,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1442,2021-12-18,85460,Dis,Bangalore,26,2022-07-16,-880.0,Kolkata,Bangalore,Lucknow,Hyderabad,35949,Optimal,,2024-07-02
+M-1011,O-77596,Pantoprazole,Treats stomach & esophagus problems.,B-2748,2021-02-16,51770,Man,Ahmedabad,6,2022-01-25,-1052.0,Mumbai,Ahmedabad,Ahmedabad,Pune,0,,,2022-10-31
+M-1002,O-56371,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-4099,2020-07-02,75600,Dis,Pune,23,2021-04-03,-1349.0,Pune,Pune,Mumbai,Kolkata,42693,Optimal,,2021-07-18
+M-1008,O-37463,Dolo 650,Brand of paracetamol for pain & fever.,B-9367,2022-11-25,21190,Dis,Ahmedabad,16,2024-12-24,12.0,Kolkata,Ahmedabad,Lucknow,Bangalore,30188,Understock,,2024-05-14
+M-1002,O-26835,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-4666,2020-10-27,28010,Man,Pune,17,2021-07-06,-1255.0,Bangalore,Hyderabad,Pune,Chennai,0,,,2023-09-21
+M-1013,O-39278,Montelukast,Prevents asthma & seasonal allergies.,B-5383,2022-01-07,44910,Man,Kolkata,3,2022-10-15,-789.0,Hyderabad,Pune,Kolkata,Chennai,0,,,2024-01-18
+M-1007,O-26832,Cetirizine,Antihistamine for allergy symptoms.,B-4728,2023-12-22,97420,Man,Hyderabad,6,2026-03-28,471.0,Delhi,Jaipur,Hyderabad,Lucknow,0,,,2024-05-14
+M-1013,O-77010,Montelukast,Prevents asthma & seasonal allergies.,B-3602,2024-10-26,15180,Man,Ahmedabad,22,2026-06-28,563.0,Lucknow,Delhi,Ahmedabad,Hyderabad,0,,,2024-11-30
+M-1007,O-64434,Cetirizine,Antihistamine for allergy symptoms.,B-6216,2020-03-05,97650,Man,Mumbai,14,2022-05-05,-952.0,Pune,Bangalore,Mumbai,Kolkata,0,,,2021-01-10
+M-1007,O-83564,Cetirizine,Antihistamine for allergy symptoms.,B-2047,2022-09-26,86680,RMS,Chennai,808,2025-01-31,,Kolkata,Kolkata,Ahmedabad,Chennai,0,,,2023-03-06
+M-1014,O-88750,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2833,2022-03-24,32250,Dis,Mumbai,28,2022-10-05,-799.0,Hyderabad,Mumbai,Mumbai,Mumbai,27681,Understock,,2022-11-15
+M-1011,O-97491,Pantoprazole,Treats stomach & esophagus problems.,B-6795,2024-05-26,88700,Ret,Mumbai,22,2026-11-27,715.0,Mumbai,Mumbai,Delhi,Kolkata,0,,5060.0,2024-08-20
+M-1009,O-75626,Cefixime,Antibiotic for respiratory and UTI infections.,B-8765,2023-04-26,6330,RMS,Ahmedabad,596,2026-03-11,,Delhi,Bangalore,Mumbai,Ahmedabad,0,,,2023-07-27
+M-1006,O-26434,Omeprazole,Treats GERD and other stomach issues.,B-2059,2021-09-21,76080,RMS,Pune,1178,2024-06-22,,Chennai,Mumbai,Mumbai,Pune,0,,,2022-12-25
+M-1007,O-51905,Cetirizine,Antihistamine for allergy symptoms.,B-5729,2023-03-07,82790,Ret,Hyderabad,19,2025-10-15,307.0,Hyderabad,Mumbai,Lucknow,Kolkata,0,,3300.0,2023-11-02
+M-1011,O-66788,Pantoprazole,Treats stomach & esophagus problems.,B-2283,2022-06-24,82250,Dis,Chennai,1,2024-01-31,-316.0,Delhi,Chennai,Chennai,Lucknow,2125,Understock,,2023-11-15
+M-1003,O-63883,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6550,2020-07-22,29263,RMS,Delhi,1604,2022-07-14,,Chennai,Ahmedabad,Mumbai,Delhi,0,,,2022-02-28
+M-1004,O-28359,Azithromycin,Antibiotic for bacterial infections.,B-2356,2022-01-25,56940,Dis,Pune,28,2024-10-03,-70.0,Lucknow,Pune,Chennai,Chennai,40021,Understock,,2023-10-28
+M-1012,O-30431,Levofloxacin,Antibiotic for bacterial infections.,B-2615,2022-11-29,75890,RMS,Ahmedabad,744,2024-11-18,,Lucknow,Hyderabad,Jaipur,Ahmedabad,0,,,2023-12-01
+M-1005,O-74599,Metformin,Controls blood sugar in type 2 diabetes.,B-8285,2020-05-19,8030,RMS,Lucknow,1668,2023-04-23,,Pune,Chennai,Lucknow,Lucknow,0,,,2023-07-24
+M-1008,O-10748,Dolo 650,Brand of paracetamol for pain & fever.,B-5088,2023-03-29,34740,Ret,Hyderabad,5,2025-10-30,322.0,Hyderabad,Lucknow,Bangalore,Jaipur,0,,7940.0,2024-04-25
+M-1010,O-91809,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1143,2021-06-01,77330,Ret,Bangalore,28,2023-07-05,-526.0,Bangalore,Jaipur,Lucknow,Pune,0,,1950.0,2022-08-05
+M-1008,O-61496,Dolo 650,Brand of paracetamol for pain & fever.,B-4057,2020-04-12,86000,Man,Jaipur,12,2023-03-13,-640.0,Delhi,Jaipur,Jaipur,Mumbai,0,,,2024-02-15
+M-1001,O-99564,Amoxicillin,Antibiotic for bacterial infections.,B-1759,2024-06-24,84656,RMS,Bangalore,171,2027-06-12,,Hyderabad,Jaipur,Delhi,Bangalore,0,,,2024-08-29
+M-1012,O-99712,Levofloxacin,Antibiotic for bacterial infections.,B-3555,2021-12-02,65340,RMS,Jaipur,1106,2023-09-02,,Bangalore,Delhi,Lucknow,Jaipur,0,,,2024-08-08
+M-1011,O-67030,Pantoprazole,Treats stomach & esophagus problems.,B-8090,2023-11-27,32980,RMS,Chennai,381,2024-07-06,,Ahmedabad,Hyderabad,Ahmedabad,Chennai,0,,,2024-10-05
+M-1013,O-86311,Montelukast,Prevents asthma & seasonal allergies.,B-7617,2022-06-13,85550,Man,Lucknow,25,2023-01-01,-711.0,Lucknow,Chennai,Lucknow,Pune,0,,,2024-07-29
+M-1005,O-85131,Metformin,Controls blood sugar in type 2 diabetes.,B-6635,2021-04-01,48993,RMS,Hyderabad,1351,2022-08-18,,Kolkata,Hyderabad,Kolkata,Hyderabad,0,,,2023-09-11
+M-1009,O-15290,Cefixime,Antibiotic for respiratory and UTI infections.,B-4013,2020-07-30,38080,Man,Kolkata,5,2021-03-24,-1359.0,Kolkata,Hyderabad,Kolkata,Bangalore,0,,,2024-05-17
+M-1006,O-13678,Omeprazole,Treats GERD and other stomach issues.,B-1291,2022-12-20,89620,Man,Kolkata,22,2025-04-11,120.0,Kolkata,Chennai,Kolkata,Pune,0,,,2024-01-14
+M-1008,O-34068,Dolo 650,Brand of paracetamol for pain & fever.,B-7708,2024-03-16,58640,Ret,Ahmedabad,11,2025-04-17,126.0,Ahmedabad,Kolkata,Mumbai,Kolkata,0,,3630.0,2024-08-09
+M-1000,O-23077,Paracetamol,Relieves fever & mild to moderate pain.,B-7344,2024-07-21,32520,RMS,Kolkata,144,2025-04-27,,Kolkata,Bangalore,Kolkata,Kolkata,0,,,2024-11-27
+M-1004,O-93991,Azithromycin,Antibiotic for bacterial infections.,B-7327,2020-08-18,76780,Dis,Lucknow,13,2021-07-22,-1239.0,Ahmedabad,Lucknow,Ahmedabad,Mumbai,24764,Optimal,,2022-09-15
+M-1006,O-76794,Omeprazole,Treats GERD and other stomach issues.,B-8146,2024-02-29,11180,Ret,Lucknow,5,2024-09-01,-102.0,Lucknow,Chennai,Ahmedabad,Lucknow,0,,8020.0,2024-07-22
+M-1009,O-64806,Cefixime,Antibiotic for respiratory and UTI infections.,B-4094,2020-01-13,73760,RMS,Ahmedabad,1795,2022-01-04,,Lucknow,Mumbai,Kolkata,Ahmedabad,0,,,2021-02-17
+M-1001,O-61250,Amoxicillin,Antibiotic for bacterial infections.,B-7805,2023-04-25,56100,Man,Hyderabad,20,2026-03-24,467.0,Mumbai,Lucknow,Hyderabad,Jaipur,0,,,2024-11-18
+M-1012,O-60879,Levofloxacin,Antibiotic for bacterial infections.,B-8099,2023-12-24,82830,Ret,Mumbai,30,2024-08-05,-129.0,Mumbai,Delhi,Pune,Ahmedabad,0,,7940.0,2024-07-19
+M-1006,O-19474,Omeprazole,Treats GERD and other stomach issues.,B-2381,2022-03-14,16740,Ret,Chennai,15,2022-12-23,-720.0,Chennai,Pune,Pune,Chennai,0,,1260.0,2023-08-13
+M-1000,O-33328,Paracetamol,Relieves fever & mild to moderate pain.,B-5492,2020-05-30,43110,RMS,Jaipur,1657,2022-03-22,,Delhi,Lucknow,Hyderabad,Jaipur,0,,,2023-08-05
+M-1003,O-23805,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9936,2022-04-06,25130,Dis,Kolkata,14,2024-01-25,-322.0,Kolkata,Kolkata,Hyderabad,Lucknow,25989,Understock,,2023-02-12
+M-1012,O-27536,Levofloxacin,Antibiotic for bacterial infections.,B-3048,2024-08-01,31900,RMS,Bangalore,133,2027-06-30,,Delhi,Lucknow,Kolkata,Bangalore,0,,,2024-08-30
+M-1007,O-68596,Cetirizine,Antihistamine for allergy symptoms.,B-8788,2023-11-11,60460,Dis,Hyderabad,16,2024-09-08,-95.0,Pune,Hyderabad,Hyderabad,Pune,14210,Understock,,2024-09-29
+M-1004,O-95496,Azithromycin,Antibiotic for bacterial infections.,B-1614,2023-01-25,86840,Dis,Lucknow,28,2024-04-19,-237.0,Jaipur,Lucknow,Hyderabad,Mumbai,26948,Optimal,,2023-07-30
+M-1010,O-91466,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5607,2022-02-21,18190,Dis,Bangalore,25,2022-09-05,-829.0,Delhi,Bangalore,Mumbai,Lucknow,13575,Understock,,2024-02-22
+M-1008,O-18232,Dolo 650,Brand of paracetamol for pain & fever.,B-6612,2023-01-23,52930,Ret,Pune,17,2024-01-09,-338.0,Pune,Jaipur,Ahmedabad,Chennai,0,,4870.0,2023-08-30
+M-1014,O-31632,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3811,2024-03-21,36340,RMS,Bangalore,266,2027-01-27,,Kolkata,Hyderabad,Bangalore,Bangalore,0,,,2024-03-27
+M-1009,O-91120,Cefixime,Antibiotic for respiratory and UTI infections.,B-2618,2021-02-12,42340,Ret,Bangalore,17,2022-02-03,-1043.0,Bangalore,Kolkata,Pune,Bangalore,0,,5850.0,2021-08-06
+M-1010,O-96938,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7707,2023-12-19,83210,Dis,Kolkata,20,2026-01-20,404.0,Bangalore,Kolkata,Mumbai,Jaipur,19631,Optimal,,2024-07-07
+M-1009,O-65517,Cefixime,Antibiotic for respiratory and UTI infections.,B-1418,2022-11-11,39190,RMS,Pune,762,2025-09-16,,Pune,Chennai,Jaipur,Pune,0,,,2024-05-29
+M-1007,O-31271,Cetirizine,Antihistamine for allergy symptoms.,B-2140,2020-03-22,65370,Ret,Mumbai,7,2021-01-26,-1416.0,Mumbai,Delhi,Delhi,Bangalore,0,,1890.0,2022-08-10
+M-1012,O-29802,Levofloxacin,Antibiotic for bacterial infections.,B-8979,2024-06-18,98520,Man,Hyderabad,21,2026-03-09,452.0,Mumbai,Pune,Hyderabad,Kolkata,0,,,2024-09-14
+M-1011,O-73193,Pantoprazole,Treats stomach & esophagus problems.,B-3224,2024-08-12,77480,Man,Kolkata,2,2025-10-10,302.0,Jaipur,Lucknow,Kolkata,Pune,0,,,2024-09-07
+M-1012,O-74424,Levofloxacin,Antibiotic for bacterial infections.,B-3163,2024-07-25,21040,Ret,Kolkata,23,2026-06-16,551.0,Kolkata,Kolkata,Jaipur,Jaipur,0,,5860.0,2024-10-26
+M-1011,O-82129,Pantoprazole,Treats stomach & esophagus problems.,B-1393,2020-08-11,79570,Ret,Mumbai,21,2021-11-05,-1133.0,Mumbai,Ahmedabad,Jaipur,Chennai,0,,9840.0,2022-11-28
+M-1012,O-41357,Levofloxacin,Antibiotic for bacterial infections.,B-2248,2022-01-25,27600,Man,Chennai,17,2023-11-10,-398.0,Ahmedabad,Kolkata,Chennai,Hyderabad,0,,,2023-05-17
+M-1007,O-35769,Cetirizine,Antihistamine for allergy symptoms.,B-6108,2022-06-10,3768,RMS,Hyderabad,916,2024-03-26,,Pune,Mumbai,Lucknow,Hyderabad,0,,,2022-09-22
+M-1013,O-91301,Montelukast,Prevents asthma & seasonal allergies.,B-5914,2022-08-16,35470,Dis,Bangalore,9,2023-09-12,-457.0,Kolkata,Bangalore,Chennai,Kolkata,8590,Understock,,2023-02-27
+M-1002,O-38782,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9501,2022-09-30,10560,Dis,Kolkata,12,2024-07-09,-156.0,Mumbai,Kolkata,Mumbai,Mumbai,19580,Understock,,2024-08-09
+M-1000,O-88516,Paracetamol,Relieves fever & mild to moderate pain.,B-4224,2024-08-01,2440,Ret,Mumbai,18,2025-11-11,334.0,Mumbai,Kolkata,Mumbai,Pune,0,,2490.0,2024-11-04
+M-1009,O-79336,Cefixime,Antibiotic for respiratory and UTI infections.,B-6038,2024-03-29,56360,Dis,Ahmedabad,8,2025-08-17,248.0,Hyderabad,Ahmedabad,Delhi,Chennai,7350,Understock,,2024-12-03
+M-1000,O-44248,Paracetamol,Relieves fever & mild to moderate pain.,B-9585,2024-06-05,95880,Man,Jaipur,23,2025-01-31,50.0,Lucknow,Jaipur,Jaipur,Bangalore,0,,,2024-06-19
+M-1003,O-44895,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7918,2021-04-16,85940,Ret,Bangalore,30,2023-09-20,-449.0,Bangalore,Mumbai,Chennai,Delhi,0,,3790.0,2022-12-30
+M-1012,O-36214,Levofloxacin,Antibiotic for bacterial infections.,B-1780,2024-01-30,67670,Ret,Kolkata,24,2024-09-23,-80.0,Kolkata,Ahmedabad,Jaipur,Jaipur,0,,6520.0,2024-07-09
+M-1010,O-81716,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3960,2021-07-17,34420,Ret,Ahmedabad,13,2022-02-16,-1030.0,Ahmedabad,Pune,Pune,Jaipur,0,,8130.0,2023-06-12
+M-1003,O-14355,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6729,2024-08-17,94330,RMS,Mumbai,117,2026-08-22,,Lucknow,Ahmedabad,Bangalore,Mumbai,0,,,2024-10-10
+M-1004,O-99117,Azithromycin,Antibiotic for bacterial infections.,B-4699,2020-06-29,20250,RMS,Hyderabad,1627,2022-08-26,,Lucknow,Chennai,Bangalore,Hyderabad,0,,,2020-12-08
+M-1002,O-84399,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9510,2023-01-17,16600,RMS,Delhi,695,2023-08-07,,Bangalore,Delhi,Hyderabad,Delhi,0,,,2023-04-16
+M-1005,O-58633,Metformin,Controls blood sugar in type 2 diabetes.,B-2732,2020-09-03,39690,Man,Delhi,20,2021-11-14,-1124.0,Bangalore,Pune,Delhi,Pune,0,,,2021-09-11
+M-1013,O-48870,Montelukast,Prevents asthma & seasonal allergies.,B-3278,2022-08-07,55300,Man,Hyderabad,9,2024-11-04,-38.0,Kolkata,Pune,Hyderabad,Ahmedabad,0,,,2024-11-22
+M-1013,O-47439,Montelukast,Prevents asthma & seasonal allergies.,B-1855,2021-03-15,62420,RMS,Delhi,1368,2024-01-05,,Pune,Jaipur,Pune,Delhi,0,,,2021-08-27
+M-1008,O-51789,Dolo 650,Brand of paracetamol for pain & fever.,B-1455,2024-01-06,78350,Man,Chennai,5,2025-11-06,329.0,Jaipur,Delhi,Chennai,Jaipur,0,,,2024-01-22
+M-1000,O-90947,Paracetamol,Relieves fever & mild to moderate pain.,B-9034,2024-01-04,89560,RMS,Jaipur,343,2025-10-01,,Ahmedabad,Chennai,Bangalore,Jaipur,0,,,2024-11-13
+M-1005,O-78917,Metformin,Controls blood sugar in type 2 diabetes.,B-2255,2020-11-28,61110,Ret,Lucknow,9,2022-12-03,-740.0,Lucknow,Bangalore,Ahmedabad,Ahmedabad,0,,2280.0,2024-09-21
+M-1013,O-13767,Montelukast,Prevents asthma & seasonal allergies.,B-7873,2021-04-27,43788,Ret,Delhi,23,2023-05-24,-568.0,Delhi,Hyderabad,Delhi,Jaipur,0,,6200.0,2022-11-09
+M-1011,O-29285,Pantoprazole,Treats stomach & esophagus problems.,B-9446,2020-12-01,91560,Dis,Lucknow,21,2021-12-13,-1095.0,Delhi,Lucknow,Ahmedabad,Jaipur,35608,Optimal,,2024-04-14
+M-1014,O-58898,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4161,2024-03-11,57280,Dis,Jaipur,13,2025-11-09,332.0,Jaipur,Jaipur,Jaipur,Delhi,7838,Understock,,2024-09-10
+M-1012,O-30199,Levofloxacin,Antibiotic for bacterial infections.,B-8943,2023-06-08,82010,Dis,Chennai,4,2025-05-15,154.0,Chennai,Chennai,Ahmedabad,Bangalore,30410,Optimal,,2023-12-26
+M-1000,O-75761,Paracetamol,Relieves fever & mild to moderate pain.,B-9183,2022-09-06,85210,RMS,Pune,828,2024-01-14,,Ahmedabad,Ahmedabad,Pune,Pune,0,,,2024-05-20
+M-1004,O-92412,Azithromycin,Antibiotic for bacterial infections.,B-7890,2024-04-01,27240,Dis,Bangalore,19,2026-10-30,687.0,Lucknow,Bangalore,Pune,Ahmedabad,25826,Understock,,2024-09-22
+M-1005,O-29077,Metformin,Controls blood sugar in type 2 diabetes.,B-2697,2022-09-01,35720,RMS,Jaipur,833,2023-08-22,,Jaipur,Delhi,Pune,Jaipur,0,,,2024-06-11
+M-1012,O-79348,Levofloxacin,Antibiotic for bacterial infections.,B-9268,2020-04-22,76470,RMS,Kolkata,1695,2021-06-28,,Mumbai,Jaipur,Pune,Kolkata,0,,,2021-08-09
+M-1006,O-88459,Omeprazole,Treats GERD and other stomach issues.,B-5262,2020-12-16,97870,RMS,Lucknow,1457,2023-08-24,,Lucknow,Bangalore,Jaipur,Lucknow,0,,,2023-01-11
+M-1012,O-98069,Levofloxacin,Antibiotic for bacterial infections.,B-3137,2022-05-10,14960,Dis,Jaipur,8,2023-01-02,-710.0,Kolkata,Jaipur,Mumbai,Pune,2969,Understock,,2024-03-20
+M-1008,O-79525,Dolo 650,Brand of paracetamol for pain & fever.,B-7753,2024-03-05,95150,Man,Pune,27,2026-02-07,422.0,Chennai,Pune,Pune,Pune,0,,,2024-09-07
+M-1009,O-21022,Cefixime,Antibiotic for respiratory and UTI infections.,B-8627,2024-08-13,70840,Man,Chennai,4,2026-01-03,387.0,Ahmedabad,Jaipur,Chennai,Hyderabad,0,,,2024-11-01
+M-1006,O-41049,Omeprazole,Treats GERD and other stomach issues.,B-1421,2024-03-03,52920,RMS,Ahmedabad,284,2025-03-06,,Ahmedabad,Pune,Hyderabad,Ahmedabad,0,,,2024-05-28
+M-1004,O-73348,Azithromycin,Antibiotic for bacterial infections.,B-8166,2022-07-29,38050,RMS,Jaipur,867,2024-05-24,,Delhi,Jaipur,Mumbai,Jaipur,0,,,2023-10-08
+M-1003,O-80671,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5391,2023-02-24,33220,Man,Delhi,18,2025-07-28,228.0,Jaipur,Pune,Delhi,Delhi,0,,,2024-05-04
+M-1011,O-61505,Pantoprazole,Treats stomach & esophagus problems.,B-6261,2020-07-09,41100,Ret,Jaipur,8,2021-01-22,-1420.0,Jaipur,Ahmedabad,Mumbai,Chennai,0,,3710.0,2023-05-28
+M-1007,O-80487,Cetirizine,Antihistamine for allergy symptoms.,B-1823,2022-02-20,4760,Ret,Delhi,2,2023-08-14,-486.0,Delhi,Hyderabad,Delhi,Kolkata,0,,3790.0,2023-01-21
+M-1003,O-70052,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7083,2023-02-10,43090,RMS,Mumbai,671,2024-04-09,,Chennai,Hyderabad,Pune,Mumbai,0,,,2024-09-22
+M-1008,O-45354,Dolo 650,Brand of paracetamol for pain & fever.,B-6921,2021-12-04,16650,Dis,Kolkata,3,2023-12-08,-370.0,Pune,Kolkata,Jaipur,Chennai,5146,Understock,,2023-08-26
+M-1000,O-65475,Paracetamol,Relieves fever & mild to moderate pain.,B-1231,2021-09-02,35320,RMS,Jaipur,1197,2024-05-06,,Chennai,Lucknow,Jaipur,Jaipur,0,,,2024-05-31
+M-1001,O-27659,Amoxicillin,Antibiotic for bacterial infections.,B-1198,2022-05-31,27230,Dis,Ahmedabad,5,2023-07-02,-529.0,Jaipur,Ahmedabad,Hyderabad,Kolkata,14929,Understock,,2023-07-03
+M-1007,O-33996,Cetirizine,Antihistamine for allergy symptoms.,B-3224,2023-09-29,48210,Man,Bangalore,23,2025-11-14,337.0,Lucknow,Delhi,Bangalore,Hyderabad,0,,,2023-10-24
+M-1014,O-70389,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4556,2020-04-26,79470,Dis,Lucknow,21,2022-11-14,-759.0,Ahmedabad,Lucknow,Bangalore,Lucknow,14003,Understock,,2020-09-25
+M-1007,O-83747,Cetirizine,Antihistamine for allergy symptoms.,B-8652,2023-08-30,23320,RMS,Kolkata,470,2025-10-31,,Chennai,Chennai,Delhi,Kolkata,0,,,2023-12-15
+M-1014,O-27750,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5206,2022-09-21,94350,RMS,Delhi,813,2025-01-05,,Chennai,Delhi,Delhi,Delhi,0,,,2023-11-07
+M-1008,O-16423,Dolo 650,Brand of paracetamol for pain & fever.,B-7763,2022-04-11,30570,Man,Kolkata,18,2023-12-04,-374.0,Kolkata,Lucknow,Kolkata,Pune,0,,,2022-04-13
+M-1008,O-15210,Dolo 650,Brand of paracetamol for pain & fever.,B-5719,2021-05-22,89430,Ret,Chennai,21,2022-01-21,-1056.0,Chennai,Ahmedabad,Jaipur,Hyderabad,0,,7920.0,2021-12-23
+M-1007,O-14801,Cetirizine,Antihistamine for allergy symptoms.,B-4264,2023-06-09,78324,Man,Mumbai,6,2026-04-06,480.0,Kolkata,Ahmedabad,Mumbai,Jaipur,0,,,2024-07-18
+M-1003,O-32741,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3980,2020-05-12,62210,Ret,Delhi,19,2021-02-09,-1402.0,Delhi,Jaipur,Bangalore,Hyderabad,0,,2740.0,2024-01-30
+M-1005,O-25905,Metformin,Controls blood sugar in type 2 diabetes.,B-2759,2023-10-10,84670,RMS,Lucknow,429,2025-04-15,,Delhi,Pune,Lucknow,Lucknow,0,,,2023-12-09
+M-1014,O-63630,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-6893,2022-02-08,39330,Dis,Chennai,26,2024-11-24,-18.0,Mumbai,Chennai,Kolkata,Mumbai,22544,Understock,,2023-08-20
+M-1000,O-36171,Paracetamol,Relieves fever & mild to moderate pain.,B-9150,2022-12-05,124580,Man,Bangalore,4,2025-09-14,276.0,Bangalore,Pune,Bangalore,Ahmedabad,0,,,2024-03-05
+M-1004,O-60956,Azithromycin,Antibiotic for bacterial infections.,B-8596,2022-04-18,33970,Dis,Lucknow,18,2023-12-20,-358.0,Pune,Lucknow,Hyderabad,Delhi,8099,Understock,,2024-02-11
+M-1005,O-86287,Metformin,Controls blood sugar in type 2 diabetes.,B-9697,2020-12-11,46980,RMS,Mumbai,1462,2022-08-24,,Jaipur,Ahmedabad,Mumbai,Mumbai,0,,,2022-11-03
+M-1002,O-66168,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8056,2023-10-01,29110,Ret,Lucknow,5,2025-02-09,59.0,Lucknow,Kolkata,Kolkata,Bangalore,0,,2150.0,2023-10-24
+M-1010,O-48050,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5011,2023-02-25,78190,Man,Chennai,5,2024-12-26,14.0,Delhi,Bangalore,Chennai,Lucknow,0,,,2024-10-08
+M-1009,O-26172,Cefixime,Antibiotic for respiratory and UTI infections.,B-1672,2020-04-04,93140,Dis,Mumbai,13,2022-08-28,-837.0,Bangalore,Mumbai,Lucknow,Pune,30072,Optimal,,2020-11-23
+M-1013,O-28392,Montelukast,Prevents asthma & seasonal allergies.,B-3189,2021-04-18,18672,Ret,Pune,17,2023-08-25,-475.0,Pune,Ahmedabad,Hyderabad,Delhi,0,,3080.0,2023-01-19
+M-1001,O-54855,Amoxicillin,Antibiotic for bacterial infections.,B-8380,2024-04-07,3860,Ret,Hyderabad,11,2026-12-15,733.0,Hyderabad,Jaipur,Mumbai,Chennai,0,,7300.0,2024-07-01
+M-1006,O-82376,Omeprazole,Treats GERD and other stomach issues.,B-7073,2024-10-24,45160,Man,Bangalore,7,2027-08-01,962.0,Lucknow,Ahmedabad,Bangalore,Ahmedabad,0,,,2024-12-08
+M-1007,O-78087,Cetirizine,Antihistamine for allergy symptoms.,B-9986,2024-07-28,55060,Dis,Chennai,22,2026-12-10,728.0,Kolkata,Chennai,Delhi,Lucknow,45288,Optimal,,2024-09-10
+M-1004,O-97936,Azithromycin,Antibiotic for bacterial infections.,B-1659,2023-07-11,51320,RMS,Pune,520,2025-10-08,,Mumbai,Jaipur,Bangalore,Pune,0,,,2024-07-26
+M-1009,O-40284,Cefixime,Antibiotic for respiratory and UTI infections.,B-6425,2024-08-27,13040,Ret,Chennai,7,2027-05-17,886.0,Chennai,Ahmedabad,Bangalore,Bangalore,0,,8110.0,2024-11-19
+M-1008,O-78910,Dolo 650,Brand of paracetamol for pain & fever.,B-4438,2022-12-07,15750,Man,Bangalore,30,2023-11-08,-400.0,Mumbai,Jaipur,Bangalore,Mumbai,0,,,2023-11-06
+M-1011,O-93052,Pantoprazole,Treats stomach & esophagus problems.,B-3733,2021-04-23,30200,RMS,Kolkata,1329,2022-09-26,,Ahmedabad,Bangalore,Mumbai,Kolkata,0,,,2024-08-18
+M-1009,O-98129,Cefixime,Antibiotic for respiratory and UTI infections.,B-4845,2023-08-03,4820,Ret,Pune,25,2024-12-03,-9.0,Pune,Delhi,Ahmedabad,Mumbai,0,,4290.0,2024-11-02
+M-1002,O-87333,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6028,2023-09-19,53200,Ret,Hyderabad,9,2024-04-09,-247.0,Hyderabad,Ahmedabad,Hyderabad,Pune,0,,8480.0,2024-03-31
+M-1011,O-80614,Pantoprazole,Treats stomach & esophagus problems.,B-9603,2020-05-16,24990,Dis,Hyderabad,30,2022-02-19,-1027.0,Mumbai,Hyderabad,Jaipur,Lucknow,20107,Understock,,2022-11-11
+M-1004,O-37320,Azithromycin,Antibiotic for bacterial infections.,B-2435,2021-12-30,51760,RMS,Hyderabad,1078,2023-11-08,,Bangalore,Hyderabad,Jaipur,Hyderabad,0,,,2023-03-12
+M-1013,O-68845,Montelukast,Prevents asthma & seasonal allergies.,B-5753,2023-09-27,42530,Man,Hyderabad,15,2024-09-23,-80.0,Kolkata,Kolkata,Hyderabad,Delhi,0,,,2024-08-11
+M-1002,O-66965,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5278,2023-03-02,34738,Ret,Jaipur,14,2024-04-30,-226.0,Jaipur,Ahmedabad,Chennai,Mumbai,0,,7470.0,2024-10-19
+M-1012,O-26238,Levofloxacin,Antibiotic for bacterial infections.,B-8973,2020-08-04,68640,Ret,Chennai,22,2021-09-10,-1189.0,Chennai,Jaipur,Hyderabad,Delhi,0,,2230.0,2024-05-15
+M-1007,O-40475,Cetirizine,Antihistamine for allergy symptoms.,B-8117,2022-09-24,19740,Man,Ahmedabad,8,2025-01-23,42.0,Hyderabad,Lucknow,Ahmedabad,Ahmedabad,0,,,2023-01-04
+M-1012,O-11004,Levofloxacin,Antibiotic for bacterial infections.,B-1427,2020-04-17,87440,Ret,Hyderabad,8,2022-12-06,-737.0,Hyderabad,Kolkata,Delhi,Mumbai,0,,4010.0,2023-12-21
+M-1001,O-10764,Amoxicillin,Antibiotic for bacterial infections.,B-8191,2023-05-25,60200,RMS,Ahmedabad,567,2024-12-04,,Bangalore,Ahmedabad,Pune,Ahmedabad,0,,,2023-07-02
+M-1001,O-97973,Amoxicillin,Antibiotic for bacterial infections.,B-1087,2022-08-09,84660,Dis,Bangalore,9,2023-02-23,-658.0,Ahmedabad,Bangalore,Pune,Bangalore,4187,Understock,,2023-02-19
+M-1010,O-74037,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7516,2022-05-31,20050,Man,Hyderabad,15,2024-08-19,-115.0,Kolkata,Delhi,Hyderabad,Pune,0,,,2024-04-17
+M-1010,O-26499,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3510,2020-03-29,10930,Dis,Pune,20,2023-03-03,-650.0,Mumbai,Pune,Bangalore,Lucknow,10111,Understock,,2023-05-22
+M-1003,O-81553,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1604,2021-08-21,26370,Man,Mumbai,29,2023-06-01,-560.0,Ahmedabad,Hyderabad,Mumbai,Bangalore,0,,,2021-11-29
+M-1004,O-76618,Azithromycin,Antibiotic for bacterial infections.,B-4749,2021-12-21,52680,Man,Mumbai,11,2024-08-04,-130.0,Delhi,Chennai,Mumbai,Delhi,0,,,2022-06-10
+M-1000,O-98242,Paracetamol,Relieves fever & mild to moderate pain.,B-7867,2020-02-04,111615,RMS,Lucknow,1773,2022-04-27,,Pune,Kolkata,Ahmedabad,Lucknow,0,,,2021-11-15
+M-1008,O-33734,Dolo 650,Brand of paracetamol for pain & fever.,B-6267,2020-09-06,12690,RMS,Bangalore,1558,2021-12-02,,Chennai,Ahmedabad,Bangalore,Bangalore,0,,,2024-05-29
+M-1004,O-16466,Azithromycin,Antibiotic for bacterial infections.,B-1739,2019-12-17,91060,Ret,Kolkata,9,2022-04-11,-976.0,Kolkata,Pune,Hyderabad,Kolkata,0,,8450.0,2021-09-05
+M-1003,O-63468,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6074,2024-01-30,14770,Man,Kolkata,12,2025-10-28,320.0,Delhi,Bangalore,Kolkata,Hyderabad,0,,,2024-06-09
+M-1013,O-34773,Montelukast,Prevents asthma & seasonal allergies.,B-5645,2023-12-03,6410,Dis,Ahmedabad,20,2024-12-18,6.0,Chennai,Ahmedabad,Pune,Delhi,38878,Understock,,2024-11-17
+M-1007,O-63589,Cetirizine,Antihistamine for allergy symptoms.,B-7942,2021-03-22,59900,RMS,Kolkata,1361,2021-12-19,,Bangalore,Chennai,Mumbai,Kolkata,0,,,2023-05-28
+M-1008,O-47647,Dolo 650,Brand of paracetamol for pain & fever.,B-5416,2023-04-08,85630,Dis,Kolkata,23,2025-06-29,199.0,Bangalore,Kolkata,Ahmedabad,Kolkata,47061,Optimal,,2023-06-10
+M-1001,O-70059,Amoxicillin,Antibiotic for bacterial infections.,B-8194,2024-01-05,61490,RMS,Mumbai,342,2026-08-31,,Chennai,Bangalore,Pune,Mumbai,0,,,2024-06-30
+M-1006,O-52205,Omeprazole,Treats GERD and other stomach issues.,B-7287,2021-01-22,48330,RMS,Pune,1420,2021-11-29,,Hyderabad,Hyderabad,Ahmedabad,Pune,0,,,2023-12-22
+M-1006,O-26693,Omeprazole,Treats GERD and other stomach issues.,B-1458,2021-10-05,46470,RMS,Chennai,1164,2022-08-06,,Mumbai,Hyderabad,Jaipur,Chennai,0,,,2021-11-11
+M-1008,O-81303,Dolo 650,Brand of paracetamol for pain & fever.,B-2379,2020-11-21,23770,Dis,Pune,21,2022-09-28,-806.0,Delhi,Pune,Hyderabad,Delhi,11164,Understock,,2021-09-02
+M-1000,O-93954,Paracetamol,Relieves fever & mild to moderate pain.,B-6117,2023-11-06,99560,Dis,Mumbai,27,2025-08-07,238.0,Mumbai,Mumbai,Chennai,Kolkata,49118,Optimal,,2024-09-04
+M-1011,O-94296,Pantoprazole,Treats stomach & esophagus problems.,B-2151,2023-12-19,71970,Man,Lucknow,18,2025-04-07,116.0,Bangalore,Delhi,Lucknow,Delhi,0,,,2024-06-03
+M-1010,O-37748,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2054,2020-09-18,15100,Man,Delhi,7,2021-12-02,-1106.0,Pune,Bangalore,Delhi,Lucknow,0,,,2020-12-12
+M-1007,O-83580,Cetirizine,Antihistamine for allergy symptoms.,B-3107,2021-04-21,16040,Dis,Delhi,2,2022-03-01,-1017.0,Kolkata,Delhi,Hyderabad,Chennai,6986,Understock,,2021-12-06
+M-1012,O-55150,Levofloxacin,Antibiotic for bacterial infections.,B-1882,2021-01-18,44640,RMS,Lucknow,1424,2022-01-26,,Pune,Ahmedabad,Mumbai,Lucknow,0,,,2022-04-26
+M-1003,O-98116,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8449,2023-12-03,81600,Dis,Kolkata,27,2024-09-29,-74.0,Ahmedabad,Kolkata,Kolkata,Hyderabad,596,Understock,,2024-02-04
+M-1006,O-39200,Omeprazole,Treats GERD and other stomach issues.,B-1941,2022-04-18,31530,Man,Bangalore,26,2025-02-27,77.0,Pune,Chennai,Bangalore,Lucknow,0,,,2022-10-31
+M-1012,O-10002,Levofloxacin,Antibiotic for bacterial infections.,B-9764,2023-05-12,71660,Dis,Bangalore,20,2024-10-17,-56.0,Pune,Bangalore,Mumbai,Kolkata,42358,Optimal,,2024-06-23
+M-1001,O-11532,Amoxicillin,Antibiotic for bacterial infections.,B-3391,2022-04-14,25230,Man,Mumbai,9,2023-12-29,-349.0,Pune,Hyderabad,Mumbai,Ahmedabad,0,,,2024-06-12
+M-1004,O-86140,Azithromycin,Antibiotic for bacterial infections.,B-8335,2024-04-05,75780,Dis,Pune,21,2025-03-19,97.0,Hyderabad,Pune,Jaipur,Delhi,41384,Optimal,,2024-06-18
+M-1005,O-56342,Metformin,Controls blood sugar in type 2 diabetes.,B-2101,2023-03-16,43758,Dis,Kolkata,24,2024-10-02,-71.0,Delhi,Kolkata,Bangalore,Pune,14968,Understock,,2024-10-05
+M-1007,O-85803,Cetirizine,Antihistamine for allergy symptoms.,B-1998,2021-09-04,97040,RMS,Pune,1195,2023-03-13,,Kolkata,Hyderabad,Ahmedabad,Pune,0,,,2023-06-13
+M-1003,O-79522,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3350,2021-02-15,42470,Ret,Delhi,19,2021-11-06,-1132.0,Delhi,Bangalore,Mumbai,Ahmedabad,0,,3880.0,2024-06-15
+M-1013,O-79107,Montelukast,Prevents asthma & seasonal allergies.,B-4341,2023-05-13,47130,Dis,Chennai,24,2024-08-03,-131.0,Jaipur,Chennai,Pune,Kolkata,27126,Understock,,2024-02-13
+M-1014,O-94729,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9840,2020-08-10,7656,RMS,Mumbai,1585,2022-12-17,,Chennai,Hyderabad,Pune,Mumbai,0,,,2022-04-24
+M-1014,O-42212,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4584,2020-05-06,4410,Man,Kolkata,22,2022-04-27,-960.0,Mumbai,Delhi,Kolkata,Jaipur,0,,,2023-05-14
+M-1003,O-63071,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-5201,2020-02-24,33970,RMS,Mumbai,1753,2022-10-19,,Mumbai,Lucknow,Kolkata,Mumbai,0,,,2020-09-03
+M-1003,O-97721,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2485,2020-08-30,39800,Man,Lucknow,30,2022-10-16,-788.0,Delhi,Lucknow,Lucknow,Bangalore,0,,,2023-07-24
+M-1002,O-98975,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8116,2022-11-03,53770,Man,Ahmedabad,2,2025-04-12,121.0,Bangalore,Delhi,Ahmedabad,Ahmedabad,0,,,2024-01-23
+M-1000,O-90782,Paracetamol,Relieves fever & mild to moderate pain.,B-6739,2023-09-20,20610,RMS,Pune,449,2025-11-02,,Chennai,Lucknow,Hyderabad,Pune,0,,,2024-09-03
+M-1005,O-49358,Metformin,Controls blood sugar in type 2 diabetes.,B-8548,2020-09-05,71760,Dis,Jaipur,12,2023-02-28,-653.0,Kolkata,Jaipur,Kolkata,Delhi,6909,Understock,,2024-05-09
+M-1008,O-38384,Dolo 650,Brand of paracetamol for pain & fever.,B-1745,2020-03-11,85450,Man,Jaipur,20,2021-06-17,-1274.0,Lucknow,Hyderabad,Jaipur,Delhi,0,,,2021-01-25
+M-1005,O-78088,Metformin,Controls blood sugar in type 2 diabetes.,B-4367,2020-03-17,17974,Ret,Ahmedabad,26,2021-09-24,-1175.0,Ahmedabad,Pune,Chennai,Bangalore,0,,8770.0,2023-04-18
+M-1009,O-60298,Cefixime,Antibiotic for respiratory and UTI infections.,B-5461,2021-05-07,69460,Dis,Delhi,26,2024-02-04,-312.0,Mumbai,Delhi,Pune,Delhi,38876,Optimal,,2022-02-22
+M-1008,O-72139,Dolo 650,Brand of paracetamol for pain & fever.,B-9219,2020-11-08,62210,Dis,Kolkata,12,2023-04-06,-616.0,Lucknow,Kolkata,Jaipur,Ahmedabad,33122,Understock,,2022-05-13
+M-1014,O-17779,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-8305,2024-03-13,68910,RMS,Pune,274,2026-06-13,,Mumbai,Ahmedabad,Delhi,Pune,0,,,2024-06-25
+M-1003,O-20908,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6238,2021-03-21,71720,Ret,Delhi,29,2022-11-12,-761.0,Delhi,Bangalore,Hyderabad,Hyderabad,0,,4570.0,2024-09-10
+M-1014,O-97984,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3975,2021-08-01,42812,Man,Hyderabad,26,2023-11-07,-401.0,Delhi,Mumbai,Hyderabad,Pune,0,,,2023-05-17
+M-1002,O-42634,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1451,2022-10-08,28010,Man,Kolkata,11,2025-07-31,231.0,Mumbai,Chennai,Kolkata,Kolkata,0,,,2023-09-22
+M-1009,O-84155,Cefixime,Antibiotic for respiratory and UTI infections.,B-2720,2020-01-29,94240,Dis,Ahmedabad,8,2021-11-16,-1122.0,Jaipur,Ahmedabad,Bangalore,Hyderabad,6115,Optimal,,2024-12-02
+M-1009,O-41359,Cefixime,Antibiotic for respiratory and UTI infections.,B-6673,2024-09-30,89510,Dis,Delhi,15,2025-11-15,338.0,Chennai,Delhi,Ahmedabad,Delhi,39520,Optimal,,2024-11-19
+M-1004,O-12950,Azithromycin,Antibiotic for bacterial infections.,B-8613,2024-03-04,82650,Dis,Bangalore,2,2024-09-09,-94.0,Mumbai,Bangalore,Mumbai,Chennai,20693,Optimal,,2024-11-16
+M-1002,O-81771,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5916,2024-02-03,61900,Dis,Pune,7,2025-03-08,86.0,Hyderabad,Pune,Lucknow,Lucknow,27159,Understock,,2024-12-10
+M-1011,O-49491,Pantoprazole,Treats stomach & esophagus problems.,B-8678,2023-11-30,63200,Ret,Bangalore,7,2026-08-04,600.0,Bangalore,Mumbai,Mumbai,Kolkata,0,,1120.0,2024-03-07
+M-1001,O-64183,Amoxicillin,Antibiotic for bacterial infections.,B-4043,2024-09-07,97080,RMS,Hyderabad,96,2026-08-30,,Chennai,Hyderabad,Delhi,Hyderabad,0,,,2024-11-26
+M-1007,O-29527,Cetirizine,Antihistamine for allergy symptoms.,B-4744,2024-10-29,24850,RMS,Chennai,44,2027-10-27,,Chennai,Hyderabad,Hyderabad,Chennai,0,,,2024-11-30
+M-1013,O-24035,Montelukast,Prevents asthma & seasonal allergies.,B-7883,2020-07-03,37890,RMS,Kolkata,1623,2021-12-11,,Delhi,Jaipur,Ahmedabad,Kolkata,0,,,2024-11-02
+M-1011,O-83529,Pantoprazole,Treats stomach & esophagus problems.,B-9745,2021-07-10,97160,Ret,Lucknow,28,2022-07-19,-877.0,Lucknow,Ahmedabad,Delhi,Kolkata,0,,5750.0,2024-03-20
+M-1004,O-62918,Azithromycin,Antibiotic for bacterial infections.,B-1411,2024-04-06,5920,Dis,Delhi,19,2025-12-08,361.0,Delhi,Delhi,Kolkata,Delhi,3548,Understock,,2024-05-14
+M-1012,O-31240,Levofloxacin,Antibiotic for bacterial infections.,B-5081,2021-12-24,32550,RMS,Bangalore,1084,2023-12-01,,Bangalore,Hyderabad,Bangalore,Bangalore,0,,,2022-02-10
+M-1006,O-98438,Omeprazole,Treats GERD and other stomach issues.,B-7458,2020-05-21,116124,RMS,Ahmedabad,1666,2021-12-02,,Ahmedabad,Mumbai,Ahmedabad,Ahmedabad,0,,,2021-08-08
+M-1004,O-78837,Azithromycin,Antibiotic for bacterial infections.,B-4200,2021-07-13,61110,Man,Hyderabad,24,2022-11-30,-743.0,Mumbai,Chennai,Hyderabad,Pune,0,,,2023-07-27
+M-1006,O-47088,Omeprazole,Treats GERD and other stomach issues.,B-4037,2020-07-25,61290,Dis,Mumbai,23,2022-09-16,-818.0,Hyderabad,Mumbai,Lucknow,Jaipur,11631,Understock,,2021-10-30
+M-1010,O-12531,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5842,2021-02-10,36340,Dis,Jaipur,14,2022-11-10,-763.0,Pune,Jaipur,Kolkata,Ahmedabad,21876,Understock,,2021-12-06
+M-1007,O-27318,Cetirizine,Antihistamine for allergy symptoms.,B-2226,2023-08-10,71680,RMS,Pune,490,2026-07-11,,Delhi,Chennai,Lucknow,Pune,0,,,2024-08-05
+M-1011,O-65911,Pantoprazole,Treats stomach & esophagus problems.,B-3911,2021-10-22,30170,Ret,Hyderabad,17,2024-07-11,-154.0,Hyderabad,Chennai,Hyderabad,Bangalore,0,,2530.0,2022-05-11
+M-1011,O-74803,Pantoprazole,Treats stomach & esophagus problems.,B-4014,2022-10-23,66090,Man,Mumbai,21,2024-10-26,-47.0,Jaipur,Delhi,Mumbai,Delhi,0,,,2024-03-19
+M-1010,O-35059,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5549,2021-01-20,34220,Dis,Hyderabad,2,2021-07-19,-1242.0,Jaipur,Hyderabad,Kolkata,Mumbai,36170,Understock,,2022-10-06
+M-1001,O-49757,Amoxicillin,Antibiotic for bacterial infections.,B-2688,2020-04-23,31910,Man,Kolkata,20,2021-01-14,-1428.0,Bangalore,Delhi,Kolkata,Bangalore,0,,,2021-06-14
+M-1009,O-50333,Cefixime,Antibiotic for respiratory and UTI infections.,B-4102,2023-06-20,60468,Ret,Bangalore,8,2025-10-14,306.0,Bangalore,Delhi,Jaipur,Hyderabad,0,,9890.0,2024-05-02
+M-1008,O-14616,Dolo 650,Brand of paracetamol for pain & fever.,B-1058,2022-08-08,3270,Man,Hyderabad,27,2024-11-12,-30.0,Mumbai,Kolkata,Hyderabad,Pune,0,,,2023-04-24
+M-1008,O-31049,Dolo 650,Brand of paracetamol for pain & fever.,B-3558,2024-08-20,64750,Man,Chennai,5,2027-04-21,860.0,Ahmedabad,Hyderabad,Chennai,Pune,0,,,2024-09-08
+M-1013,O-17214,Montelukast,Prevents asthma & seasonal allergies.,B-7877,2020-06-17,37670,RMS,Bangalore,1639,2022-05-27,,Bangalore,Mumbai,Pune,Bangalore,0,,,2024-01-03
+M-1010,O-76972,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6929,2023-12-16,9550,Man,Jaipur,10,2024-08-20,-114.0,Hyderabad,Bangalore,Jaipur,Kolkata,0,,,2024-05-12
+M-1000,O-84477,Paracetamol,Relieves fever & mild to moderate pain.,B-9485,2022-04-09,3130,Dis,Hyderabad,20,2024-08-12,-122.0,Pune,Hyderabad,Kolkata,Mumbai,49481,Understock,,2023-03-09
+M-1005,O-61489,Metformin,Controls blood sugar in type 2 diabetes.,B-1680,2024-07-04,49600,Dis,Mumbai,6,2026-12-09,727.0,Chennai,Mumbai,Delhi,Bangalore,24011,Understock,,2024-09-20
+M-1014,O-46349,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7373,2024-06-17,62880,RMS,Delhi,178,2025-10-06,,Ahmedabad,Delhi,Ahmedabad,Delhi,0,,,2024-08-23
+M-1008,O-99972,Dolo 650,Brand of paracetamol for pain & fever.,B-9616,2020-11-17,73730,Dis,Jaipur,4,2023-10-03,-436.0,Ahmedabad,Jaipur,Delhi,Pune,12189,Understock,,2023-02-15
+M-1000,O-41673,Paracetamol,Relieves fever & mild to moderate pain.,B-6383,2022-05-01,60910,Ret,Ahmedabad,1,2024-01-13,-334.0,Ahmedabad,Kolkata,Hyderabad,Pune,0,,5010.0,2022-06-12
+M-1013,O-18788,Montelukast,Prevents asthma & seasonal allergies.,B-4345,2023-07-16,65710,Ret,Kolkata,26,2025-01-20,39.0,Kolkata,Ahmedabad,Kolkata,Pune,0,,3110.0,2023-10-05
+M-1013,O-35322,Montelukast,Prevents asthma & seasonal allergies.,B-8365,2023-08-17,55010,Man,Lucknow,8,2024-06-24,-171.0,Bangalore,Delhi,Lucknow,Mumbai,0,,,2024-02-15
+M-1011,O-26252,Pantoprazole,Treats stomach & esophagus problems.,B-1821,2020-03-14,3700,Dis,Bangalore,11,2023-01-06,-706.0,Jaipur,Bangalore,Mumbai,Delhi,40911,Understock,,2024-11-13
+M-1000,O-62380,Paracetamol,Relieves fever & mild to moderate pain.,B-2361,2021-02-01,87900,Man,Pune,29,2021-08-25,-1205.0,Chennai,Chennai,Pune,Bangalore,0,,,2022-03-20
+M-1006,O-32307,Omeprazole,Treats GERD and other stomach issues.,B-7636,2020-08-19,29570,Man,Bangalore,16,2023-03-14,-639.0,Mumbai,Kolkata,Bangalore,Hyderabad,0,,,2024-09-04
+M-1000,O-86204,Paracetamol,Relieves fever & mild to moderate pain.,B-2226,2021-04-06,32350,Ret,Bangalore,22,2023-08-25,-475.0,Bangalore,Hyderabad,Hyderabad,Pune,0,,4960.0,2024-05-20
+M-1013,O-75599,Montelukast,Prevents asthma & seasonal allergies.,B-9117,2024-04-14,15972,Ret,Hyderabad,16,2027-03-31,839.0,Hyderabad,Lucknow,Pune,Pune,0,,5620.0,2024-09-20
+M-1007,O-53715,Cetirizine,Antihistamine for allergy symptoms.,B-5881,2020-04-03,11470,RMS,Chennai,1714,2020-12-14,,Mumbai,Pune,Chennai,Chennai,0,,,2020-05-20
+M-1010,O-61132,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9039,2024-10-03,112680,Man,Delhi,4,2026-09-28,655.0,Delhi,Jaipur,Delhi,Lucknow,0,,,2024-10-29
+M-1005,O-41574,Metformin,Controls blood sugar in type 2 diabetes.,B-2101,2022-05-23,10200,RMS,Ahmedabad,934,2024-10-02,,Jaipur,Delhi,Jaipur,Ahmedabad,0,,,2023-07-20
+M-1010,O-29462,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7391,2024-07-29,81640,Dis,Lucknow,22,2025-11-05,328.0,Delhi,Lucknow,Chennai,Bangalore,16182,Understock,,2024-09-27
+M-1000,O-90844,Paracetamol,Relieves fever & mild to moderate pain.,B-7976,2021-10-04,96850,RMS,Bangalore,1165,2023-01-22,,Hyderabad,Kolkata,Lucknow,Bangalore,0,,,2021-11-24
+M-1005,O-93667,Metformin,Controls blood sugar in type 2 diabetes.,B-7921,2023-01-22,42680,RMS,Bangalore,690,2025-01-01,,Delhi,Jaipur,Lucknow,Bangalore,0,,,2023-06-27
+M-1009,O-46454,Cefixime,Antibiotic for respiratory and UTI infections.,B-7916,2023-10-25,35300,RMS,Ahmedabad,414,2025-11-14,,Bangalore,Lucknow,Bangalore,Ahmedabad,0,,,2024-09-20
+M-1002,O-18323,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9957,2022-08-27,74280,Ret,Hyderabad,6,2025-06-20,190.0,Hyderabad,Jaipur,Pune,Chennai,0,,1020.0,2023-08-06
+M-1006,O-53805,Omeprazole,Treats GERD and other stomach issues.,B-7897,2021-08-22,17880,Ret,Lucknow,20,2024-08-09,-125.0,Lucknow,Ahmedabad,Hyderabad,Lucknow,0,,5440.0,2023-09-11
+M-1003,O-24018,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2861,2022-11-03,81930,RMS,Lucknow,770,2024-06-12,,Lucknow,Ahmedabad,Jaipur,Lucknow,0,,,2024-06-30
+M-1008,O-51598,Dolo 650,Brand of paracetamol for pain & fever.,B-9151,2021-08-28,35470,Man,Ahmedabad,8,2024-08-22,-112.0,Kolkata,Lucknow,Ahmedabad,Pune,0,,,2023-05-06
+M-1013,O-56677,Montelukast,Prevents asthma & seasonal allergies.,B-7898,2023-12-31,61460,RMS,Kolkata,347,2025-06-27,,Mumbai,Kolkata,Delhi,Kolkata,0,,,2024-04-27
+M-1000,O-90215,Paracetamol,Relieves fever & mild to moderate pain.,B-9772,2021-11-10,17380,Man,Hyderabad,14,2024-06-09,-186.0,Bangalore,Lucknow,Hyderabad,Pune,0,,,2023-01-10
+M-1010,O-83943,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1969,2024-11-23,34580,RMS,Chennai,19,2027-04-08,,Bangalore,Jaipur,Chennai,Chennai,0,,,2024-12-05
+M-1013,O-55189,Montelukast,Prevents asthma & seasonal allergies.,B-2996,2023-08-24,52590,Dis,Delhi,2,2025-05-03,142.0,Pune,Delhi,Chennai,Lucknow,34585,Understock,,2024-09-22
+M-1001,O-73158,Amoxicillin,Antibiotic for bacterial infections.,B-5771,2020-11-24,2840,Dis,Ahmedabad,15,2022-01-16,-1061.0,Chennai,Ahmedabad,Pune,Ahmedabad,2823,Understock,,2021-05-05
+M-1008,O-29673,Dolo 650,Brand of paracetamol for pain & fever.,B-9044,2023-06-30,52740,RMS,Bangalore,531,2025-11-07,,Kolkata,Delhi,Kolkata,Bangalore,0,,,2024-03-29
+M-1006,O-56687,Omeprazole,Treats GERD and other stomach issues.,B-9618,2022-03-25,95870,Man,Mumbai,20,2022-12-08,-735.0,Delhi,Ahmedabad,Mumbai,Kolkata,0,,,2023-09-13
+M-1001,O-20527,Amoxicillin,Antibiotic for bacterial infections.,B-3395,2024-02-26,10480,RMS,Mumbai,290,2025-05-15,,Kolkata,Mumbai,Ahmedabad,Mumbai,0,,,2024-07-31
+M-1002,O-30127,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8149,2022-05-19,95210,Man,Mumbai,20,2023-02-15,-666.0,Ahmedabad,Pune,Mumbai,Chennai,0,,,2024-03-31
+M-1014,O-78913,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5849,2022-05-07,58010,RMS,Pune,950,2023-03-20,,Delhi,Hyderabad,Lucknow,Pune,0,,,2023-10-06
+M-1001,O-13724,Amoxicillin,Antibiotic for bacterial infections.,B-6136,2024-08-01,72730,Ret,Ahmedabad,19,2027-03-05,813.0,Ahmedabad,Bangalore,Pune,Lucknow,0,,1500.0,2024-11-26
+M-1003,O-74802,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3956,2021-05-19,47260,Man,Ahmedabad,28,2022-05-28,-929.0,Delhi,Chennai,Ahmedabad,Hyderabad,0,,,2022-07-11
+M-1008,O-18756,Dolo 650,Brand of paracetamol for pain & fever.,B-7215,2024-08-26,11410,Ret,Lucknow,1,2026-05-30,534.0,Lucknow,Jaipur,Mumbai,Chennai,0,,4770.0,2024-11-19
+M-1002,O-11362,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3457,2024-11-19,60480,RMS,Bangalore,23,2026-02-02,,Mumbai,Jaipur,Ahmedabad,Bangalore,0,,,2024-11-27
+M-1014,O-76224,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4472,2022-08-27,53724,Dis,Mumbai,11,2025-08-13,244.0,Bangalore,Mumbai,Pune,Mumbai,38626,Understock,,2024-01-01
+M-1003,O-91916,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9509,2021-01-28,52490,RMS,Kolkata,1414,2023-08-12,,Delhi,Kolkata,Lucknow,Kolkata,0,,,2023-10-14
+M-1001,O-80054,Amoxicillin,Antibiotic for bacterial infections.,B-7315,2021-06-04,115453,Dis,Hyderabad,27,2022-08-16,-849.0,Kolkata,Hyderabad,Chennai,Chennai,41105,Optimal,,2021-11-26
+M-1002,O-56663,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3824,2021-02-02,75060,Man,Bangalore,4,2023-10-05,-434.0,Pune,Hyderabad,Bangalore,Delhi,0,,,2024-07-05
+M-1014,O-25019,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2528,2020-02-10,87690,Ret,Bangalore,12,2021-07-24,-1237.0,Bangalore,Kolkata,Delhi,Mumbai,0,,1980.0,2021-11-01
+M-1009,O-27453,Cefixime,Antibiotic for respiratory and UTI infections.,B-2883,2022-07-11,49190,Ret,Bangalore,11,2024-06-18,-177.0,Bangalore,Lucknow,Lucknow,Chennai,0,,2720.0,2023-02-13
+M-1008,O-89336,Dolo 650,Brand of paracetamol for pain & fever.,B-7443,2022-09-10,87040,Man,Jaipur,11,2024-06-28,-167.0,Kolkata,Kolkata,Jaipur,Kolkata,0,,,2024-03-12
+M-1008,O-70068,Dolo 650,Brand of paracetamol for pain & fever.,B-7777,2020-08-28,81570,Dis,Ahmedabad,28,2021-09-16,-1183.0,Delhi,Ahmedabad,Hyderabad,Pune,19630,Optimal,,2023-03-06
+M-1003,O-56209,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3163,2022-01-27,1830,RMS,Mumbai,1050,2024-05-23,,Kolkata,Lucknow,Mumbai,Mumbai,0,,,2023-11-07
+M-1001,O-44650,Amoxicillin,Antibiotic for bacterial infections.,B-9374,2024-08-09,36570,Man,Lucknow,3,2025-07-23,223.0,Ahmedabad,Ahmedabad,Lucknow,Kolkata,0,,,2024-10-21
+M-1000,O-15628,Paracetamol,Relieves fever & mild to moderate pain.,B-1226,2023-08-10,52830,Man,Chennai,2,2024-03-12,-275.0,Lucknow,Mumbai,Chennai,Mumbai,0,,,2024-01-24
+M-1009,O-41804,Cefixime,Antibiotic for respiratory and UTI infections.,B-4357,2024-06-15,112980,Man,Jaipur,7,2027-05-23,892.0,Bangalore,Delhi,Jaipur,Ahmedabad,0,,,2024-11-16
+M-1004,O-77763,Azithromycin,Antibiotic for bacterial infections.,B-9842,2021-06-02,17220,Ret,Ahmedabad,23,2022-12-18,-725.0,Ahmedabad,Mumbai,Mumbai,Hyderabad,0,,2220.0,2022-07-28
+M-1001,O-77936,Amoxicillin,Antibiotic for bacterial infections.,B-2613,2022-03-11,2470,Dis,Ahmedabad,7,2023-03-31,-622.0,Jaipur,Ahmedabad,Mumbai,Kolkata,8953,Understock,,2022-08-28
+M-1013,O-22020,Montelukast,Prevents asthma & seasonal allergies.,B-9119,2022-12-18,17410,Dis,Jaipur,17,2025-08-22,253.0,Ahmedabad,Jaipur,Hyderabad,Lucknow,11267,Understock,,2024-12-10
+M-1012,O-56579,Levofloxacin,Antibiotic for bacterial infections.,B-1120,2021-11-04,16170,RMS,Chennai,1134,2023-07-29,,Pune,Pune,Lucknow,Chennai,0,,,2022-06-27
+M-1003,O-46487,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8497,2021-01-01,38860,Dis,Hyderabad,2,2023-07-05,-526.0,Mumbai,Hyderabad,Pune,Pune,37819,Understock,,2021-04-26
+M-1013,O-95452,Montelukast,Prevents asthma & seasonal allergies.,B-1160,2024-10-02,40690,RMS,Chennai,71,2026-06-29,,Jaipur,Lucknow,Chennai,Chennai,0,,,2024-10-16
+M-1006,O-51813,Omeprazole,Treats GERD and other stomach issues.,B-9874,2022-03-19,86740,Dis,Lucknow,15,2022-10-25,-779.0,Mumbai,Lucknow,Hyderabad,Ahmedabad,28667,Optimal,,2024-09-25
+M-1001,O-42036,Amoxicillin,Antibiotic for bacterial infections.,B-4740,2023-04-17,59130,Dis,Bangalore,18,2025-03-25,103.0,Kolkata,Bangalore,Kolkata,Pune,41551,Optimal,,2023-07-24
+M-1000,O-55979,Paracetamol,Relieves fever & mild to moderate pain.,B-1540,2022-09-06,91800,RMS,Pune,828,2023-11-29,,Delhi,Ahmedabad,Kolkata,Pune,0,,,2024-01-28
+M-1008,O-44593,Dolo 650,Brand of paracetamol for pain & fever.,B-4604,2021-06-25,54120,Man,Mumbai,4,2022-05-02,-955.0,Chennai,Delhi,Mumbai,Ahmedabad,0,,,2024-11-10
+M-1014,O-54676,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4441,2021-10-24,98100,RMS,Ahmedabad,1145,2022-12-22,,Ahmedabad,Ahmedabad,Mumbai,Ahmedabad,0,,,2022-03-13
+M-1011,O-58204,Pantoprazole,Treats stomach & esophagus problems.,B-9247,2020-06-26,87520,Ret,Jaipur,17,2023-04-20,-602.0,Jaipur,Ahmedabad,Hyderabad,Bangalore,0,,3820.0,2024-04-28
+M-1014,O-24983,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9693,2024-10-19,6640,Ret,Ahmedabad,7,2025-09-15,277.0,Ahmedabad,Pune,Hyderabad,Chennai,0,,2300.0,2024-12-05
+M-1000,O-89466,Paracetamol,Relieves fever & mild to moderate pain.,B-9686,2020-12-23,189960,Dis,Bangalore,14,2021-06-25,-1266.0,Pune,Bangalore,Bangalore,Bangalore,48715,Optimal,,2023-05-08
+M-1011,O-10070,Pantoprazole,Treats stomach & esophagus problems.,B-5469,2024-10-30,1340,Dis,Hyderabad,21,2027-08-26,987.0,Mumbai,Hyderabad,Kolkata,Kolkata,29129,Understock,,2024-11-21
+M-1009,O-48416,Cefixime,Antibiotic for respiratory and UTI infections.,B-3187,2023-08-08,87670,Ret,Delhi,27,2024-02-14,-302.0,Delhi,Pune,Jaipur,Ahmedabad,0,,1600.0,2024-06-02
+M-1003,O-35281,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2364,2021-06-20,43134,RMS,Pune,1271,2024-06-19,,Bangalore,Chennai,Chennai,Pune,0,,,2024-05-09
+M-1010,O-87216,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7445,2021-01-30,92900,Dis,Delhi,4,2023-03-22,-631.0,Kolkata,Delhi,Chennai,Pune,26049,Optimal,,2024-07-21
+M-1001,O-52965,Amoxicillin,Antibiotic for bacterial infections.,B-1993,2023-03-10,59420,Dis,Delhi,24,2025-03-03,81.0,Jaipur,Delhi,Pune,Jaipur,37012,Understock,,2023-11-20
+M-1014,O-97405,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5109,2024-08-31,9108,Ret,Lucknow,1,2026-05-31,535.0,Lucknow,Delhi,Hyderabad,Lucknow,0,,2110.0,2024-11-29
+M-1011,O-45516,Pantoprazole,Treats stomach & esophagus problems.,B-5255,2024-05-09,98800,RMS,Ahmedabad,217,2026-09-19,,Mumbai,Jaipur,Lucknow,Ahmedabad,0,,,2024-06-17
+M-1007,O-81510,Cetirizine,Antihistamine for allergy symptoms.,B-4953,2023-06-10,91260,Dis,Kolkata,22,2024-10-04,-69.0,Kolkata,Kolkata,Ahmedabad,Ahmedabad,47464,Optimal,,2023-12-05
+M-1001,O-25845,Amoxicillin,Antibiotic for bacterial infections.,B-1544,2021-09-17,23740,RMS,Pune,1182,2024-07-28,,Hyderabad,Delhi,Ahmedabad,Pune,0,,,2022-02-15
+M-1000,O-15882,Paracetamol,Relieves fever & mild to moderate pain.,B-8646,2024-09-26,95540,Dis,Chennai,8,2027-07-29,959.0,Jaipur,Chennai,Delhi,Mumbai,3769,Understock,,2024-09-27
+M-1006,O-64060,Omeprazole,Treats GERD and other stomach issues.,B-9936,2020-06-29,63200,Ret,Lucknow,10,2021-01-15,-1427.0,Lucknow,Hyderabad,Delhi,Mumbai,0,,9160.0,2024-01-15
+M-1009,O-57868,Cefixime,Antibiotic for respiratory and UTI infections.,B-8991,2023-08-09,84700,Man,Bangalore,19,2024-06-05,-190.0,Hyderabad,Pune,Bangalore,Lucknow,0,,,2024-01-17
+M-1014,O-37792,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2872,2020-01-29,20620,Man,Mumbai,29,2022-03-28,-990.0,Ahmedabad,Hyderabad,Mumbai,Delhi,0,,,2022-08-19
+M-1012,O-82444,Levofloxacin,Antibiotic for bacterial infections.,B-1274,2022-05-13,12670,Dis,Lucknow,24,2023-09-29,-440.0,Pune,Lucknow,Jaipur,Lucknow,46502,Understock,,2023-01-12
+M-1010,O-73560,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-7230,2020-02-25,18480,Dis,Delhi,22,2022-12-08,-735.0,Delhi,Delhi,Lucknow,Kolkata,35119,Understock,,2021-03-16
+M-1014,O-26844,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9900,2023-06-22,2540,Dis,Lucknow,11,2024-05-30,-196.0,Pune,Lucknow,Delhi,Pune,36485,Understock,,2024-01-07
+M-1012,O-17706,Levofloxacin,Antibiotic for bacterial infections.,B-2280,2020-12-23,86295,Dis,Hyderabad,7,2021-08-24,-1206.0,Hyderabad,Hyderabad,Hyderabad,Jaipur,22741,Optimal,,2023-10-29
+M-1003,O-45585,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8442,2020-04-24,74920,RMS,Pune,1693,2020-11-29,,Delhi,Hyderabad,Bangalore,Pune,0,,,2023-02-27
+M-1003,O-64067,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1491,2024-04-12,5300,Man,Lucknow,1,2026-03-05,448.0,Jaipur,Lucknow,Lucknow,Lucknow,0,,,2024-08-21
+M-1002,O-24530,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9886,2024-04-28,87800,Ret,Mumbai,22,2025-11-16,339.0,Mumbai,Mumbai,Jaipur,Kolkata,0,,9120.0,2024-06-11
+M-1014,O-97931,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5279,2024-03-06,98550,RMS,Lucknow,281,2025-02-09,,Delhi,Kolkata,Chennai,Lucknow,0,,,2024-08-03
+M-1006,O-23060,Omeprazole,Treats GERD and other stomach issues.,B-8327,2022-07-07,21900,Ret,Chennai,9,2024-02-06,-310.0,Chennai,Bangalore,Ahmedabad,Delhi,0,,6290.0,2023-10-28
+M-1009,O-42321,Cefixime,Antibiotic for respiratory and UTI infections.,B-9297,2023-09-07,47070,Dis,Hyderabad,20,2026-08-11,607.0,Bangalore,Hyderabad,Mumbai,Chennai,25706,Understock,,2024-04-28
+M-1009,O-44754,Cefixime,Antibiotic for respiratory and UTI infections.,B-2256,2024-11-17,6520,Man,Kolkata,27,2027-09-23,1015.0,Pune,Kolkata,Kolkata,Lucknow,0,,,2024-11-21
+M-1012,O-66063,Levofloxacin,Antibiotic for bacterial infections.,B-6934,2024-10-21,99740,RMS,Jaipur,52,2026-02-24,,Kolkata,Lucknow,Hyderabad,Jaipur,0,,,2024-11-03
+M-1002,O-29162,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2919,2024-07-01,3510,Ret,Hyderabad,21,2026-11-20,708.0,Hyderabad,Kolkata,Pune,Ahmedabad,0,,1720.0,2024-10-29
+M-1003,O-28576,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7731,2024-07-21,82316,Man,Lucknow,9,2025-11-07,330.0,Chennai,Kolkata,Lucknow,Mumbai,0,,,2024-11-16
+M-1002,O-69877,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3214,2020-10-27,70260,Man,Hyderabad,22,2022-11-09,-764.0,Hyderabad,Chennai,Hyderabad,Lucknow,0,,,2024-05-31
+M-1012,O-61089,Levofloxacin,Antibiotic for bacterial infections.,B-6300,2022-03-05,17490,Ret,Jaipur,7,2023-10-28,-411.0,Jaipur,Chennai,Chennai,Jaipur,0,,3030.0,2022-11-24
+M-1012,O-36817,Levofloxacin,Antibiotic for bacterial infections.,B-8394,2020-08-06,63320,Man,Bangalore,5,2021-02-12,-1399.0,Bangalore,Hyderabad,Bangalore,Bangalore,0,,,2024-07-13
+M-1002,O-30093,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2434,2021-01-22,34870,Man,Ahmedabad,30,2022-09-04,-830.0,Mumbai,Lucknow,Ahmedabad,Delhi,0,,,2021-03-12
+M-1002,O-21789,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9291,2022-10-24,7400,RMS,Kolkata,780,2024-09-21,,Delhi,Jaipur,Delhi,Kolkata,0,,,2024-05-24
+M-1002,O-28344,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-4127,2023-08-14,33530,Dis,Bangalore,27,2024-04-23,-233.0,Hyderabad,Bangalore,Chennai,Mumbai,36213,Understock,,2024-01-17
+M-1013,O-63800,Montelukast,Prevents asthma & seasonal allergies.,B-6862,2023-08-25,73740,Man,Kolkata,21,2026-06-13,548.0,Mumbai,Lucknow,Kolkata,Kolkata,0,,,2024-09-12
+M-1001,O-93688,Amoxicillin,Antibiotic for bacterial infections.,B-4870,2023-04-02,31080,Ret,Mumbai,22,2023-12-16,-362.0,Mumbai,Chennai,Ahmedabad,Chennai,0,,5860.0,2023-06-19
+M-1013,O-88609,Montelukast,Prevents asthma & seasonal allergies.,B-2657,2024-11-10,37240,Ret,Kolkata,23,2027-09-22,1014.0,Kolkata,Chennai,Jaipur,Bangalore,0,,4260.0,2024-11-24
+M-1009,O-34752,Cefixime,Antibiotic for respiratory and UTI infections.,B-5080,2023-08-10,5360,Ret,Ahmedabad,4,2024-04-07,-249.0,Ahmedabad,Lucknow,Hyderabad,Delhi,0,,8140.0,2024-03-15
+M-1002,O-98552,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3929,2024-06-05,41900,Ret,Pune,4,2025-10-13,305.0,Pune,Mumbai,Mumbai,Bangalore,0,,3730.0,2024-09-28
+M-1010,O-26785,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1563,2023-01-23,76800,Dis,Hyderabad,7,2025-09-28,290.0,Ahmedabad,Hyderabad,Ahmedabad,Chennai,28045,Optimal,,2023-05-14
+M-1009,O-60001,Cefixime,Antibiotic for respiratory and UTI infections.,B-1374,2024-06-11,64896,Dis,Mumbai,8,2027-04-19,858.0,Chennai,Mumbai,Bangalore,Delhi,21641,Understock,,2024-08-13
+M-1006,O-40448,Omeprazole,Treats GERD and other stomach issues.,B-2120,2024-03-25,77000,Ret,Kolkata,13,2024-11-16,-26.0,Kolkata,Bangalore,Delhi,Pune,0,,4000.0,2024-09-10
+M-1001,O-26759,Amoxicillin,Antibiotic for bacterial infections.,B-7259,2022-01-05,71880,Man,Hyderabad,15,2023-11-29,-379.0,Mumbai,Kolkata,Hyderabad,Chennai,0,,,2024-07-30
+M-1008,O-63619,Dolo 650,Brand of paracetamol for pain & fever.,B-3744,2021-03-22,71870,Man,Mumbai,19,2023-04-17,-605.0,Ahmedabad,Bangalore,Mumbai,Delhi,0,,,2021-08-18
+M-1002,O-23018,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9510,2022-04-18,22560,RMS,Bangalore,969,2023-08-07,,Hyderabad,Delhi,Mumbai,Bangalore,0,,,2024-11-30
+M-1012,O-72470,Levofloxacin,Antibiotic for bacterial infections.,B-9318,2024-08-16,83300,RMS,Kolkata,118,2025-05-31,,Kolkata,Bangalore,Lucknow,Kolkata,0,,,2024-10-06
+M-1009,O-81805,Cefixime,Antibiotic for respiratory and UTI infections.,B-2548,2020-11-01,48510,Ret,Chennai,13,2021-06-14,-1277.0,Chennai,Ahmedabad,Jaipur,Kolkata,0,,3230.0,2021-07-03
+M-1000,O-77789,Paracetamol,Relieves fever & mild to moderate pain.,B-8157,2020-07-31,55890,Dis,Jaipur,24,2023-04-05,-617.0,Mumbai,Jaipur,Chennai,Chennai,35541,Understock,,2022-09-16
+M-1013,O-64687,Montelukast,Prevents asthma & seasonal allergies.,B-4938,2020-12-25,36740,Ret,Jaipur,1,2023-10-23,-416.0,Jaipur,Ahmedabad,Bangalore,Delhi,0,,6010.0,2021-09-03
+M-1012,O-26318,Levofloxacin,Antibiotic for bacterial infections.,B-4580,2020-03-31,91460,Man,Delhi,5,2022-09-27,-807.0,Ahmedabad,Jaipur,Delhi,Ahmedabad,0,,,2024-02-04
+M-1013,O-48708,Montelukast,Prevents asthma & seasonal allergies.,B-3006,2020-12-14,34800,Dis,Pune,16,2023-03-12,-641.0,Chennai,Pune,Lucknow,Mumbai,3099,Understock,,2024-08-05
+M-1001,O-39370,Amoxicillin,Antibiotic for bacterial infections.,B-4369,2020-12-02,41010,Man,Hyderabad,5,2022-06-01,-925.0,Lucknow,Delhi,Hyderabad,Mumbai,0,,,2023-10-06
+M-1005,O-61992,Metformin,Controls blood sugar in type 2 diabetes.,B-8435,2021-01-10,2850,Ret,Jaipur,8,2022-06-05,-921.0,Jaipur,Chennai,Hyderabad,Jaipur,0,,4010.0,2023-11-17
+M-1006,O-63988,Omeprazole,Treats GERD and other stomach issues.,B-3243,2023-08-22,49950,Man,Pune,14,2024-12-19,7.0,Bangalore,Chennai,Pune,Hyderabad,0,,,2024-08-12
+M-1000,O-62267,Paracetamol,Relieves fever & mild to moderate pain.,B-5142,2022-07-16,69820,RMS,Kolkata,880,2025-01-30,,Kolkata,Ahmedabad,Delhi,Kolkata,0,,,2024-04-06
+M-1008,O-94269,Dolo 650,Brand of paracetamol for pain & fever.,B-8315,2022-03-24,31760,Dis,Chennai,13,2024-03-29,-258.0,Pune,Chennai,Jaipur,Hyderabad,1447,Understock,,2023-10-14
+M-1013,O-47051,Montelukast,Prevents asthma & seasonal allergies.,B-9835,2022-06-11,32580,Ret,Ahmedabad,1,2025-06-01,171.0,Ahmedabad,Bangalore,Delhi,Chennai,0,,7920.0,2022-08-27
+M-1004,O-86282,Azithromycin,Antibiotic for bacterial infections.,B-8034,2022-12-14,44660,RMS,Mumbai,729,2025-06-27,,Lucknow,Ahmedabad,Lucknow,Mumbai,0,,,2024-04-01
+M-1008,O-86078,Dolo 650,Brand of paracetamol for pain & fever.,B-7512,2022-06-30,71300,Ret,Lucknow,14,2024-10-22,-51.0,Lucknow,Delhi,Jaipur,Ahmedabad,0,,6240.0,2023-10-05
+M-1001,O-69528,Amoxicillin,Antibiotic for bacterial infections.,B-5498,2022-09-10,28320,Man,Pune,11,2024-09-28,-75.0,Ahmedabad,Lucknow,Pune,Mumbai,0,,,2023-10-16
+M-1012,O-67539,Levofloxacin,Antibiotic for bacterial infections.,B-7641,2022-08-20,7990,Man,Delhi,3,2024-09-20,-83.0,Bangalore,Hyderabad,Delhi,Hyderabad,0,,,2022-08-28
+M-1003,O-26071,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-7469,2023-12-02,97190,Ret,Bangalore,5,2026-05-22,526.0,Bangalore,Jaipur,Chennai,Kolkata,0,,9860.0,2023-12-29
+M-1005,O-82740,Metformin,Controls blood sugar in type 2 diabetes.,B-7751,2019-12-18,18520,Ret,Delhi,28,2020-07-03,-1623.0,Delhi,Chennai,Chennai,Pune,0,,4420.0,2023-01-18
+M-1002,O-12485,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6538,2021-10-24,8200,Man,Bangalore,1,2023-12-20,-358.0,Hyderabad,Jaipur,Bangalore,Delhi,0,,,2022-02-26
+M-1011,O-85195,Pantoprazole,Treats stomach & esophagus problems.,B-3291,2024-07-24,43380,Dis,Lucknow,5,2026-12-10,728.0,Hyderabad,Lucknow,Delhi,Hyderabad,33298,Understock,,2024-09-14
+M-1000,O-83743,Paracetamol,Relieves fever & mild to moderate pain.,B-9296,2021-06-23,78620,Ret,Mumbai,6,2022-08-04,-861.0,Mumbai,Ahmedabad,Delhi,Bangalore,0,,8460.0,2023-05-08
+M-1008,O-60945,Dolo 650,Brand of paracetamol for pain & fever.,B-1181,2020-11-09,49630,Dis,Hyderabad,25,2022-01-02,-1075.0,Hyderabad,Hyderabad,Pune,Mumbai,12039,Understock,,2023-04-28
+M-1004,O-95993,Azithromycin,Antibiotic for bacterial infections.,B-5441,2020-03-01,2340,Ret,Delhi,5,2022-05-03,-954.0,Delhi,Jaipur,Kolkata,Hyderabad,0,,6020.0,2023-10-06
+M-1002,O-99699,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1085,2020-07-15,5500,Dis,Lucknow,10,2023-02-02,-679.0,Bangalore,Lucknow,Lucknow,Jaipur,24639,Understock,,2021-06-29
+M-1005,O-80348,Metformin,Controls blood sugar in type 2 diabetes.,B-7954,2021-01-08,18170,Man,Hyderabad,11,2023-12-25,-353.0,Jaipur,Kolkata,Hyderabad,Kolkata,0,,,2022-05-13
+M-1010,O-83974,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5742,2022-04-02,33700,RMS,Jaipur,985,2025-03-18,,Ahmedabad,Mumbai,Jaipur,Jaipur,0,,,2024-03-31
+M-1013,O-59300,Montelukast,Prevents asthma & seasonal allergies.,B-2378,2020-05-06,76780,Dis,Kolkata,12,2021-01-07,-1435.0,Jaipur,Kolkata,Delhi,Hyderabad,4801,Understock,,2020-12-28
+M-1011,O-61445,Pantoprazole,Treats stomach & esophagus problems.,B-1674,2022-02-06,4760,Ret,Mumbai,3,2024-10-31,-42.0,Mumbai,Bangalore,Jaipur,Pune,0,,2520.0,2024-07-04
+M-1002,O-85530,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-1498,2023-05-08,8870,RMS,Hyderabad,584,2024-11-12,,Ahmedabad,Chennai,Ahmedabad,Hyderabad,0,,,2024-11-11
+M-1008,O-21680,Dolo 650,Brand of paracetamol for pain & fever.,B-2004,2022-07-10,5800,Dis,Kolkata,13,2025-04-15,124.0,Lucknow,Kolkata,Pune,Hyderabad,24447,Understock,,2024-01-05
+M-1007,O-75397,Cetirizine,Antihistamine for allergy symptoms.,B-3757,2023-08-24,59290,Ret,Mumbai,3,2025-12-10,363.0,Mumbai,Pune,Chennai,Hyderabad,0,,3870.0,2023-11-06
+M-1009,O-25580,Cefixime,Antibiotic for respiratory and UTI infections.,B-1414,2023-05-25,16310,RMS,Bangalore,567,2024-07-10,,Mumbai,Hyderabad,Kolkata,Bangalore,0,,,2024-06-27
+M-1008,O-56630,Dolo 650,Brand of paracetamol for pain & fever.,B-4386,2021-04-21,1910,Dis,Kolkata,23,2022-10-12,-792.0,Ahmedabad,Kolkata,Hyderabad,Ahmedabad,23886,Understock,,2023-04-22
+M-1005,O-23908,Metformin,Controls blood sugar in type 2 diabetes.,B-4276,2020-10-24,61850,Ret,Kolkata,16,2023-02-19,-662.0,Kolkata,Bangalore,Delhi,Lucknow,0,,3750.0,2021-02-19
+M-1012,O-27826,Levofloxacin,Antibiotic for bacterial infections.,B-9732,2023-10-06,45180,Man,Kolkata,15,2026-05-20,524.0,Hyderabad,Bangalore,Kolkata,Jaipur,0,,,2024-05-22
+M-1000,O-95555,Paracetamol,Relieves fever & mild to moderate pain.,B-3548,2023-01-29,55580,RMS,Delhi,683,2025-02-15,,Lucknow,Bangalore,Jaipur,Delhi,0,,,2024-12-05
+M-1008,O-90840,Dolo 650,Brand of paracetamol for pain & fever.,B-6820,2021-07-30,85540,Ret,Jaipur,6,2024-02-17,-299.0,Jaipur,Jaipur,Delhi,Hyderabad,0,,7150.0,2023-01-12
+M-1009,O-83514,Cefixime,Antibiotic for respiratory and UTI infections.,B-7544,2023-09-24,51670,Ret,Jaipur,29,2025-03-09,87.0,Jaipur,Pune,Delhi,Pune,0,,3410.0,2023-10-12
+M-1014,O-12489,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-5459,2024-10-01,99050,Man,Bangalore,21,2025-11-29,352.0,Hyderabad,Mumbai,Bangalore,Chennai,0,,,2024-10-25
+M-1004,O-28124,Azithromycin,Antibiotic for bacterial infections.,B-4097,2023-09-22,7400,Man,Mumbai,17,2024-05-16,-210.0,Hyderabad,Pune,Mumbai,Hyderabad,0,,,2024-08-29
+M-1010,O-27871,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5546,2023-12-07,49660,Dis,Chennai,19,2025-10-13,305.0,Delhi,Chennai,Kolkata,Pune,18863,Understock,,2024-06-29
+M-1002,O-21466,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-3351,2022-12-10,25100,Man,Lucknow,29,2024-12-19,7.0,Delhi,Lucknow,Lucknow,Delhi,0,,,2023-12-27
+M-1009,O-85211,Cefixime,Antibiotic for respiratory and UTI infections.,B-9758,2022-02-20,65960,Ret,Mumbai,9,2023-09-05,-464.0,Mumbai,Kolkata,Hyderabad,Hyderabad,0,,5020.0,2023-12-15
+M-1011,O-76538,Pantoprazole,Treats stomach & esophagus problems.,B-9304,2019-12-18,77490,Ret,Delhi,30,2021-10-12,-1157.0,Delhi,Bangalore,Pune,Ahmedabad,0,,3060.0,2024-05-05
+M-1012,O-92981,Levofloxacin,Antibiotic for bacterial infections.,B-7269,2021-11-20,79100,Dis,Mumbai,14,2024-02-13,-303.0,Bangalore,Mumbai,Kolkata,Kolkata,1963,Understock,,2021-11-26
+M-1004,O-63833,Azithromycin,Antibiotic for bacterial infections.,B-8383,2023-01-20,45240,Dis,Lucknow,13,2025-07-08,208.0,Lucknow,Lucknow,Hyderabad,Hyderabad,45489,Understock,,2024-10-26
+M-1008,O-79471,Dolo 650,Brand of paracetamol for pain & fever.,B-1364,2020-06-15,39440,Dis,Mumbai,1,2021-07-24,-1237.0,Bangalore,Mumbai,Pune,Pune,12871,Understock,,2024-02-17
+M-1001,O-74054,Amoxicillin,Antibiotic for bacterial infections.,B-7888,2021-07-16,117108,RMS,Mumbai,1245,2022-01-24,,Bangalore,Delhi,Chennai,Mumbai,0,,,2024-04-16
+M-1010,O-59711,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8585,2021-02-13,3350,Dis,Kolkata,11,2022-02-01,-1045.0,Bangalore,Kolkata,Ahmedabad,Chennai,21599,Understock,,2021-04-05
+M-1014,O-91433,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3390,2022-03-19,51160,RMS,Chennai,999,2024-07-05,,Ahmedabad,Ahmedabad,Chennai,Chennai,0,,,2024-06-15
+M-1006,O-21445,Omeprazole,Treats GERD and other stomach issues.,B-2438,2022-08-29,24110,Man,Bangalore,15,2023-02-28,-653.0,Jaipur,Pune,Bangalore,Mumbai,0,,,2024-12-02
+M-1009,O-88967,Cefixime,Antibiotic for respiratory and UTI infections.,B-4011,2020-03-13,77190,RMS,Ahmedabad,1735,2021-12-12,,Jaipur,Bangalore,Bangalore,Ahmedabad,0,,,2023-12-04
+M-1009,O-15677,Cefixime,Antibiotic for respiratory and UTI infections.,B-9186,2021-03-21,58060,Dis,Mumbai,23,2022-08-07,-858.0,Ahmedabad,Mumbai,Jaipur,Lucknow,28520,Understock,,2024-09-25
+M-1006,O-56614,Omeprazole,Treats GERD and other stomach issues.,B-9815,2021-09-12,9580,Man,Ahmedabad,25,2024-07-24,-141.0,Mumbai,Jaipur,Ahmedabad,Ahmedabad,0,,,2022-09-12
+M-1002,O-19655,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6312,2021-12-03,91010,Dis,Chennai,24,2023-03-18,-635.0,Kolkata,Chennai,Pune,Hyderabad,11700,Optimal,,2024-08-08
+M-1006,O-12090,Omeprazole,Treats GERD and other stomach issues.,B-2393,2024-07-02,56720,Man,Lucknow,18,2025-04-10,119.0,Delhi,Kolkata,Lucknow,Lucknow,0,,,2024-07-19
+M-1008,O-26353,Dolo 650,Brand of paracetamol for pain & fever.,B-5574,2024-12-01,89970,Man,Chennai,6,2026-05-03,507.0,Mumbai,Mumbai,Chennai,Hyderabad,0,,,2024-12-03
+M-1011,O-32322,Pantoprazole,Treats stomach & esophagus problems.,B-7076,2022-04-23,44700,RMS,Bangalore,964,2023-11-04,,Hyderabad,Pune,Mumbai,Bangalore,0,,,2024-05-22
+M-1014,O-98949,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7527,2023-10-18,9590,Man,Ahmedabad,27,2026-06-07,542.0,Bangalore,Ahmedabad,Ahmedabad,Kolkata,0,,,2023-11-01
+M-1005,O-87622,Metformin,Controls blood sugar in type 2 diabetes.,B-3197,2021-12-08,40120,Ret,Bangalore,18,2022-11-26,-747.0,Bangalore,Pune,Mumbai,Jaipur,0,,5500.0,2024-05-19
+M-1005,O-43454,Metformin,Controls blood sugar in type 2 diabetes.,B-1519,2021-10-13,94640,Man,Lucknow,5,2024-06-29,-166.0,Pune,Kolkata,Lucknow,Bangalore,0,,,2022-08-08
+M-1007,O-68824,Cetirizine,Antihistamine for allergy symptoms.,B-8419,2022-08-11,32490,Ret,Ahmedabad,28,2024-09-12,-91.0,Ahmedabad,Pune,Kolkata,Delhi,0,,5840.0,2023-10-03
+M-1009,O-54147,Cefixime,Antibiotic for respiratory and UTI infections.,B-1196,2024-06-28,55596,Ret,Chennai,9,2027-02-14,794.0,Chennai,Ahmedabad,Lucknow,Mumbai,0,,9720.0,2024-09-01
+M-1001,O-75669,Amoxicillin,Antibiotic for bacterial infections.,B-1501,2024-11-11,67240,RMS,Hyderabad,31,2027-10-17,,Kolkata,Pune,Chennai,Hyderabad,0,,,2024-12-08
+M-1002,O-25093,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8871,2023-08-27,71690,RMS,Ahmedabad,473,2025-04-11,,Pune,Mumbai,Jaipur,Ahmedabad,0,,,2024-07-05
+M-1012,O-20483,Levofloxacin,Antibiotic for bacterial infections.,B-3875,2021-08-18,11190,RMS,Kolkata,1212,2022-05-13,,Bangalore,Kolkata,Bangalore,Kolkata,0,,,2023-12-29
+M-1003,O-38683,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8827,2024-04-09,89700,Man,Lucknow,7,2025-05-07,146.0,Chennai,Lucknow,Lucknow,Pune,0,,,2024-06-21
+M-1014,O-28784,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3095,2023-12-07,51790,Man,Hyderabad,18,2026-05-24,528.0,Ahmedabad,Mumbai,Hyderabad,Chennai,0,,,2024-06-13
+M-1004,O-70081,Azithromycin,Antibiotic for bacterial infections.,B-2804,2022-11-23,38140,RMS,Lucknow,750,2025-06-26,,Ahmedabad,Mumbai,Ahmedabad,Lucknow,0,,,2023-05-18
+M-1006,O-77515,Omeprazole,Treats GERD and other stomach issues.,B-8044,2020-06-02,20110,Dis,Jaipur,5,2021-07-29,-1232.0,Kolkata,Jaipur,Mumbai,Chennai,34053,Understock,,2021-01-13
+M-1009,O-66039,Cefixime,Antibiotic for respiratory and UTI infections.,B-5974,2023-12-27,39920,Ret,Lucknow,18,2026-11-29,717.0,Lucknow,Kolkata,Pune,Delhi,0,,8000.0,2024-05-18
+M-1002,O-58150,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7633,2023-04-20,57900,Ret,Ahmedabad,18,2024-05-09,-217.0,Ahmedabad,Hyderabad,Lucknow,Kolkata,0,,980.0,2024-09-08
+M-1006,O-73610,Omeprazole,Treats GERD and other stomach issues.,B-9097,2024-04-16,20370,Dis,Hyderabad,6,2027-03-24,832.0,Ahmedabad,Hyderabad,Lucknow,Kolkata,4271,Understock,,2024-12-08
+M-1007,O-60319,Cetirizine,Antihistamine for allergy symptoms.,B-7098,2024-12-02,50940,RMS,Jaipur,10,2027-04-04,,Mumbai,Mumbai,Bangalore,Jaipur,0,,,2024-12-06
+M-1004,O-83005,Azithromycin,Antibiotic for bacterial infections.,B-9425,2024-10-04,32100,Man,Lucknow,17,2027-07-11,941.0,Bangalore,Chennai,Lucknow,Bangalore,0,,,2024-11-02
+M-1008,O-11887,Dolo 650,Brand of paracetamol for pain & fever.,B-1841,2024-10-08,7340,RMS,Delhi,65,2027-06-01,,Hyderabad,Ahmedabad,Mumbai,Delhi,0,,,2024-10-19
+M-1001,O-99782,Amoxicillin,Antibiotic for bacterial infections.,B-5055,2021-12-08,10270,Man,Chennai,23,2022-07-24,-872.0,Mumbai,Mumbai,Chennai,Pune,0,,,2022-02-16
+M-1013,O-95866,Montelukast,Prevents asthma & seasonal allergies.,B-2072,2024-06-28,25480,RMS,Mumbai,167,2026-03-31,,Bangalore,Chennai,Hyderabad,Mumbai,0,,,2024-07-25
+M-1011,O-31146,Pantoprazole,Treats stomach & esophagus problems.,B-5474,2020-12-02,41280,Ret,Hyderabad,4,2022-10-14,-790.0,Hyderabad,Pune,Pune,Ahmedabad,0,,8740.0,2021-05-12
+M-1011,O-54824,Pantoprazole,Treats stomach & esophagus problems.,B-9921,2023-12-13,69820,Man,Pune,1,2025-03-01,79.0,Lucknow,Delhi,Pune,Chennai,0,,,2024-03-19
+M-1004,O-70924,Azithromycin,Antibiotic for bacterial infections.,B-9849,2023-02-16,11410,Ret,Chennai,4,2024-05-26,-200.0,Chennai,Jaipur,Ahmedabad,Lucknow,0,,3010.0,2023-05-16
+M-1010,O-75666,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-4601,2021-04-12,90880,Ret,Ahmedabad,21,2023-01-20,-692.0,Ahmedabad,Delhi,Delhi,Chennai,0,,7480.0,2023-01-31
+M-1012,O-23850,Levofloxacin,Antibiotic for bacterial infections.,B-4535,2021-06-04,6220,Man,Mumbai,4,2023-07-02,-529.0,Bangalore,Pune,Mumbai,Ahmedabad,0,,,2023-05-21
+M-1012,O-57521,Levofloxacin,Antibiotic for bacterial infections.,B-5695,2024-03-24,75300,Man,Delhi,25,2025-11-05,328.0,Kolkata,Chennai,Delhi,Bangalore,0,,,2024-09-21
+M-1008,O-98722,Dolo 650,Brand of paracetamol for pain & fever.,B-3625,2021-11-30,3140,Dis,Ahmedabad,16,2023-11-12,-396.0,Kolkata,Ahmedabad,Kolkata,Lucknow,6587,Understock,,2024-05-11
+M-1009,O-73479,Cefixime,Antibiotic for respiratory and UTI infections.,B-5732,2022-08-26,37500,Dis,Hyderabad,28,2024-09-19,-84.0,Mumbai,Hyderabad,Bangalore,Lucknow,22250,Understock,,2022-10-22
+M-1003,O-11436,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3434,2021-06-14,89348,Man,Bangalore,1,2023-08-13,-487.0,Ahmedabad,Pune,Bangalore,Pune,0,,,2023-09-11
+M-1006,O-16111,Omeprazole,Treats GERD and other stomach issues.,B-2223,2021-04-25,75810,Ret,Jaipur,8,2024-01-10,-337.0,Jaipur,Kolkata,Hyderabad,Chennai,0,,9710.0,2021-05-12
+M-1011,O-24063,Pantoprazole,Treats stomach & esophagus problems.,B-3832,2022-12-09,99700,Man,Lucknow,22,2025-03-09,87.0,Ahmedabad,Chennai,Lucknow,Bangalore,0,,,2023-06-02
+M-1003,O-59112,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1189,2024-03-17,15790,Dis,Lucknow,3,2026-06-07,542.0,Lucknow,Lucknow,Kolkata,Kolkata,8661,Understock,,2024-04-08
+M-1014,O-57252,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3017,2022-06-24,60810,Man,Lucknow,25,2024-02-14,-302.0,Lucknow,Hyderabad,Lucknow,Delhi,0,,,2024-06-06
+M-1010,O-86849,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-3394,2020-03-02,86500,Ret,Kolkata,27,2022-10-06,-798.0,Kolkata,Chennai,Ahmedabad,Pune,0,,8400.0,2021-11-03
+M-1003,O-86569,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2849,2022-06-22,48020,Man,Bangalore,30,2023-03-10,-643.0,Jaipur,Chennai,Bangalore,Jaipur,0,,,2023-07-17
+M-1013,O-37801,Montelukast,Prevents asthma & seasonal allergies.,B-4886,2023-05-30,69810,RMS,Chennai,562,2025-02-04,,Lucknow,Chennai,Chennai,Chennai,0,,,2024-03-12
+M-1007,O-11812,Cetirizine,Antihistamine for allergy symptoms.,B-5807,2021-10-03,59820,Dis,Pune,22,2023-03-29,-624.0,Ahmedabad,Pune,Bangalore,Kolkata,35408,Understock,,2024-06-10
+M-1002,O-67625,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-2695,2022-08-04,2380,Ret,Ahmedabad,2,2024-10-27,-46.0,Ahmedabad,Delhi,Hyderabad,Mumbai,0,,1560.0,2023-10-25
+M-1008,O-99269,Dolo 650,Brand of paracetamol for pain & fever.,B-9205,2024-08-05,52590,RMS,Ahmedabad,129,2025-04-10,,Ahmedabad,Hyderabad,Jaipur,Ahmedabad,0,,,2024-08-29
+M-1006,O-75269,Omeprazole,Treats GERD and other stomach issues.,B-9229,2019-12-17,24720,Dis,Hyderabad,23,2020-12-21,-1452.0,Lucknow,Hyderabad,Mumbai,Jaipur,15899,Understock,,2024-07-07
+M-1004,O-94551,Azithromycin,Antibiotic for bacterial infections.,B-3947,2023-07-20,92520,Man,Pune,20,2024-07-14,-151.0,Lucknow,Jaipur,Pune,Chennai,0,,,2024-06-18
+M-1011,O-30447,Pantoprazole,Treats stomach & esophagus problems.,B-1200,2020-04-21,74170,Dis,Mumbai,27,2022-08-02,-863.0,Bangalore,Mumbai,Chennai,Delhi,1152,Understock,,2023-10-11
+M-1008,O-42331,Dolo 650,Brand of paracetamol for pain & fever.,B-9235,2021-09-30,32570,Ret,Hyderabad,18,2024-04-26,-230.0,Hyderabad,Hyderabad,Chennai,Pune,0,,2980.0,2021-11-21
+M-1014,O-84162,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-1704,2020-01-04,77440,RMS,Lucknow,1804,2021-08-09,,Kolkata,Delhi,Hyderabad,Lucknow,0,,,2021-11-17
+M-1005,O-67785,Metformin,Controls blood sugar in type 2 diabetes.,B-6833,2021-12-25,94880,Man,Mumbai,26,2023-10-07,-432.0,Lucknow,Chennai,Mumbai,Lucknow,0,,,2023-02-11
+M-1012,O-61190,Levofloxacin,Antibiotic for bacterial infections.,B-1182,2021-07-05,33270,Ret,Chennai,10,2023-02-01,-680.0,Chennai,Jaipur,Kolkata,Pune,0,,630.0,2021-07-30
+M-1011,O-20415,Pantoprazole,Treats stomach & esophagus problems.,B-9476,2023-03-06,58530,Man,Chennai,30,2023-10-25,-414.0,Mumbai,Lucknow,Chennai,Chennai,0,,,2023-03-24
+M-1006,O-61436,Omeprazole,Treats GERD and other stomach issues.,B-9803,2021-01-17,18380,Dis,Hyderabad,12,2023-09-24,-445.0,Chennai,Hyderabad,Lucknow,Pune,23717,Understock,,2024-09-28
+M-1003,O-34819,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-9988,2021-02-01,90590,Man,Delhi,2,2022-06-05,-921.0,Mumbai,Chennai,Delhi,Delhi,0,,,2024-04-15
+M-1014,O-49572,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2421,2021-12-23,66110,Dis,Bangalore,18,2024-06-15,-180.0,Delhi,Bangalore,Ahmedabad,Mumbai,19125,Understock,,2024-11-24
+M-1014,O-18353,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-7058,2024-10-20,55080,Dis,Delhi,7,2025-05-23,162.0,Hyderabad,Delhi,Ahmedabad,Chennai,16227,Understock,,2024-11-11
+M-1010,O-28921,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-8655,2022-09-17,87190,Dis,Delhi,24,2024-11-07,-35.0,Hyderabad,Delhi,Lucknow,Lucknow,28325,Optimal,,2024-08-17
+M-1009,O-94523,Cefixime,Antibiotic for respiratory and UTI infections.,B-7685,2024-02-02,54070,Ret,Jaipur,12,2026-01-18,402.0,Jaipur,Lucknow,Jaipur,Kolkata,0,,8810.0,2024-08-14
+M-1012,O-62441,Levofloxacin,Antibiotic for bacterial infections.,B-7354,2022-10-10,89150,RMS,Hyderabad,794,2023-05-21,,Hyderabad,Jaipur,Hyderabad,Hyderabad,0,,,2023-12-09
+M-1004,O-58237,Azithromycin,Antibiotic for bacterial infections.,B-5459,2021-04-30,7880,RMS,Delhi,1322,2022-06-03,,Lucknow,Delhi,Bangalore,Delhi,0,,,2024-08-01
+M-1003,O-88409,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3800,2021-05-30,5470,Dis,Delhi,16,2022-02-15,-1031.0,Chennai,Delhi,Chennai,Pune,36242,Understock,,2023-11-17
+M-1011,O-18629,Pantoprazole,Treats stomach & esophagus problems.,B-5231,2020-02-02,23940,RMS,Bangalore,1775,2022-05-04,,Bangalore,Bangalore,Lucknow,Bangalore,0,,,2022-09-19
+M-1002,O-26684,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5921,2020-05-04,35940,Dis,Hyderabad,8,2022-11-28,-745.0,Hyderabad,Hyderabad,Lucknow,Lucknow,22641,Understock,,2021-09-14
+M-1000,O-34928,Paracetamol,Relieves fever & mild to moderate pain.,B-6030,2020-07-24,43890,Man,Pune,29,2023-03-31,-622.0,Bangalore,Bangalore,Pune,Bangalore,0,,,2021-06-03
+M-1003,O-53517,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4086,2024-08-13,41700,Ret,Bangalore,6,2026-12-28,746.0,Bangalore,Ahmedabad,Delhi,Kolkata,0,,3760.0,2024-09-02
+M-1001,O-46242,Amoxicillin,Antibiotic for bacterial infections.,B-6103,2021-05-05,74990,Dis,Pune,9,2024-02-21,-295.0,Mumbai,Pune,Lucknow,Hyderabad,43955,Optimal,,2022-07-21
+M-1014,O-20576,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2379,2022-11-07,64640,Ret,Chennai,30,2024-07-16,-149.0,Chennai,Delhi,Chennai,Lucknow,0,,5250.0,2024-11-06
+M-1014,O-80526,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-2161,2020-12-31,35660,RMS,Pune,1442,2023-04-29,,Delhi,Lucknow,Ahmedabad,Pune,0,,,2021-01-07
+M-1000,O-65679,Paracetamol,Relieves fever & mild to moderate pain.,B-4195,2021-03-06,43010,RMS,Ahmedabad,1377,2022-03-09,,Delhi,Mumbai,Chennai,Ahmedabad,0,,,2022-06-06
+M-1007,O-12994,Cetirizine,Antihistamine for allergy symptoms.,B-9057,2023-07-13,61650,Dis,Kolkata,7,2025-04-05,114.0,Pune,Kolkata,Pune,Ahmedabad,2035,Understock,,2024-08-08
+M-1010,O-72410,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-6687,2020-08-10,93130,RMS,Jaipur,1585,2023-07-21,,Mumbai,Pune,Ahmedabad,Jaipur,0,,,2024-04-04
+M-1012,O-20670,Levofloxacin,Antibiotic for bacterial infections.,B-5612,2023-07-22,57230,RMS,Mumbai,509,2024-03-26,,Mumbai,Pune,Mumbai,Mumbai,0,,,2023-08-25
+M-1011,O-94978,Pantoprazole,Treats stomach & esophagus problems.,B-9405,2022-09-11,1050,Ret,Hyderabad,10,2023-03-19,-634.0,Hyderabad,Mumbai,Jaipur,Jaipur,0,,5340.0,2022-11-20
+M-1000,O-35240,Paracetamol,Relieves fever & mild to moderate pain.,B-3803,2023-08-26,95490,Man,Mumbai,25,2026-06-16,551.0,Chennai,Lucknow,Mumbai,Mumbai,0,,,2024-03-18
+M-1002,O-15351,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-5273,2024-04-06,10350,Man,Delhi,7,2026-06-21,556.0,Hyderabad,Jaipur,Delhi,Chennai,0,,,2024-04-11
+M-1000,O-11744,Paracetamol,Relieves fever & mild to moderate pain.,B-1604,2020-07-24,25270,Dis,Bangalore,11,2021-09-29,-1170.0,Kolkata,Bangalore,Hyderabad,Mumbai,43709,Understock,,2022-10-30
+M-1005,O-52915,Metformin,Controls blood sugar in type 2 diabetes.,B-5926,2022-04-03,11487,Dis,Kolkata,9,2023-06-24,-537.0,Bangalore,Kolkata,Chennai,Pune,40038,Understock,,2024-08-02
+M-1009,O-35413,Cefixime,Antibiotic for respiratory and UTI infections.,B-5492,2022-12-04,84250,RMS,Delhi,739,2024-01-11,,Chennai,Hyderabad,Delhi,Delhi,0,,,2023-10-09
+M-1012,O-64578,Levofloxacin,Antibiotic for bacterial infections.,B-1214,2024-06-25,32560,Ret,Chennai,18,2025-09-19,281.0,Chennai,Delhi,Jaipur,Ahmedabad,0,,1280.0,2024-12-08
+M-1001,O-51358,Amoxicillin,Antibiotic for bacterial infections.,B-8318,2021-08-25,50020,RMS,Kolkata,1205,2022-07-11,,Bangalore,Lucknow,Lucknow,Kolkata,0,,,2021-09-18
+M-1005,O-49654,Metformin,Controls blood sugar in type 2 diabetes.,B-6437,2021-08-09,18470,Ret,Kolkata,25,2022-02-08,-1038.0,Kolkata,Lucknow,Jaipur,Ahmedabad,0,,3450.0,2023-06-08
+M-1002,O-18142,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7307,2020-06-09,37660,Ret,Jaipur,15,2022-11-01,-772.0,Jaipur,Mumbai,Bangalore,Chennai,0,,1320.0,2023-06-15
+M-1009,O-97489,Cefixime,Antibiotic for respiratory and UTI infections.,B-1181,2022-03-30,71650,Ret,Mumbai,12,2023-02-16,-665.0,Mumbai,Lucknow,Delhi,Lucknow,0,,9400.0,2024-06-10
+M-1009,O-57613,Cefixime,Antibiotic for respiratory and UTI infections.,B-1610,2022-01-10,99790,Dis,Delhi,11,2022-07-18,-878.0,Jaipur,Delhi,Jaipur,Lucknow,34913,Optimal,,2023-06-15
+M-1008,O-69142,Dolo 650,Brand of paracetamol for pain & fever.,B-7728,2024-02-06,8700,Man,Kolkata,5,2025-02-10,60.0,Hyderabad,Mumbai,Kolkata,Mumbai,0,,,2024-07-06
+M-1009,O-89824,Cefixime,Antibiotic for respiratory and UTI infections.,B-4977,2020-12-12,13660,Man,Jaipur,13,2023-09-26,-443.0,Kolkata,Ahmedabad,Jaipur,Pune,0,,,2023-12-14
+M-1014,O-29730,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-9335,2020-11-20,45210,RMS,Delhi,1483,2022-02-15,,Delhi,Pune,Bangalore,Delhi,0,,,2024-11-18
+M-1005,O-58530,Metformin,Controls blood sugar in type 2 diabetes.,B-2897,2024-05-21,4890,Dis,Mumbai,6,2025-12-18,371.0,Jaipur,Mumbai,Kolkata,Chennai,40278,Understock,,2024-10-24
+M-1009,O-32991,Cefixime,Antibiotic for respiratory and UTI infections.,B-9942,2021-07-12,55720,Dis,Delhi,23,2023-07-28,-503.0,Pune,Delhi,Chennai,Jaipur,40282,Understock,,2022-09-19
+M-1007,O-25556,Cetirizine,Antihistamine for allergy symptoms.,B-2184,2023-05-13,95400,RMS,Mumbai,579,2024-06-26,,Lucknow,Pune,Lucknow,Mumbai,0,,,2023-12-04
+M-1009,O-85237,Cefixime,Antibiotic for respiratory and UTI infections.,B-8544,2021-10-20,90470,RMS,Jaipur,1149,2022-08-02,,Pune,Jaipur,Ahmedabad,Jaipur,0,,,2023-11-06
+M-1003,O-60916,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8009,2023-06-28,22120,Ret,Jaipur,17,2025-06-25,195.0,Jaipur,Kolkata,Jaipur,Bangalore,0,,3470.0,2024-06-10
+M-1009,O-89255,Cefixime,Antibiotic for respiratory and UTI infections.,B-1610,2020-09-29,73600,Ret,Lucknow,14,2022-07-18,-878.0,Lucknow,Ahmedabad,Ahmedabad,Ahmedabad,0,,5760.0,2021-08-18
+M-1005,O-79398,Metformin,Controls blood sugar in type 2 diabetes.,B-1200,2022-12-07,90800,Ret,Kolkata,1,2023-10-16,-423.0,Kolkata,Hyderabad,Chennai,Jaipur,0,,1040.0,2023-10-27
+M-1012,O-38200,Levofloxacin,Antibiotic for bacterial infections.,B-3145,2024-04-16,38040,Dis,Ahmedabad,19,2026-08-29,625.0,Mumbai,Ahmedabad,Mumbai,Pune,30814,Understock,,2024-11-03
+M-1008,O-51468,Dolo 650,Brand of paracetamol for pain & fever.,B-4427,2022-11-03,43820,Ret,Ahmedabad,29,2023-08-12,-488.0,Ahmedabad,Hyderabad,Pune,Pune,0,,8090.0,2023-12-15
+M-1008,O-56064,Dolo 650,Brand of paracetamol for pain & fever.,B-4766,2020-06-14,72780,Ret,Mumbai,20,2022-12-11,-732.0,Mumbai,Pune,Chennai,Mumbai,0,,3980.0,2022-06-15
+M-1003,O-76139,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-3956,2021-02-14,30410,RMS,Bangalore,1397,2022-05-28,,Kolkata,Ahmedabad,Jaipur,Bangalore,0,,,2022-08-27
+M-1004,O-69607,Azithromycin,Antibiotic for bacterial infections.,B-8090,2021-07-07,58280,Ret,Pune,6,2023-03-26,-627.0,Pune,Hyderabad,Mumbai,Hyderabad,0,,2620.0,2023-07-11
+M-1012,O-89065,Levofloxacin,Antibiotic for bacterial infections.,B-7494,2021-06-17,23400,RMS,Mumbai,1274,2024-04-08,,Bangalore,Lucknow,Mumbai,Mumbai,0,,,2024-01-13
+M-1007,O-71220,Cetirizine,Antihistamine for allergy symptoms.,B-5814,2020-01-18,51390,Dis,Jaipur,5,2020-08-19,-1576.0,Ahmedabad,Jaipur,Bangalore,Ahmedabad,37639,Understock,,2021-08-03
+M-1004,O-79182,Azithromycin,Antibiotic for bacterial infections.,B-8726,2024-10-03,3580,RMS,Bangalore,70,2025-04-08,,Kolkata,Delhi,Lucknow,Bangalore,0,,,2024-11-20
+M-1003,O-66406,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-6228,2021-06-21,112462,Man,Lucknow,11,2022-10-01,-803.0,Mumbai,Lucknow,Lucknow,Pune,0,,,2022-03-24
+M-1000,O-99023,Paracetamol,Relieves fever & mild to moderate pain.,B-4180,2023-10-12,7350,Man,Mumbai,30,2024-10-31,-42.0,Ahmedabad,Ahmedabad,Mumbai,Delhi,0,,,2024-08-16
+M-1004,O-85291,Azithromycin,Antibiotic for bacterial infections.,B-3240,2021-05-25,20060,RMS,Hyderabad,1297,2023-02-18,,Delhi,Chennai,Lucknow,Hyderabad,0,,,2021-09-15
+M-1000,O-71357,Paracetamol,Relieves fever & mild to moderate pain.,B-6426,2021-07-23,49120,Man,Delhi,29,2023-05-06,-586.0,Pune,Kolkata,Delhi,Kolkata,0,,,2024-04-17
+M-1002,O-22626,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7307,2020-12-26,43910,Dis,Bangalore,4,2022-11-01,-772.0,Kolkata,Bangalore,Jaipur,Kolkata,34535,Understock,,2023-09-24
+M-1007,O-58073,Cetirizine,Antihistamine for allergy symptoms.,B-9687,2022-01-04,90360,Ret,Bangalore,1,2024-12-17,5.0,Bangalore,Delhi,Delhi,Chennai,0,,3670.0,2023-03-09
+M-1003,O-71955,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-8809,2020-02-07,64140,Ret,Lucknow,11,2020-08-21,-1574.0,Lucknow,Delhi,Delhi,Hyderabad,0,,8990.0,2024-05-16
+M-1010,O-72474,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5293,2023-02-27,90820,RMS,Bangalore,654,2025-05-28,,Bangalore,Bangalore,Kolkata,Bangalore,0,,,2024-04-06
+M-1005,O-28956,Metformin,Controls blood sugar in type 2 diabetes.,B-8502,2021-01-03,4580,RMS,Delhi,1439,2022-07-16,,Lucknow,Pune,Bangalore,Delhi,0,,,2023-12-30
+M-1001,O-43196,Amoxicillin,Antibiotic for bacterial infections.,B-9086,2023-04-28,76190,Dis,Mumbai,16,2024-07-21,-144.0,Bangalore,Mumbai,Chennai,Mumbai,40296,Optimal,,2024-10-31
+M-1012,O-32939,Levofloxacin,Antibiotic for bacterial infections.,B-5409,2022-01-26,74050,Dis,Lucknow,5,2023-02-17,-664.0,Pune,Lucknow,Ahmedabad,Ahmedabad,47038,Optimal,,2024-11-02
+M-1002,O-99170,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7016,2021-04-01,26390,RMS,Lucknow,1351,2023-03-31,,Hyderabad,Ahmedabad,Pune,Lucknow,0,,,2023-05-28
+M-1012,O-18104,Levofloxacin,Antibiotic for bacterial infections.,B-4343,2021-06-08,59850,Dis,Kolkata,29,2024-03-01,-286.0,Kolkata,Kolkata,Chennai,Lucknow,48404,Optimal,,2024-10-19
+M-1010,O-88821,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2017,2023-08-02,3600,Ret,Mumbai,24,2024-10-07,-66.0,Mumbai,Jaipur,Bangalore,Jaipur,0,,3920.0,2023-09-10
+M-1007,O-16774,Cetirizine,Antihistamine for allergy symptoms.,B-7568,2022-01-12,63490,Dis,Chennai,1,2023-10-05,-434.0,Bangalore,Chennai,Chennai,Ahmedabad,7958,Understock,,2022-07-01
+M-1002,O-81005,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-9844,2023-02-02,96360,Man,Ahmedabad,17,2024-09-13,-90.0,Mumbai,Ahmedabad,Ahmedabad,Ahmedabad,0,,,2023-06-12
+M-1011,O-26683,Pantoprazole,Treats stomach & esophagus problems.,B-1225,2022-03-25,85020,Man,Jaipur,28,2024-08-20,-114.0,Chennai,Delhi,Jaipur,Jaipur,0,,,2022-09-08
+M-1002,O-80605,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6072,2023-01-12,99520,RMS,Delhi,700,2024-01-28,,Delhi,Ahmedabad,Hyderabad,Delhi,0,,,2024-01-22
+M-1005,O-78989,Metformin,Controls blood sugar in type 2 diabetes.,B-3754,2023-02-01,32230,Dis,Lucknow,28,2025-05-05,144.0,Mumbai,Lucknow,Mumbai,Jaipur,43807,Understock,,2024-08-09
+M-1001,O-62222,Amoxicillin,Antibiotic for bacterial infections.,B-7150,2023-07-06,52656,Dis,Delhi,24,2024-10-02,-71.0,Ahmedabad,Delhi,Bangalore,Lucknow,6984,Understock,,2024-06-15
+M-1007,O-60034,Cetirizine,Antihistamine for allergy symptoms.,B-2005,2024-03-28,69940,Ret,Chennai,16,2026-07-18,583.0,Chennai,Mumbai,Mumbai,Jaipur,0,,2990.0,2024-09-15
+M-1002,O-38172,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-8189,2021-07-16,51970,Man,Jaipur,29,2023-08-15,-485.0,Lucknow,Hyderabad,Jaipur,Mumbai,0,,,2023-10-29
+M-1007,O-30682,Cetirizine,Antihistamine for allergy symptoms.,B-7039,2022-08-02,46810,Ret,Ahmedabad,13,2024-01-10,-337.0,Ahmedabad,Ahmedabad,Lucknow,Mumbai,0,,8800.0,2023-05-26
+M-1008,O-34192,Dolo 650,Brand of paracetamol for pain & fever.,B-1969,2021-02-26,20730,RMS,Lucknow,1385,2023-05-12,,Hyderabad,Lucknow,Ahmedabad,Lucknow,0,,,2023-06-19
+M-1011,O-11073,Pantoprazole,Treats stomach & esophagus problems.,B-4321,2020-04-21,14890,Dis,Jaipur,4,2022-06-02,-924.0,Mumbai,Jaipur,Kolkata,Ahmedabad,22370,Understock,,2020-12-18
+M-1002,O-74749,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7233,2020-10-19,89380,RMS,Lucknow,1515,2022-03-28,,Bangalore,Jaipur,Jaipur,Lucknow,0,,,2024-04-24
+M-1003,O-14822,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-2411,2022-01-11,74040,Man,Mumbai,6,2023-05-17,-575.0,Mumbai,Pune,Mumbai,Jaipur,0,,,2023-07-14
+M-1000,O-97451,Paracetamol,Relieves fever & mild to moderate pain.,B-4625,2024-09-03,42470,Man,Lucknow,16,2027-07-27,957.0,Hyderabad,Mumbai,Lucknow,Delhi,0,,,2024-09-14
+M-1000,O-93749,Paracetamol,Relieves fever & mild to moderate pain.,B-7736,2022-03-19,91700,Dis,Jaipur,9,2024-04-26,-230.0,Lucknow,Jaipur,Delhi,Hyderabad,4180,Understock,,2023-03-02
+M-1004,O-93097,Azithromycin,Antibiotic for bacterial infections.,B-2924,2024-12-06,25630,Dis,Chennai,19,2026-11-21,709.0,Delhi,Chennai,Delhi,Chennai,14303,Understock,,2024-12-07
+M-1000,O-90151,Paracetamol,Relieves fever & mild to moderate pain.,B-6255,2020-08-17,64150,RMS,Bangalore,1578,2021-12-31,,Lucknow,Pune,Hyderabad,Bangalore,0,,,2022-12-26
+M-1014,O-39517,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3837,2021-11-15,14970,RMS,Hyderabad,1123,2024-04-13,,Delhi,Hyderabad,Lucknow,Hyderabad,0,,,2024-08-11
+M-1010,O-71352,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-1692,2023-01-01,1590,Dis,Chennai,18,2024-09-17,-86.0,Chennai,Chennai,Lucknow,Kolkata,47370,Understock,,2023-04-09
+M-1000,O-50541,Paracetamol,Relieves fever & mild to moderate pain.,B-3091,2024-07-12,25570,Dis,Delhi,2,2025-05-28,167.0,Hyderabad,Delhi,Jaipur,Hyderabad,10812,Understock,,2024-09-10
+M-1014,O-84657,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-3469,2023-02-21,26840,Ret,Hyderabad,28,2024-01-31,-316.0,Hyderabad,Hyderabad,Bangalore,Kolkata,0,,8160.0,2024-04-25
+M-1003,O-30019,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-4986,2022-08-29,90600,Ret,Jaipur,30,2023-09-12,-457.0,Jaipur,Delhi,Bangalore,Ahmedabad,0,,4130.0,2024-11-25
+M-1006,O-90187,Omeprazole,Treats GERD and other stomach issues.,B-2996,2022-03-17,54290,Man,Lucknow,2,2023-11-17,-391.0,Ahmedabad,Delhi,Lucknow,Delhi,0,,,2023-04-14
+M-1001,O-19390,Amoxicillin,Antibiotic for bacterial infections.,B-4760,2023-07-14,46380,Man,Kolkata,3,2025-09-24,286.0,Bangalore,Lucknow,Kolkata,Delhi,0,,,2024-07-08
+M-1002,O-19005,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-6996,2023-03-31,103763,Dis,Ahmedabad,20,2025-09-20,282.0,Chennai,Ahmedabad,Chennai,Chennai,10389,Optimal,,2024-11-15
+M-1011,O-85060,Pantoprazole,Treats stomach & esophagus problems.,B-4998,2024-08-08,11400,Man,Kolkata,8,2026-06-11,546.0,Kolkata,Mumbai,Kolkata,Chennai,0,,,2024-09-05
+M-1010,O-35728,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-9338,2019-12-14,29090,RMS,Bangalore,1825,2022-08-19,,Kolkata,Delhi,Lucknow,Bangalore,0,,,2020-11-22
+M-1002,O-32150,Ciprofloxacin,"Treats bacterial infections, especially UTI.",B-7837,2021-09-26,71240,Man,Chennai,12,2023-10-22,-417.0,Delhi,Mumbai,Chennai,Kolkata,0,,,2022-07-13
+M-1001,O-56415,Amoxicillin,Antibiotic for bacterial infections.,B-3545,2023-12-15,35570,Man,Jaipur,9,2024-07-29,-136.0,Delhi,Hyderabad,Jaipur,Mumbai,0,,,2024-12-11
+M-1008,O-82459,Dolo 650,Brand of paracetamol for pain & fever.,B-5818,2020-12-08,28785,Ret,Chennai,3,2023-10-10,-429.0,Chennai,Bangalore,Bangalore,Lucknow,0,,9480.0,2024-08-11
+M-1013,O-28719,Montelukast,Prevents asthma & seasonal allergies.,B-6424,2021-06-12,80140,Man,Ahmedabad,19,2024-01-25,-322.0,Mumbai,Mumbai,Ahmedabad,Hyderabad,0,,,2023-03-14
+M-1001,O-22557,Amoxicillin,Antibiotic for bacterial infections.,B-4412,2020-03-24,35350,RMS,Mumbai,1724,2023-03-13,,Kolkata,Delhi,Kolkata,Mumbai,0,,,2021-09-27
+M-1001,O-19372,Amoxicillin,Antibiotic for bacterial infections.,B-3277,2023-11-06,72430,Man,Delhi,4,2025-05-16,155.0,Bangalore,Lucknow,Delhi,Pune,0,,,2024-09-26
+M-1012,O-98652,Levofloxacin,Antibiotic for bacterial infections.,B-6161,2021-03-08,68360,RMS,Mumbai,1375,2022-05-02,,Jaipur,Hyderabad,Chennai,Mumbai,0,,,2021-12-03
+M-1001,O-49641,Amoxicillin,Antibiotic for bacterial infections.,B-7926,2024-07-31,60432,Ret,Hyderabad,20,2026-05-28,532.0,Hyderabad,Kolkata,Mumbai,Jaipur,0,,6310.0,2024-08-02
+M-1010,O-82556,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-5229,2024-01-07,55530,Ret,Ahmedabad,27,2026-08-06,602.0,Ahmedabad,Chennai,Lucknow,Jaipur,0,,3370.0,2024-03-24
+M-1012,O-22943,Levofloxacin,Antibiotic for bacterial infections.,B-5491,2021-03-03,2880,Man,Lucknow,23,2023-05-14,-578.0,Delhi,Pune,Lucknow,Bangalore,0,,,2021-10-11
+M-1008,O-98967,Dolo 650,Brand of paracetamol for pain & fever.,B-4630,2022-04-24,40660,Man,Chennai,9,2023-07-30,-501.0,Jaipur,Lucknow,Chennai,Lucknow,0,,,2024-12-11
+M-1008,O-22471,Dolo 650,Brand of paracetamol for pain & fever.,B-3153,2021-08-21,39910,Man,Kolkata,27,2023-07-24,-507.0,Mumbai,Ahmedabad,Kolkata,Delhi,0,,,2023-09-02
+M-1012,O-62785,Levofloxacin,Antibiotic for bacterial infections.,B-7575,2023-12-08,87540,RMS,Delhi,370,2024-11-21,,Jaipur,Pune,Ahmedabad,Delhi,0,,,2024-04-14
+M-1003,O-31002,Ibuprofen,"NSAID for pain, fever, and inflammation.",B-1430,2022-03-20,45020,Dis,Pune,30,2025-03-17,95.0,Jaipur,Pune,Ahmedabad,Delhi,42660,Understock,,2022-05-31
+M-1014,O-32738,Atorvastatin,Lowers cholesterol and reduces heart disease risk.,B-4001,2023-09-11,42050,Man,Lucknow,4,2025-03-05,83.0,Kolkata,Kolkata,Lucknow,Chennai,0,,,2024-01-08
+M-1008,O-44274,Dolo 650,Brand of paracetamol for pain & fever.,B-8480,2024-10-07,24780,Man,Chennai,5,2027-09-24,1016.0,Mumbai,Jaipur,Chennai,Chennai,0,,,2024-11-19
+M-1010,O-33504,Aspirin,"Reduces pain, fever, inflammation, and prevents heart attacks.",B-2627,2022-06-30,5500,Ret,Bangalore,23,2023-05-10,-582.0,Bangalore,Lucknow,Mumbai,Bangalore,0,,4720.0,2023-09-18
+M-1013,O-75492,Montelukast,Prevents asthma & seasonal allergies.,B-8247,2022-04-01,57000,Dis,Chennai,19,2024-07-24,-141.0,Delhi,Chennai,Kolkata,Kolkata,1160,Understock,,2024-05-04
+M-1000,O-84818,Paracetamol,Relieves fever & mild to moderate pain.,B-2327,2024-02-29,112200,Dis,Pune,9,2026-09-08,635.0,Ahmedabad,Pune,Jaipur,Pune,19016,Optimal,,2024-12-03
+M-1009,O-46058,Cefixime,Antibiotic for respiratory and UTI infections.,B-3807,2023-05-21,92550,RMS,Delhi,571,2026-02-08,,Mumbai,Lucknow,Mumbai,Delhi,0,,,2024-07-31
+M-1012,O-58376,Levofloxacin,Antibiotic for bacterial infections.,B-4622,2023-12-08,81750,Man,Pune,21,2026-10-19,676.0,Pune,Lucknow,Pune,Ahmedabad,0,,,2024-10-21
+M-1008,O-67100,Dolo 650,Brand of paracetamol for pain & fever.,B-9588,2022-04-16,19240,Dis,Lucknow,30,2023-04-29,-593.0,Pune,Lucknow,Hyderabad,Mumbai,24098,Understock,,2024-11-04
+M-1004,O-51650,Azithromycin,Antibiotic for bacterial infections.,B-3828,2023-01-20,92920,Dis,Hyderabad,27,2024-03-04,-283.0,Mumbai,Hyderabad,Lucknow,Lucknow,11431,Optimal,,2024-06-01
+M-1012,O-27825,Levofloxacin,Antibiotic for bacterial infections.,B-3267,2020-04-28,87800,Ret,Kolkata,1,2023-04-24,-598.0,Kolkata,Lucknow,Jaipur,Lucknow,0,,8690.0,2020-07-01
